@@ -1,0 +1,1001 @@
+customer_id,first_name,last_name,email,active,address,district,postal_code,city,country,rental_date,return_date,amount,payment_date,rental_duration
+130,charlotte,hunter,charlotte.hunter@sakilacustomer.org,1,"758 junan lane",gois,82639,"águas lindas de goiás",brazil,"2005-05-24 22:53:30","2005-05-26 22:04:30",2.99,"2005-05-24 22:53:30",2
+459,tommy,collazo,tommy.collazo@sakilacustomer.org,1,"76 kermanshah manor",esfahan,23343,qomsheh,iran,"2005-05-24 22:54:33","2005-05-28 19:40:33",2.99,"2005-05-24 22:54:33",4
+408,manuel,murrell,manuel.murrell@sakilacustomer.org,1,"692 amroha drive",northern,35575,jaffna,"sri lanka","2005-05-24 23:03:39","2005-06-01 22:12:39",3.99,"2005-05-24 23:03:39",8
+333,andrew,purdy,andrew.purdy@sakilacustomer.org,1,"431 székesfehérvár avenue",baki,57828,baku,azerbaijan,"2005-05-24 23:04:41","2005-06-03 01:43:41",4.99,"2005-05-24 23:04:41",10
+222,delores,hansen,delores.hansen@sakilacustomer.org,1,"810 palghat (palakkad) boulevard",jaroslavl,73431,jaroslavl,"russian federation","2005-05-24 23:05:21","2005-06-02 04:33:21",6.99,"2005-05-24 23:05:21",9
+549,nelson,christenson,nelson.christenson@sakilacustomer.org,1,"1764 jalib al-shuyukh parkway",galicia,77642,"santiago de compostela",spain,"2005-05-24 23:08:07","2005-05-27 01:32:07",0.99,"2005-05-24 23:08:07",3
+269,cassandra,walters,cassandra.walters@sakilacustomer.org,1,"920 kumbakonam loop",california,75090,salinas,"united states","2005-05-24 23:11:53","2005-05-29 20:34:53",1.99,"2005-05-24 23:11:53",5
+239,minnie,romero,minnie.romero@sakilacustomer.org,1,"47 syktyvkar lane","west java",22236,ciomas,indonesia,"2005-05-24 23:31:46","2005-05-27 23:33:46",4.99,"2005-05-24 23:31:46",3
+126,ellen,simpson,ellen.simpson@sakilacustomer.org,1,"1666 qomsheh drive","são paulo",66255,poá,brazil,"2005-05-25 00:00:40","2005-05-28 00:22:40",4.99,"2005-05-25 00:00:40",3
+399,danny,isom,danny.isom@sakilacustomer.org,1,"734 béchar place",punjab,30586,okara,pakistan,"2005-05-25 00:02:21","2005-05-31 22:44:21",5.99,"2005-05-25 00:02:21",6
+142,april,burns,april.burns@sakilacustomer.org,1,"483 ljubertsy parkway",scotland,60562,dundee,"united kingdom","2005-05-25 00:09:02","2005-06-02 20:56:02",8.99,"2005-05-25 00:09:02",8
+261,deanna,byrd,deanna.byrd@sakilacustomer.org,1,"862 xintai lane","cagayan valley",30065,tuguegarao,philippines,"2005-05-25 00:19:27","2005-05-30 05:44:27",4.99,"2005-05-25 00:19:27",5
+334,raymond,mcwhorter,raymond.mcwhorter@sakilacustomer.org,1,"503 sogamoso loop",sumqayit,49812,sumqayit,azerbaijan,"2005-05-25 00:22:55","2005-05-30 04:28:55",6.99,"2005-05-25 00:22:55",5
+446,theodore,culp,theodore.culp@sakilacustomer.org,0,"1704 tambaram manor","west bengali",2834,uluberia,india,"2005-05-25 00:31:15","2005-05-26 02:56:15",0.99,"2005-05-25 00:31:15",1
+319,ronald,weiner,ronald.weiner@sakilacustomer.org,1,"1145 vilnius manor",mxico,73170,"san felipe del progreso",mexico,"2005-05-25 00:39:22","2005-06-03 03:30:22",9.99,"2005-05-25 00:39:22",9
+316,steven,curley,steven.curley@sakilacustomer.org,1,"651 pathankot loop",maharashtra,59811,miraj,india,"2005-05-25 00:43:11","2005-05-26 04:42:11",4.99,"2005-05-25 00:43:11",1
+575,isaac,oglesby,isaac.oglesby@sakilacustomer.org,1,"186 skikda lane",morelos,89422,cuernavaca,mexico,"2005-05-25 01:06:36","2005-05-27 00:43:36",2.99,"2005-05-25 01:06:36",2
+19,ruth,martinez,ruth.martinez@sakilacustomer.org,1,"1417 lancaster avenue","northern cape",72192,kimberley,"south africa","2005-05-25 01:10:47","2005-05-31 06:35:47",0.99,"2005-05-25 01:10:47",6
+456,ronnie,ricketts,ronnie.ricketts@sakilacustomer.org,1,"1889 valparai way",ziguinchor,75559,ziguinchor,senegal,"2005-05-25 01:17:24","2005-05-31 06:00:24",4.99,"2005-05-25 01:17:24",6
+185,roberta,harper,roberta.harper@sakilacustomer.org,1,"927 barcelona street","chaharmahal va bakht",65121,"shahr-e kord",iran,"2005-05-25 01:48:41","2005-05-27 02:20:41",2.99,"2005-05-25 01:48:41",2
+388,craig,morrell,craig.morrell@sakilacustomer.org,1,"717 changzhou lane","southern tagalog",21615,cavite,philippines,"2005-05-25 01:59:46","2005-05-26 01:01:46",4.99,"2005-05-25 01:59:46",1
+509,raul,fortier,raul.fortier@sakilacustomer.org,1,"1747 rustenburg place",bihar,51369,chapra,india,"2005-05-25 02:19:23","2005-05-26 04:52:23",4.99,"2005-05-25 02:19:23",1
+438,barry,lovelace,barry.lovelace@sakilacustomer.org,1,"1836 korla parkway",copperbelt,55405,kitwe,zambia,"2005-05-25 02:40:21","2005-05-29 06:34:21",4.99,"2005-05-25 02:40:21",4
+350,juan,fraley,juan.fraley@sakilacustomer.org,1,"469 nakhon sawan street",tuvassia,58866,tšeboksary,"russian federation","2005-05-25 02:53:02","2005-05-27 01:15:02",4.99,"2005-05-25 02:53:02",2
+37,pamela,baker,pamela.baker@sakilacustomer.org,1,"1440 fukuyama loop",henan,47929,nanyang,china,"2005-05-25 03:21:20","2005-05-27 21:25:20",0.99,"2005-05-25 03:21:20",2
+371,billy,poulin,billy.poulin@sakilacustomer.org,1,"1061 ede avenue","southern tagalog",57810,cabuyao,philippines,"2005-05-25 03:36:50","2005-05-31 00:34:50",3.99,"2005-05-25 03:36:50",6
+301,robert,baughman,robert.baughman@sakilacustomer.org,1,"1883 maikop lane",kaliningrad,68469,kaliningrad,"russian federation","2005-05-25 03:41:50","2005-05-30 01:13:50",4.99,"2005-05-25 03:41:50",5
+232,constance,reid,constance.reid@sakilacustomer.org,1,"885 yingkou manor",kaduna,31390,zaria,nigeria,"2005-05-25 03:42:37","2005-05-26 09:26:37",4.99,"2005-05-25 03:42:37",1
+44,marie,turner,marie.turner@sakilacustomer.org,1,"1998 halifax drive",lipetsk,76022,lipetsk,"russian federation","2005-05-25 03:47:12","2005-05-30 00:31:12",0.99,"2005-05-25 03:47:12",5
+430,ray,houle,ray.houle@sakilacustomer.org,1,"740 udaipur lane","nizni novgorod",33505,dzerzinsk,"russian federation","2005-05-25 04:01:32","2005-05-30 03:12:32",2.99,"2005-05-25 04:01:32",5
+369,fred,wheat,fred.wheat@sakilacustomer.org,1,"433 florencia street",chihuahua,91330,juárez,mexico,"2005-05-25 04:05:17","2005-05-30 07:15:17",4.99,"2005-05-25 04:05:17",5
+230,joy,george,joy.george@sakilacustomer.org,1,"1256 bislig boulevard",botosani,50598,botosani,romania,"2005-05-25 04:06:21","2005-05-25 23:55:21",0.99,"2005-05-25 04:06:21",0
+272,kay,caldwell,kay.caldwell@sakilacustomer.org,1,"85 san felipe de puerto plata drive",shandong,46063,yantai,china,"2005-05-25 04:18:51","2005-05-27 03:58:51",0.99,"2005-05-25 04:18:51",2
+597,freddie,duggan,freddie.duggan@sakilacustomer.org,1,"1103 quilmes boulevard",piura,52137,sullana,peru,"2005-05-25 04:19:28","2005-05-29 00:10:28",2.99,"2005-05-25 04:19:28",4
+484,roberto,vu,roberto.vu@sakilacustomer.org,1,"1297 alvorada parkway",ningxia,11839,yinchuan,china,"2005-05-25 04:24:36","2005-05-27 07:02:36",4.99,"2005-05-25 04:24:36",2
+88,bonnie,hughes,bonnie.hughes@sakilacustomer.org,1,"1942 ciparay parkway",cheju,82624,cheju,"south korea","2005-05-25 04:36:26","2005-05-29 00:31:26",2.99,"2005-05-25 04:36:26",4
+535,javier,elrod,javier.elrod@sakilacustomer.org,1,"195 ilorin street",chari-baguirmi,49250,ndjamna,chad,"2005-05-25 04:44:31","2005-05-29 01:03:31",0.99,"2005-05-25 04:44:31",4
+302,michael,silverman,michael.silverman@sakilacustomer.org,1,"1908 gaziantep place",liaoning,58979,tiefa,china,"2005-05-25 04:47:44","2005-06-01 00:58:44",4.99,"2005-05-25 04:47:44",7
+207,gertrude,castillo,gertrude.castillo@sakilacustomer.org,1,"850 salala loop",kitaa,10800,nuuk,greenland,"2005-05-25 04:51:46","2005-05-31 03:14:46",0.99,"2005-05-25 04:51:46",6
+413,marvin,yee,marvin.yee@sakilacustomer.org,1,"126 acuña parkway","west bengali",58888,"berhampore (baharampur)",india,"2005-05-25 05:09:04","2005-05-27 23:12:04",4.99,"2005-05-25 05:09:04",2
+174,yvonne,watkins,yvonne.watkins@sakilacustomer.org,1,"1848 salala boulevard",miranda,25220,"ocumare del tuy",venezuela,"2005-05-25 05:12:29","2005-06-02 00:28:29",5.99,"2005-05-25 05:12:29",8
+523,harvey,guajardo,harvey.guajardo@sakilacustomer.org,1,"600 purnea (purnia) avenue","nghe an",18043,vinh,vietnam,"2005-05-25 05:24:58","2005-05-31 02:47:58",4.99,"2005-05-25 05:24:58",6
+532,neil,renner,neil.renner@sakilacustomer.org,1,"1817 livorno way","khanh hoa",79401,"cam ranh",vietnam,"2005-05-25 05:39:25","2005-05-26 06:54:25",2.99,"2005-05-25 05:39:25",1
+207,gertrude,castillo,gertrude.castillo@sakilacustomer.org,1,"850 salala loop",kitaa,10800,nuuk,greenland,"2005-05-25 05:53:23","2005-05-29 10:56:23",0.99,"2005-05-25 05:53:23",4
+436,troy,quigley,troy.quigley@sakilacustomer.org,1,"983 santa fé way","british colombia",47472,vancouver,canada,"2005-05-25 05:59:39","2005-06-02 09:56:39",7.99,"2005-05-25 05:59:39",8
+7,maria,miller,maria.miller@sakilacustomer.org,1,"900 santiago de compostela parkway","central serbia",93896,kragujevac,yugoslavia,"2005-05-25 06:04:08","2005-06-02 08:18:08",5.99,"2005-05-25 06:04:08",8
+35,virginia,green,virginia.green@sakilacustomer.org,1,"391 callao drive",midi-pyrnes,34021,toulouse,france,"2005-05-25 06:05:20","2005-05-30 03:04:20",3.99,"2005-05-25 06:05:20",5
+282,jenny,castro,jenny.castro@sakilacustomer.org,1,"1405 chisinau place",ponce,8160,ponce,"puerto rico","2005-05-25 06:20:46","2005-06-02 05:42:46",1.99,"2005-05-25 06:20:46",8
+498,gene,sanborn,gene.sanborn@sakilacustomer.org,1,"1416 san juan bautista tuxtepec avenue",zufar,50592,salala,oman,"2005-05-25 06:39:35","2005-05-30 10:12:35",2.99,"2005-05-25 06:39:35",5
+18,carol,garcia,carol.garcia@sakilacustomer.org,1,"320 brest avenue",kaduna,43331,kaduna,nigeria,"2005-05-25 06:44:53","2005-05-28 11:28:53",2.99,"2005-05-25 06:44:53",3
+256,mabel,holland,mabel.holland@sakilacustomer.org,1,"51 laredo avenue",sagaing,68146,monywa,myanmar,"2005-05-25 06:49:10","2005-05-26 06:42:10",4.99,"2005-05-25 06:49:10",1
+507,edgar,rhoads,edgar.rhoads@sakilacustomer.org,1,"1269 ipoh avenue",eskisehir,54674,eskisehir,turkey,"2005-05-25 06:51:29","2005-05-31 01:27:29",0.99,"2005-05-25 06:51:29",6
+569,dave,gardiner,dave.gardiner@sakilacustomer.org,1,"1052 pathankot avenue",sichuan,77397,leshan,china,"2005-05-25 07:19:16","2005-05-27 05:19:16",4.99,"2005-05-25 07:19:16",2
+291,toni,holt,toni.holt@sakilacustomer.org,1,"1936 cumaná avenue",virginia,61195,roanoke,"united states","2005-05-25 07:23:25","2005-06-01 05:05:25",4.99,"2005-05-25 07:23:25",7
+131,monica,hicks,monica.hicks@sakilacustomer.org,1,"1752 são leopoldo parkway",taka-karpatia,14014,mukatševe,ukraine,"2005-05-25 08:26:13","2005-05-30 10:57:13",2.99,"2005-05-25 08:26:13",5
+511,chester,benner,chester.benner@sakilacustomer.org,1,"1574 goiânia boulevard",heilongjiang,39529,suihua,china,"2005-05-25 08:28:11","2005-05-26 14:21:11",2.99,"2005-05-25 08:28:11",1
+6,jennifer,davis,jennifer.davis@sakilacustomer.org,1,"1795 santiago de compostela way",texas,18743,laredo,"united states","2005-05-25 08:43:32","2005-05-29 06:42:32",4.99,"2005-05-25 08:43:32",4
+323,matthew,mahan,matthew.mahan@sakilacustomer.org,1,"479 san felipe del progreso avenue",morelos,54949,cuautla,mexico,"2005-05-25 08:53:14","2005-05-28 14:40:14",4.99,"2005-05-25 08:53:14",3
+408,manuel,murrell,manuel.murrell@sakilacustomer.org,1,"692 amroha drive",northern,35575,jaffna,"sri lanka","2005-05-25 08:56:42","2005-06-01 09:52:42",5.99,"2005-05-25 08:56:42",7
+470,gordon,allard,gordon.allard@sakilacustomer.org,1,"434 ourense (orense) manor",hodeida,14122,hodeida,yemen,"2005-05-25 08:58:25","2005-05-30 14:14:25",2.99,"2005-05-25 08:58:25",5
+250,jo,fowler,jo.fowler@sakilacustomer.org,1,"786 stara zagora way","oyo & osun",98332,oyo,nigeria,"2005-05-25 09:01:57","2005-06-02 07:22:57",5.99,"2005-05-25 09:01:57",8
+419,chad,carbone,chad.carbone@sakilacustomer.org,1,"1948 bayugan parkway",bihar,60622,katihar,india,"2005-05-25 09:18:52","2005-05-30 10:55:52",2.99,"2005-05-25 09:18:52",5
+383,martin,bales,martin.bales@sakilacustomer.org,1,"368 huánuco boulevard",namibe,17165,namibe,angola,"2005-05-25 09:19:16","2005-05-27 04:24:16",0.99,"2005-05-25 09:19:16",2
+368,harry,arce,harry.arce@sakilacustomer.org,0,"1922 miraj way",esfahan,13203,najafabad,iran,"2005-05-25 09:21:29","2005-06-03 11:31:29",5.99,"2005-05-25 09:21:29",9
+346,arthur,simpkins,arthur.simpkins@sakilacustomer.org,1,"1157 nyeri loop",adygea,56380,maikop,"russian federation","2005-05-25 09:32:03","2005-05-29 14:21:03",4.99,"2005-05-25 09:32:03",4
+86,jacqueline,long,jacqueline.long@sakilacustomer.org,1,"870 ashqelon loop",songkhla,84931,songkhla,thailand,"2005-05-25 09:35:12","2005-05-29 04:16:12",1.99,"2005-05-25 09:35:12",4
+119,sherry,marshall,sherry.marshall@sakilacustomer.org,1,"1987 coacalco de berriozábal loop",al-qalyubiya,96065,"shubra al-khayma",egypt,"2005-05-25 09:41:01","2005-05-27 13:46:01",0.99,"2005-05-25 09:41:01",2
+120,sylvia,ortiz,sylvia.ortiz@sakilacustomer.org,1,"241 mosul lane",risaralda,76157,"dos quebradas",colombia,"2005-05-25 09:47:31","2005-05-31 10:20:31",7.99,"2005-05-25 09:47:31",6
+305,richard,mccrary,richard.mccrary@sakilacustomer.org,1,"913 coacalco de berriozábal loop",texas,42141,arlington,"united states","2005-05-25 10:10:14","2005-05-27 14:02:14",2.99,"2005-05-25 10:10:14",2
+73,beverly,brooks,beverly.brooks@sakilacustomer.org,1,"1947 poços de caldas boulevard",chiayi,60951,chiayi,taiwan,"2005-05-25 10:15:23","2005-05-27 05:56:23",2.99,"2005-05-25 10:15:23",2
+100,robin,hayes,robin.hayes@sakilacustomer.org,1,"1913 kamakura place",lipetsk,97287,jelets,"russian federation","2005-05-25 10:26:39","2005-05-28 04:59:39",0.99,"2005-05-25 10:26:39",3
+48,ann,evans,ann.evans@sakilacustomer.org,1,"909 garland manor",tatarstan,69367,niznekamsk,"russian federation","2005-05-25 10:52:13","2005-05-28 05:52:13",0.99,"2005-05-25 10:52:13",3
+391,clarence,gamez,clarence.gamez@sakilacustomer.org,1,"767 pyongyang drive",osaka,83536,izumisano,japan,"2005-05-25 11:00:07","2005-06-01 13:56:07",4.99,"2005-05-25 11:00:07",7
+265,jennie,terry,jennie.terry@sakilacustomer.org,1,"682 halisahar place","severn morava",20536,olomouc,"czech republic","2005-05-25 11:09:48","2005-05-26 12:23:48",0.99,"2005-05-25 11:09:48",1
+510,ben,easter,ben.easter@sakilacustomer.org,0,"886 tonghae place",volgograd,19450,kamyšin,"russian federation","2005-05-25 11:13:34","2005-06-03 12:58:34",8.99,"2005-05-25 11:13:34",9
+1,mary,smith,mary.smith@sakilacustomer.org,1,"1913 hanoi way",nagasaki,35200,sasebo,japan,"2005-05-25 11:30:37","2005-06-03 12:00:37",2.99,"2005-05-25 11:30:37",9
+451,jim,rea,jim.rea@sakilacustomer.org,1,"814 simferopol loop",sinaloa,48745,"el fuerte",mexico,"2005-05-25 11:31:59","2005-05-26 16:53:59",0.99,"2005-05-25 11:31:59",1
+135,juanita,mason,juanita.mason@sakilacustomer.org,1,"943 johannesburg avenue",maharashtra,5892,pune,india,"2005-05-25 11:35:18","2005-05-31 12:48:18",5.99,"2005-05-25 11:35:18",6
+245,courtney,day,courtney.day@sakilacustomer.org,1,"300 junan street",kyonggi,81314,uijongbu,"south korea","2005-05-25 12:11:07","2005-06-03 10:54:07",4.99,"2005-05-25 12:11:07",9
+314,george,linton,george.linton@sakilacustomer.org,1,"1957 yantai lane","são paulo",59255,sorocaba,brazil,"2005-05-25 12:12:07","2005-05-31 17:46:07",5.99,"2005-05-25 12:12:07",6
+286,velma,lucas,velma.lucas@sakilacustomer.org,1,"1155 liaocheng place","oyo & osun",22650,effon-alaiye,nigeria,"2005-05-25 12:15:19","2005-06-02 14:08:19",6.99,"2005-05-25 12:15:19",8
+427,jesus,mccartney,jesus.mccartney@sakilacustomer.org,1,"259 ipoh drive","são paulo",64964,guarujá,brazil,"2005-05-25 12:17:46","2005-06-01 10:48:46",6.99,"2005-05-25 12:17:46",7
+131,monica,hicks,monica.hicks@sakilacustomer.org,1,"1752 são leopoldo parkway",taka-karpatia,14014,mukatševe,ukraine,"2005-05-25 12:30:15","2005-05-27 15:40:15",4.99,"2005-05-25 12:30:15",2
+492,lester,kraus,lester.kraus@sakilacustomer.org,1,"1013 tabuk boulevard","west bengali",96203,kanchrapara,india,"2005-05-25 12:36:30","2005-05-29 18:33:30",2.99,"2005-05-25 12:36:30",4
+414,vincent,ralston,vincent.ralston@sakilacustomer.org,1,"397 sunnyvale avenue",guanajuato,55566,allende,mexico,"2005-05-25 13:05:34","2005-05-29 16:53:34",4.99,"2005-05-25 13:05:34",4
+266,nora,herrera,nora.herrera@sakilacustomer.org,1,"1587 loja manor",salzburg,5410,salzburg,austria,"2005-05-25 13:36:12","2005-05-30 14:53:12",1.99,"2005-05-25 13:36:12",5
+331,eric,robert,eric.robert@sakilacustomer.org,1,"430 kumbakonam drive","santa fé",28814,"santa fé",argentina,"2005-05-25 13:52:43","2005-05-29 11:12:43",0.99,"2005-05-25 13:52:43",4
+53,heather,morris,heather.morris@sakilacustomer.org,1,"17 kabul boulevard",chiba,38594,nagareyama,japan,"2005-05-25 14:13:54","2005-05-29 09:32:54",3.99,"2005-05-25 14:13:54",4
+499,marc,outlaw,marc.outlaw@sakilacustomer.org,1,"1 valle de santiago avenue",apulia,86208,brindisi,italy,"2005-05-25 14:28:29","2005-05-29 14:33:29",2.99,"2005-05-25 14:28:29",4
+25,deborah,walker,deborah.walker@sakilacustomer.org,1,"934 san felipe de puerto plata street",sind,99780,shikarpur,pakistan,"2005-05-25 14:31:25","2005-06-01 10:07:25",7.99,"2005-05-25 14:31:25",7
+267,margie,wade,margie.wade@sakilacustomer.org,1,"1762 paarl parkway",hunan,53928,lengshuijiang,china,"2005-05-25 14:57:22","2005-06-01 18:32:22",6.99,"2005-05-25 14:57:22",7
+302,michael,silverman,michael.silverman@sakilacustomer.org,1,"1908 gaziantep place",liaoning,58979,tiefa,china,"2005-05-25 15:38:46","2005-05-31 13:40:46",5.99,"2005-05-25 15:38:46",6
+288,bobbie,craig,bobbie.craig@sakilacustomer.org,1,"86 higashiosaka lane",guanajuato,33768,"valle de santiago",mexico,"2005-05-25 15:54:16","2005-06-03 20:18:16",3.99,"2005-05-25 15:54:16",9
+197,sue,peters,sue.peters@sakilacustomer.org,1,"817 bradford loop",ji´angsu,89459,changzhou,china,"2005-05-25 16:03:42","2005-05-30 14:23:42",2.99,"2005-05-25 16:03:42",5
+400,bryan,hardison,bryan.hardison@sakilacustomer.org,1,"530 lausanne lane",texas,11067,dallas,"united states","2005-05-25 16:12:52","2005-06-02 18:55:52",3.99,"2005-05-25 16:12:52",8
+49,joyce,edwards,joyce.edwards@sakilacustomer.org,1,"725 isesaki place",mekka,74428,jedda,"saudi arabia","2005-05-25 16:32:19","2005-05-30 10:47:19",1.99,"2005-05-25 16:32:19",5
+263,hilda,hopkins,hilda.hopkins@sakilacustomer.org,1,"1831 nam dinh loop","national capital reg",51990,mandaluyong,philippines,"2005-05-25 16:34:24","2005-05-28 12:13:24",4.99,"2005-05-25 16:34:24",3
+269,cassandra,walters,cassandra.walters@sakilacustomer.org,1,"920 kumbakonam loop",california,75090,salinas,"united states","2005-05-25 16:48:24","2005-05-27 11:29:24",0.99,"2005-05-25 16:48:24",2
+44,marie,turner,marie.turner@sakilacustomer.org,1,"1998 halifax drive",lipetsk,76022,lipetsk,"russian federation","2005-05-25 16:50:20","2005-05-28 18:52:20",4.99,"2005-05-25 16:50:20",3
+208,lucy,wheeler,lucy.wheeler@sakilacustomer.org,1,"624 oshawa boulevard","west bengali",89959,balurghat,india,"2005-05-25 16:50:28","2005-06-02 22:11:28",4.99,"2005-05-25 16:50:28",8
+468,tim,cary,tim.cary@sakilacustomer.org,1,"1257 guadalajara street",karnataka,33599,bijapur,india,"2005-05-25 17:17:04","2005-05-31 19:47:04",6.99,"2005-05-25 17:17:04",6
+343,douglas,graf,douglas.graf@sakilacustomer.org,1,"785 vaduz street","baja california",36170,mexicali,mexico,"2005-05-25 17:22:10","2005-05-31 19:47:10",3.99,"2005-05-25 17:22:10",6
+384,ernest,stepp,ernest.stepp@sakilacustomer.org,1,"500 lincoln parkway",ji´angsu,95509,huai´an,china,"2005-05-25 17:30:42","2005-06-03 22:36:42",4.99,"2005-05-25 17:30:42",9
+310,daniel,cabral,daniel.cabral@sakilacustomer.org,1,"543 bergamo avenue","minas gerais",59686,ibirité,brazil,"2005-05-25 17:46:33","2005-05-27 15:20:33",0.99,"2005-05-25 17:46:33",2
+108,tracy,cole,tracy.cole@sakilacustomer.org,1,"1002 ahmadnagar manor",mxico,93026,huixquilucan,mexico,"2005-05-25 17:54:12","2005-05-30 12:03:12",4.99,"2005-05-25 17:54:12",5
+196,alma,austin,alma.austin@sakilacustomer.org,1,"1074 binzhou manor",baden-wrttemberg,36490,mannheim,germany,"2005-05-25 18:18:19","2005-06-04 00:01:19",11.99,"2005-05-25 18:18:19",10
+317,edward,baugh,edward.baugh@sakilacustomer.org,1,"1359 zhoushan parkway",streymoyar,29763,tórshavn,"faroe islands","2005-05-25 18:28:09","2005-06-03 22:46:09",6.99,"2005-05-25 18:28:09",9
+242,glenda,frazier,glenda.frazier@sakilacustomer.org,1,"1246 boksburg parkway",hebei,28349,qinhuangdao,china,"2005-05-25 18:30:05","2005-05-30 19:40:05",2.99,"2005-05-25 18:30:05",5
+503,angel,barclay,angel.barclay@sakilacustomer.org,1,"496 celaya drive",nagano,90797,ueda,japan,"2005-05-25 18:40:20","2005-05-29 20:39:20",1.99,"2005-05-25 18:40:20",4
+19,ruth,martinez,ruth.martinez@sakilacustomer.org,1,"1417 lancaster avenue","northern cape",72192,kimberley,"south africa","2005-05-25 18:43:49","2005-06-03 18:13:49",9.99,"2005-05-25 18:43:49",9
+227,colleen,burton,colleen.burton@sakilacustomer.org,1,"430 alessandria loop",saarland,47446,saarbrücken,germany,"2005-05-25 18:45:19","2005-05-28 17:18:19",4.99,"2005-05-25 18:45:19",3
+500,reginald,kinder,reginald.kinder@sakilacustomer.org,1,"519 brescia parkway","east java",69504,madiun,indonesia,"2005-05-25 18:57:24","2005-06-02 20:44:24",8.99,"2005-05-25 18:57:24",8
+93,phyllis,foster,phyllis.foster@sakilacustomer.org,1,"832 nakhon sawan manor","inner mongolia",49021,zalantun,china,"2005-05-25 19:07:40","2005-05-27 22:16:40",2.99,"2005-05-25 19:07:40",2
+506,leslie,seward,leslie.seward@sakilacustomer.org,1,"1152 al-qatif lane","kalimantan barat",44816,pontianak,indonesia,"2005-05-25 19:12:42","2005-06-01 23:10:42",3.99,"2005-05-25 19:12:42",7
+455,jon,wiles,jon.wiles@sakilacustomer.org,1,"659 gatineau boulevard","la paz",28587,"el alto",bolivia,"2005-05-25 19:13:25","2005-05-29 20:17:25",0.99,"2005-05-25 19:13:25",4
+18,carol,garcia,carol.garcia@sakilacustomer.org,1,"320 brest avenue",kaduna,43331,kaduna,nigeria,"2005-05-25 19:27:51","2005-05-26 16:23:51",4.99,"2005-05-25 19:27:51",1
+7,maria,miller,maria.miller@sakilacustomer.org,1,"900 santiago de compostela parkway","central serbia",93896,kragujevac,yugoslavia,"2005-05-25 19:30:46","2005-05-31 23:59:46",0.99,"2005-05-25 19:30:46",6
+524,jared,ely,jared.ely@sakilacustomer.org,1,"1003 qinhuangdao street","west java",25972,purwakarta,indonesia,"2005-05-25 19:31:18","2005-05-31 15:00:18",0.99,"2005-05-25 19:31:18",6
+51,alice,stewart,alice.stewart@sakilacustomer.org,1,"1135 izumisano parkway",california,48150,fontana,"united states","2005-05-25 19:37:02","2005-05-29 23:51:02",4.99,"2005-05-25 19:37:02",4
+365,bruce,schwarz,bruce.schwarz@sakilacustomer.org,1,"1565 tangail manor",okinawa,45750,okinawa,japan,"2005-05-25 19:37:47","2005-06-01 23:29:47",5.99,"2005-05-25 19:37:47",7
+405,leonard,schofield,leonard.schofield@sakilacustomer.org,1,"88 nagaon manor","buenos aires",86868,tandil,argentina,"2005-05-25 19:41:29","2005-05-29 21:31:29",2.99,"2005-05-25 19:41:29",4
+273,priscilla,lowe,priscilla.lowe@sakilacustomer.org,1,"144 south hill loop",guanajuato,2012,salamanca,mexico,"2005-05-25 19:46:21","2005-06-02 19:07:21",3.99,"2005-05-25 19:46:21",8
+43,christine,roberts,christine.roberts@sakilacustomer.org,1,"1447 imus way",tahiti,48942,faaa,"french polynesia","2005-05-25 20:26:42","2005-05-26 19:41:42",4.99,"2005-05-25 20:26:42",1
+246,marian,mendoza,marian.mendoza@sakilacustomer.org,1,"829 grand prairie way",paraná,6461,maringá,brazil,"2005-05-25 20:46:11","2005-05-30 00:47:11",6.99,"2005-05-25 20:46:11",5
+368,harry,arce,harry.arce@sakilacustomer.org,0,"1922 miraj way",esfahan,13203,najafabad,iran,"2005-05-25 20:48:50","2005-06-02 21:39:50",5.99,"2005-05-25 20:48:50",8
+439,alexander,fennell,alexander.fennell@sakilacustomer.org,1,"231 kaliningrad place",lombardia,57833,bergamo,italy,"2005-05-25 21:07:59","2005-05-28 18:51:59",2.99,"2005-05-25 21:07:59",3
+94,norma,gonzales,norma.gonzales@sakilacustomer.org,1,"152 kitwe parkway",caraga,53182,bislig,philippines,"2005-05-25 21:10:40","2005-06-02 21:38:40",2.99,"2005-05-25 21:10:40",8
+40,amanda,carter,amanda.carter@sakilacustomer.org,1,"671 graz street",oriental,94399,nador,morocco,"2005-05-25 21:19:53","2005-05-29 23:34:53",4.99,"2005-05-25 21:19:53",4
+23,sarah,lewis,sarah.lewis@sakilacustomer.org,1,"1780 hino boulevard",liepaja,7716,liepaja,latvia,"2005-05-25 21:20:03","2005-06-04 01:25:03",8.99,"2005-05-25 21:20:03",10
+56,gloria,cook,gloria.cook@sakilacustomer.org,1,"1668 saint louis place",tahiti,39072,papeete,"french polynesia","2005-05-25 21:21:56","2005-05-30 22:41:56",3.99,"2005-05-25 21:21:56",5
+325,timothy,bunn,timothy.bunn@sakilacustomer.org,1,"981 kumbakonam place","distrito federal",87611,brasília,brazil,"2005-05-25 21:42:46","2005-05-30 23:25:46",5.99,"2005-05-25 21:42:46",5
+479,zachary,hite,zachary.hite@sakilacustomer.org,1,"98 pyongyang boulevard",ohio,88749,akron,"united states","2005-05-25 21:46:54","2005-05-31 21:02:54",3.99,"2005-05-25 21:46:54",6
+237,tanya,gilbert,tanya.gilbert@sakilacustomer.org,1,"647 a coruña (la coruña) street",chollanam,36971,naju,"south korea","2005-05-25 21:48:30","2005-05-30 00:26:30",0.99,"2005-05-25 21:48:30",5
+222,delores,hansen,delores.hansen@sakilacustomer.org,1,"810 palghat (palakkad) boulevard",jaroslavl,73431,jaroslavl,"russian federation","2005-05-25 21:48:41","2005-06-02 18:28:41",4.99,"2005-05-25 21:48:41",8
+304,david,royal,david.royal@sakilacustomer.org,1,"827 yuncheng drive",callao,79047,callao,peru,"2005-05-25 21:58:58","2005-06-03 17:50:58",10.99,"2005-05-25 21:58:58",9
+504,nathaniel,adam,nathaniel.adam@sakilacustomer.org,1,"786 matsue way",illinois,37469,joliet,"united states","2005-05-25 22:02:30","2005-05-31 18:06:30",5.99,"2005-05-25 22:02:30",6
+560,jordan,archuleta,jordan.archuleta@sakilacustomer.org,1,"1229 varanasi (benares) manor","buenos aires",40195,avellaneda,argentina,"2005-05-25 22:25:18","2005-06-01 02:30:18",2.99,"2005-05-25 22:25:18",7
+586,kirk,stclair,kirk.stclair@sakilacustomer.org,1,"1923 stara zagora lane",nantou,95179,tsaotun,taiwan,"2005-05-25 22:48:22","2005-05-29 20:21:22",4.99,"2005-05-25 22:48:22",4
+257,marsha,douglas,marsha.douglas@sakilacustomer.org,1,"771 yaoundé manor",sofala,86768,beira,mozambique,"2005-05-25 23:00:21","2005-05-29 17:12:21",2.99,"2005-05-25 23:00:21",4
+354,justin,ngo,justin.ngo@sakilacustomer.org,1,"519 nyeri manor","são paulo",37650,"santo andré",brazil,"2005-05-25 23:34:22","2005-05-27 01:10:22",0.99,"2005-05-25 23:34:22",2
+89,julia,flores,julia.flores@sakilacustomer.org,1,"1926 el alto avenue","buenos aires",75543,"la plata",argentina,"2005-05-25 23:34:53","2005-06-02 01:57:53",2.99,"2005-05-25 23:34:53",8
+472,greg,robins,greg.robins@sakilacustomer.org,1,"1786 salinas place","nam ha",66546,"nam dinh",vietnam,"2005-05-25 23:43:47","2005-05-29 00:46:47",0.99,"2005-05-25 23:43:47",4
+297,sherri,rhodes,sherri.rhodes@sakilacustomer.org,1,"922 vila velha loop",maharashtra,4085,ahmadnagar,india,"2005-05-25 23:45:52","2005-05-27 21:41:52",0.99,"2005-05-25 23:45:52",2
+357,keith,rico,keith.rico@sakilacustomer.org,1,"482 kowloon and new kowloon manor",bratislava,97056,bratislava,slovakia,"2005-05-25 23:49:56","2005-06-01 21:41:56",2.99,"2005-05-25 23:49:56",7
+82,kathryn,coleman,kathryn.coleman@sakilacustomer.org,1,"927 bahía blanca parkway",krim,9495,simferopol,ukraine,"2005-05-25 23:59:03","2005-05-31 02:56:03",2.99,"2005-05-25 23:59:03",6
+433,don,bone,don.bone@sakilacustomer.org,1,"596 huixquilucan place",nampula,65892,naçala-porto,mozambique,"2005-05-26 00:07:11","2005-06-04 00:20:11",8.99,"2005-05-26 00:07:11",9
+274,naomi,jennings,naomi.jennings@sakilacustomer.org,1,"1884 shikarpur avenue",haryana,85548,karnal,india,"2005-05-26 00:17:50","2005-05-29 23:21:50",2.99,"2005-05-26 00:17:50",3
+142,april,burns,april.burns@sakilacustomer.org,1,"483 ljubertsy parkway",scotland,60562,dundee,"united kingdom","2005-05-26 00:25:23","2005-06-01 19:29:23",0.99,"2005-05-26 00:25:23",6
+319,ronald,weiner,ronald.weiner@sakilacustomer.org,1,"1145 vilnius manor",mxico,73170,"san felipe del progreso",mexico,"2005-05-26 00:28:05","2005-06-02 21:30:05",3.99,"2005-05-26 00:28:05",7
+429,frederick,isbell,frederick.isbell@sakilacustomer.org,1,"1404 taguig drive",okayama,87212,tsuyama,japan,"2005-05-26 00:28:39","2005-06-01 02:10:39",5.99,"2005-05-26 00:28:39",6
+14,betty,white,betty.white@sakilacustomer.org,1,"770 bydgoszcz avenue",california,16266,"citrus heights","united states","2005-05-26 00:37:28","2005-05-30 06:28:28",0.99,"2005-05-26 00:37:28",4
+57,evelyn,morgan,evelyn.morgan@sakilacustomer.org,1,"943 tokat street",vaduz,45428,vaduz,liechtenstein,"2005-05-26 00:41:10","2005-06-03 06:05:10",9.99,"2005-05-26 00:41:10",8
+348,roger,quintanilla,roger.quintanilla@sakilacustomer.org,1,"381 kabul way",taipei,87272,hsichuh,taiwan,"2005-05-26 00:47:47","2005-05-27 21:28:47",0.99,"2005-05-26 00:47:47",1
+185,roberta,harper,roberta.harper@sakilacustomer.org,1,"927 barcelona street","chaharmahal va bakht",65121,"shahr-e kord",iran,"2005-05-26 00:55:56","2005-05-29 23:18:56",0.99,"2005-05-26 00:55:56",3
+551,clayton,barbee,clayton.barbee@sakilacustomer.org,1,"1407 pachuca de soto place","rio grande do sul",26284,alvorada,brazil,"2005-05-26 01:15:05","2005-06-01 00:03:05",7.99,"2005-05-26 01:15:05",6
+462,warren,sherrod,warren.sherrod@sakilacustomer.org,1,"1621 tongliao avenue",irkutsk,22173,usolje-sibirskoje,"russian federation","2005-05-26 01:19:05","2005-05-27 23:43:05",2.99,"2005-05-26 01:19:05",1
+344,henry,billingsley,henry.billingsley@sakilacustomer.org,1,"1516 escobar drive",tongatapu,46069,nuku´alofa,tonga,"2005-05-26 01:25:21","2005-05-26 21:17:21",2.99,"2005-05-26 01:25:21",0
+354,justin,ngo,justin.ngo@sakilacustomer.org,1,"519 nyeri manor","são paulo",37650,"santo andré",brazil,"2005-05-26 01:27:11","2005-06-03 00:30:11",1.99,"2005-05-26 01:27:11",8
+505,rafael,abney,rafael.abney@sakilacustomer.org,1,"48 maracaíbo place","central luzon",1570,talavera,philippines,"2005-05-26 01:34:28","2005-05-29 04:00:28",2.99,"2005-05-26 01:34:28",3
+290,kristina,chambers,kristina.chambers@sakilacustomer.org,1,"544 tarsus boulevard",gurico,53145,"valle de la pascua",venezuela,"2005-05-26 01:46:20","2005-06-01 05:45:20",2.99,"2005-05-26 01:46:20",6
+182,renee,lane,renee.lane@sakilacustomer.org,1,"533 al-ayn boulevard",california,8862,compton,"united states","2005-05-26 01:51:48","2005-05-27 05:42:48",0.99,"2005-05-26 01:51:48",1
+296,ramona,hale,ramona.hale@sakilacustomer.org,1,"951 stara zagora manor",punjab,98573,patiala,india,"2005-05-26 02:02:05","2005-05-27 03:38:05",4.99,"2005-05-26 02:02:05",1
+104,rita,graham,rita.graham@sakilacustomer.org,1,"1386 yangor avenue",provence-alpes-cte,80720,toulon,france,"2005-05-26 02:26:23","2005-06-04 06:36:23",10.99,"2005-05-26 02:26:23",9
+151,megan,palmer,megan.palmer@sakilacustomer.org,1,"1560 jelets boulevard",shandong,77777,laiwu,china,"2005-05-26 02:26:49","2005-05-28 00:32:49",4.99,"2005-05-26 02:26:49",2
+33,anna,hill,anna.hill@sakilacustomer.org,1,"127 purnea (purnia) manor",piemonte,79388,alessandria,italy,"2005-05-26 02:28:36","2005-06-02 03:21:36",2.99,"2005-05-26 02:28:36",7
+322,jason,morrissey,jason.morrissey@sakilacustomer.org,1,"1427 a coruña (la coruña) place","buenos aires",85799,"bahía blanca",argentina,"2005-05-26 02:49:11","2005-05-31 01:28:11",0.99,"2005-05-26 02:49:11",5
+401,tony,carranza,tony.carranza@sakilacustomer.org,1,"454 patiala lane",fukushima,13496,koriyama,japan,"2005-05-26 02:50:31","2005-05-27 03:07:31",4.99,"2005-05-26 02:50:31",1
+469,wesley,bull,wesley.bull@sakilacustomer.org,1,"1469 plock lane",galicia,95835,"ourense (orense)",spain,"2005-05-26 03:07:43","2005-06-02 02:09:43",0.99,"2005-05-26 03:07:43",7
+381,bobby,boudreau,bobby.boudreau@sakilacustomer.org,1,"1368 maracaíbo boulevard",,32716,"south hill",anguilla,"2005-05-26 03:09:30","2005-05-27 01:37:30",0.99,"2005-05-26 03:09:30",1
+107,florence,woods,florence.woods@sakilacustomer.org,1,"1532 dzerzinsk way","buenos aires",9599,merlo,argentina,"2005-05-26 03:11:12","2005-06-02 03:53:12",5.99,"2005-05-26 03:11:12",7
+400,bryan,hardison,bryan.hardison@sakilacustomer.org,1,"530 lausanne lane",texas,11067,dallas,"united states","2005-05-26 03:14:15","2005-06-03 00:24:15",6.99,"2005-05-26 03:14:15",8
+176,june,carroll,june.carroll@sakilacustomer.org,1,"757 rustenburg avenue",skikda,89668,skikda,algeria,"2005-05-26 03:17:42","2005-05-29 04:11:42",0.99,"2005-05-26 03:17:42",3
+533,jessie,milam,jessie.milam@sakilacustomer.org,1,"1332 gaziantep lane",shandong,22813,binzhou,china,"2005-05-26 03:42:10","2005-05-28 01:37:10",0.99,"2005-05-26 03:42:10",2
+552,hugh,waldrop,hugh.waldrop@sakilacustomer.org,1,"904 clarksville drive",zhejiang,52234,haining,china,"2005-05-26 03:44:10","2005-05-28 07:13:10",0.99,"2005-05-26 03:44:10",2
+47,frances,parker,frances.parker@sakilacustomer.org,1,"686 garland manor",cear,52535,"juazeiro do norte",brazil,"2005-05-26 03:46:26","2005-06-03 06:01:26",3.99,"2005-05-26 03:46:26",8
+250,jo,fowler,jo.fowler@sakilacustomer.org,1,"786 stara zagora way","oyo & osun",98332,oyo,nigeria,"2005-05-26 03:47:39","2005-06-01 02:36:39",3.99,"2005-05-26 03:47:39",6
+548,allan,cornish,allan.cornish@sakilacustomer.org,1,"947 tórshavn place","central luzon",841,tarlac,philippines,"2005-05-26 04:14:29","2005-06-01 08:16:29",6.99,"2005-05-26 04:14:29",6
+196,alma,austin,alma.austin@sakilacustomer.org,1,"1074 binzhou manor",baden-wrttemberg,36490,mannheim,germany,"2005-05-26 04:21:46","2005-06-04 07:09:46",5.99,"2005-05-26 04:21:46",9
+19,ruth,martinez,ruth.martinez@sakilacustomer.org,1,"1417 lancaster avenue","northern cape",72192,kimberley,"south africa","2005-05-26 04:26:06","2005-06-03 10:06:06",6.99,"2005-05-26 04:26:06",8
+75,tammy,sanders,tammy.sanders@sakilacustomer.org,1,"1551 rampur lane",changhwa,72394,changhwa,taiwan,"2005-05-26 04:46:23","2005-06-01 09:58:23",4.99,"2005-05-26 04:46:23",6
+587,sergio,stanfield,sergio.stanfield@sakilacustomer.org,1,"1402 zanzibar boulevard",guanajuato,71102,celaya,mexico,"2005-05-26 04:47:06","2005-05-29 06:34:06",4.99,"2005-05-26 04:47:06",3
+237,tanya,gilbert,tanya.gilbert@sakilacustomer.org,1,"647 a coruña (la coruña) street",chollanam,36971,naju,"south korea","2005-05-26 04:49:17","2005-06-01 05:43:17",4.99,"2005-05-26 04:49:17",6
+254,maxine,silva,maxine.silva@sakilacustomer.org,1,"1338 zalantun lane","minas gerais",45403,"poços de caldas",brazil,"2005-05-26 05:01:18","2005-06-01 09:04:18",2.99,"2005-05-26 05:01:18",6
+556,armando,gruber,armando.gruber@sakilacustomer.org,1,"869 shikarpur way",england,57380,southport,"united kingdom","2005-05-26 05:29:49","2005-05-28 10:10:49",0.99,"2005-05-26 05:29:49",2
+125,ethel,webb,ethel.webb@sakilacustomer.org,1,"569 baicheng lane",gauteng,60304,boksburg,"south africa","2005-05-26 05:30:03","2005-06-02 09:48:03",3.99,"2005-05-26 05:30:03",7
+468,tim,cary,tim.cary@sakilacustomer.org,1,"1257 guadalajara street",karnataka,33599,bijapur,india,"2005-05-26 05:32:52","2005-06-03 07:19:52",4.99,"2005-05-26 05:32:52",8
+515,andre,rapp,andre.rapp@sakilacustomer.org,1,"568 dhule (dhulia) loop",coquimbo,92568,coquimbo,chile,"2005-05-26 05:42:37","2005-06-04 00:38:37",8.99,"2005-05-26 05:42:37",9
+243,lydia,burke,lydia.burke@sakilacustomer.org,1,"1483 pathankot street",tucumn,37288,"san miguel de tucumán",argentina,"2005-05-26 05:47:12","2005-05-26 23:48:12",4.99,"2005-05-26 05:47:12",0
+247,stella,moreno,stella.moreno@sakilacustomer.org,1,"1473 changhwa parkway",mxico,75933,"coacalco de berriozábal",mexico,"2005-05-26 06:01:41","2005-05-27 06:11:41",4.99,"2005-05-26 06:01:41",1
+533,jessie,milam,jessie.milam@sakilacustomer.org,1,"1332 gaziantep lane",shandong,22813,binzhou,china,"2005-05-26 06:11:28","2005-06-01 09:44:28",1.99,"2005-05-26 06:11:28",6
+412,allen,butterfield,allen.butterfield@sakilacustomer.org,1,"791 salinas street",punjab,40509,hoshiarpur,india,"2005-05-26 06:14:06","2005-05-28 05:33:06",0.99,"2005-05-26 06:14:06",2
+437,randall,neumann,randall.neumann@sakilacustomer.org,1,"1245 ibirité way","la romana",40926,"la romana","dominican republic","2005-05-26 06:20:37","2005-06-02 10:57:37",2.99,"2005-05-26 06:20:37",7
+270,leah,curtis,leah.curtis@sakilacustomer.org,1,"906 goiânia way",wielkopolskie,83565,kalisz,poland,"2005-05-26 06:41:48","2005-05-30 06:21:48",1.99,"2005-05-26 06:41:48",4
+29,angela,hernandez,angela.hernandez@sakilacustomer.org,1,"786 aurora avenue",yamaguchi,65750,shimonoseki,japan,"2005-05-26 06:52:33","2005-05-30 04:08:33",1.99,"2005-05-26 06:52:33",4
+564,bob,pfeiffer,bob.pfeiffer@sakilacustomer.org,1,"415 pune avenue",shandong,44274,xintai,china,"2005-05-26 06:52:36","2005-05-31 02:47:36",5.99,"2005-05-26 06:52:36",5
+184,vivian,ruiz,vivian.ruiz@sakilacustomer.org,1,"741 ambattur manor",noord-brabant,43310,´s-hertogenbosch,netherlands,"2005-05-26 06:55:58","2005-05-27 10:54:58",2.99,"2005-05-26 06:55:58",1
+546,kelly,knott,kelly.knott@sakilacustomer.org,1,"390 wroclaw way",hainan,5753,sanya,china,"2005-05-26 06:59:21","2005-06-03 05:04:21",5.99,"2005-05-26 06:59:21",8
+54,teresa,rogers,teresa.rogers@sakilacustomer.org,1,"1964 allappuzha (alleppey) street",yamaguchi,48980,iwakuni,japan,"2005-05-26 07:03:49","2005-06-04 11:45:49",4.99,"2005-05-26 07:03:49",9
+71,kathy,james,kathy.james@sakilacustomer.org,1,"492 cam ranh street","eastern visayas",50805,baybay,philippines,"2005-05-26 07:11:58","2005-05-28 09:06:58",2.99,"2005-05-26 07:11:58",2
+321,kevin,schuler,kevin.schuler@sakilacustomer.org,1,"470 boksburg street",central,97960,birgunj,nepal,"2005-05-26 07:12:21","2005-05-31 12:07:21",4.99,"2005-05-26 07:12:21",5
+444,marcus,hidalgo,marcus.hidalgo@sakilacustomer.org,1,"1289 belém boulevard",tartumaa,88306,tartu,estonia,"2005-05-26 07:13:45","2005-06-04 02:02:45",8.99,"2005-05-26 07:13:45",9
+20,sharon,robinson,sharon.robinson@sakilacustomer.org,1,"1688 okara way","nothwest border prov",21954,mardan,pakistan,"2005-05-26 07:27:36","2005-06-02 03:52:36",2.99,"2005-05-26 07:27:36",7
+109,edna,west,edna.west@sakilacustomer.org,1,"682 junan way","north west",30418,klerksdorp,"south africa","2005-05-26 07:27:57","2005-06-03 12:52:57",5.99,"2005-05-26 07:27:57",8
+528,claude,herzog,claude.herzog@sakilacustomer.org,1,"486 ondo parkway",benguela,35202,benguela,angola,"2005-05-26 07:30:37","2005-05-30 08:11:37",0.99,"2005-05-26 07:30:37",4
+114,grace,ellis,grace.ellis@sakilacustomer.org,1,"442 rae bareli place",nordrhein-westfalen,24321,duisburg,germany,"2005-05-26 07:59:37","2005-05-29 09:43:37",4.99,"2005-05-26 07:59:37",3
+345,carl,artis,carl.artis@sakilacustomer.org,1,"1628 nagareyama lane",central,60079,"san lorenzo",paraguay,"2005-05-26 08:01:54","2005-05-27 06:26:54",0.99,"2005-05-26 08:01:54",1
+47,frances,parker,frances.parker@sakilacustomer.org,1,"686 garland manor",cear,52535,"juazeiro do norte",brazil,"2005-05-26 08:04:38","2005-05-27 09:32:38",4.99,"2005-05-26 08:04:38",1
+274,naomi,jennings,naomi.jennings@sakilacustomer.org,1,"1884 shikarpur avenue",haryana,85548,karnal,india,"2005-05-26 08:10:22","2005-05-27 03:55:22",4.99,"2005-05-26 08:10:22",1
+379,carlos,coughlin,carlos.coughlin@sakilacustomer.org,1,"97 mogiljov lane",gujarat,89294,bhavnagar,india,"2005-05-26 08:14:01","2005-05-27 09:00:01",4.99,"2005-05-26 08:14:01",1
+391,clarence,gamez,clarence.gamez@sakilacustomer.org,1,"767 pyongyang drive",osaka,83536,izumisano,japan,"2005-05-26 08:14:15","2005-05-27 12:12:15",2.99,"2005-05-26 08:14:15",1
+170,beatrice,arnold,beatrice.arnold@sakilacustomer.org,1,"1877 ezhou lane",rajasthan,63337,udaipur,india,"2005-05-26 08:33:10","2005-05-28 14:09:10",2.99,"2005-05-26 08:33:10",2
+59,cheryl,murphy,cheryl.murphy@sakilacustomer.org,1,"1213 ranchi parkway",karnataka,94352,mysore,india,"2005-05-26 08:34:41","2005-05-30 12:46:41",4.99,"2005-05-26 08:34:41",4
+394,chris,brothers,chris.brothers@sakilacustomer.org,1,"331 bydgoszcz parkway",asturia,966,gijón,spain,"2005-05-26 08:44:08","2005-05-31 12:33:08",3.99,"2005-05-26 08:44:08",5
+98,lillian,griffin,lillian.griffin@sakilacustomer.org,1,"669 firozabad loop","abu dhabi",92265,al-ayn,"united arab emirates","2005-05-26 08:48:49","2005-05-31 04:06:49",3.99,"2005-05-26 08:48:49",5
+197,sue,peters,sue.peters@sakilacustomer.org,1,"817 bradford loop",ji´angsu,89459,changzhou,china,"2005-05-26 09:02:47","2005-05-28 09:45:47",0.99,"2005-05-26 09:02:47",2
+91,lois,butler,lois.butler@sakilacustomer.org,1,"1370 le mans avenue","brunei and muara",52163,"bandar seri begawan",brunei,"2005-05-26 09:17:43","2005-06-03 08:21:43",5.99,"2005-05-26 09:17:43",8
+121,josephine,gomez,josephine.gomez@sakilacustomer.org,1,"211 chiayi drive","uttar pradesh",58186,etawah,india,"2005-05-26 09:24:26","2005-05-31 03:24:26",4.99,"2005-05-26 09:24:26",5
+309,christopher,greco,christopher.greco@sakilacustomer.org,1,"1224 huejutla de reyes boulevard",lombardia,70923,brescia,italy,"2005-05-26 09:27:09","2005-06-04 11:53:09",6.99,"2005-05-26 09:27:09",9
+489,ricardo,meador,ricardo.meador@sakilacustomer.org,1,"591 sungai petani drive",okayama,46400,okayama,japan,"2005-05-26 09:41:45","2005-05-28 04:40:45",4.99,"2005-05-26 09:41:45",2
+542,lonnie,tirado,lonnie.tirado@sakilacustomer.org,1,"1658 cumaná loop","sumatera selatan",51309,"pangkal pinang",indonesia,"2005-05-26 10:06:49","2005-06-01 07:43:49",4.99,"2005-05-26 10:06:49",6
+143,leslie,gordon,leslie.gordon@sakilacustomer.org,1,"374 bat yam boulevard",kilis,97700,kilis,turkey,"2005-05-26 10:14:09","2005-05-29 05:57:09",2.99,"2005-05-26 10:14:09",3
+83,louise,jenkins,louise.jenkins@sakilacustomer.org,1,"929 tallahassee loop",gauteng,74671,springs,"south africa","2005-05-26 10:14:38","2005-05-31 08:36:38",0.99,"2005-05-26 10:14:38",5
+460,leon,bostic,leon.bostic@sakilacustomer.org,1,"734 tanshui avenue",caquet,70664,florencia,colombia,"2005-05-26 10:15:23","2005-05-30 11:43:23",4.99,"2005-05-26 10:15:23",4
+318,brian,wyman,brian.wyman@sakilacustomer.org,1,"1769 iwaki lane",kujawsko-pomorskie,25787,bydgoszcz,poland,"2005-05-26 10:18:27","2005-06-04 06:59:27",9.99,"2005-05-26 10:18:27",9
+467,alvin,deloach,alvin.deloach@sakilacustomer.org,1,"1447 chatsworth place",chihuahua,41545,cuauhtémoc,mexico,"2005-05-26 10:27:50","2005-06-01 07:01:50",4.99,"2005-05-26 10:27:50",6
+221,bessie,morrison,bessie.morrison@sakilacustomer.org,1,"1926 gingoog street",sisilia,22824,syrakusa,italy,"2005-05-26 10:44:04","2005-05-31 13:26:04",4.99,"2005-05-26 10:44:04",5
+301,robert,baughman,robert.baughman@sakilacustomer.org,1,"1883 maikop lane",kaliningrad,68469,kaliningrad,"russian federation","2005-05-26 10:51:46","2005-05-30 07:24:46",5.99,"2005-05-26 10:51:46",4
+571,johnnie,chisholm,johnnie.chisholm@sakilacustomer.org,1,"1501 pangkal pinang avenue",mazowieckie,943,plock,poland,"2005-05-26 10:54:28","2005-06-04 09:39:28",9.99,"2005-05-26 10:54:28",9
+312,mark,rinehart,mark.rinehart@sakilacustomer.org,1,"780 kimberley way",tabuk,17032,tabuk,"saudi arabia","2005-05-26 11:19:20","2005-05-31 11:56:20",4.99,"2005-05-26 11:19:20",5
+58,jean,bell,jean.bell@sakilacustomer.org,1,"1114 liepaja street",sarawak,69226,kuching,malaysia,"2005-05-26 11:31:50","2005-05-30 15:22:50",0.99,"2005-05-26 11:31:50",4
+365,bruce,schwarz,bruce.schwarz@sakilacustomer.org,1,"1565 tangail manor",okinawa,45750,okinawa,japan,"2005-05-26 11:31:59","2005-05-27 07:27:59",4.99,"2005-05-26 11:31:59",1
+256,mabel,holland,mabel.holland@sakilacustomer.org,1,"51 laredo avenue",sagaing,68146,monywa,myanmar,"2005-05-26 11:38:05","2005-05-27 08:42:05",0.99,"2005-05-26 11:38:05",1
+531,jamie,waugh,jamie.waugh@sakilacustomer.org,1,"958 sagamihara lane",mie,88408,kuwana,japan,"2005-05-26 11:43:44","2005-05-28 17:28:44",4.99,"2005-05-26 11:43:44",2
+566,casey,mena,casey.mena@sakilacustomer.org,1,"539 hami way",tokat,52196,tokat,turkey,"2005-05-26 11:47:20","2005-06-03 10:39:20",5.99,"2005-05-26 11:47:20",8
+119,sherry,marshall,sherry.marshall@sakilacustomer.org,1,"1987 coacalco de berriozábal loop",al-qalyubiya,96065,"shubra al-khayma",egypt,"2005-05-26 11:51:09","2005-06-04 09:36:09",5.99,"2005-05-26 11:51:09",9
+446,theodore,culp,theodore.culp@sakilacustomer.org,0,"1704 tambaram manor","west bengali",2834,uluberia,india,"2005-05-26 11:53:49","2005-05-28 13:55:49",0.99,"2005-05-26 11:53:49",2
+536,fernando,churchill,fernando.churchill@sakilacustomer.org,1,"193 bhusawal place",kang-won,9750,tonghae,"south korea","2005-05-26 12:15:13","2005-05-29 18:10:13",0.99,"2005-05-26 12:15:13",3
+211,stacey,montgomery,stacey.montgomery@sakilacustomer.org,1,"1333 haldia street",jilin,82161,fuyu,china,"2005-05-26 12:30:22","2005-05-27 06:49:22",4.99,"2005-05-26 12:30:22",1
+49,joyce,edwards,joyce.edwards@sakilacustomer.org,1,"725 isesaki place",mekka,74428,jedda,"saudi arabia","2005-05-26 12:30:26","2005-06-01 13:26:26",3.99,"2005-05-26 12:30:26",6
+103,gladys,hamilton,gladys.hamilton@sakilacustomer.org,1,"1177 jelets way","kwara & kogi",3305,ilorin,nigeria,"2005-05-26 12:40:23","2005-06-04 07:22:23",7.99,"2005-05-26 12:40:23",9
+245,courtney,day,courtney.day@sakilacustomer.org,1,"300 junan street",kyonggi,81314,uijongbu,"south korea","2005-05-26 12:49:01","2005-05-28 11:43:01",0.99,"2005-05-26 12:49:01",2
+214,kristin,johnston,kristin.johnston@sakilacustomer.org,1,"226 brest manor",california,2299,sunnyvale,"united states","2005-05-26 13:05:08","2005-06-02 15:26:08",1.99,"2005-05-26 13:05:08",7
+543,lance,pemberton,lance.pemberton@sakilacustomer.org,1,"454 qinhuangdao drive",tadla-azilal,25866,beni-mellal,morocco,"2005-05-26 13:06:05","2005-06-03 17:28:05",6.99,"2005-05-26 13:06:05",8
+257,marsha,douglas,marsha.douglas@sakilacustomer.org,1,"771 yaoundé manor",sofala,86768,beira,mozambique,"2005-05-26 13:40:40","2005-05-31 11:58:40",2.99,"2005-05-26 13:40:40",5
+158,veronica,stone,veronica.stone@sakilacustomer.org,1,"369 papeete way","north carolina",66639,greensboro,"united states","2005-05-26 13:46:59","2005-05-27 09:58:59",4.99,"2005-05-26 13:46:59",1
+240,marlene,welch,marlene.welch@sakilacustomer.org,1,"1148 saarbrücken parkway",fukushima,1921,iwaki,japan,"2005-05-26 13:57:07","2005-05-29 10:12:07",2.99,"2005-05-26 13:57:07",3
+102,crystal,ford,crystal.ford@sakilacustomer.org,1,"659 vaduz drive","ha darom",49708,ashdod,israel,"2005-05-26 14:01:05","2005-05-28 13:38:05",4.99,"2005-05-26 14:01:05",2
+545,julio,noland,julio.noland@sakilacustomer.org,1,"182 nuku´alofa drive",sumy,15414,konotop,ukraine,"2005-05-26 14:07:58","2005-05-31 14:03:58",0.99,"2005-05-26 14:07:58",5
+472,greg,robins,greg.robins@sakilacustomer.org,1,"1786 salinas place","nam ha",66546,"nam dinh",vietnam,"2005-05-26 14:19:09","2005-05-28 17:47:09",2.99,"2005-05-26 14:19:09",2
+539,mathew,bolin,mathew.bolin@sakilacustomer.org,1,"163 augusta-richmond county loop",carabobo,33030,valencia,venezuela,"2005-05-26 14:30:24","2005-05-27 08:50:24",4.99,"2005-05-26 14:30:24",1
+204,rosemary,schmidt,rosemary.schmidt@sakilacustomer.org,1,"1215 pyongyang parkway",usak,25238,usak,turkey,"2005-05-26 14:35:40","2005-05-29 17:17:40",0.99,"2005-05-26 14:35:40",3
+187,brittany,riley,brittany.riley@sakilacustomer.org,1,"140 chiayi parkway",sumy,38982,sumy,ukraine,"2005-05-26 14:39:53","2005-06-02 14:48:53",7.99,"2005-05-26 14:39:53",7
+416,jeffery,pinson,jeffery.pinson@sakilacustomer.org,1,"966 arecibo loop",sind,94018,dadu,pakistan,"2005-05-26 14:43:14","2005-05-27 12:21:14",0.99,"2005-05-26 14:43:14",1
+390,shawn,heaton,shawn.heaton@sakilacustomer.org,1,"1337 mit ghamr avenue","nakhon sawan",29810,"nakhon sawan",thailand,"2005-05-26 14:43:48","2005-05-31 09:19:48",4.99,"2005-05-26 14:43:48",5
+114,grace,ellis,grace.ellis@sakilacustomer.org,1,"442 rae bareli place",nordrhein-westfalen,24321,duisburg,germany,"2005-05-26 14:52:15","2005-05-27 12:45:15",4.99,"2005-05-26 14:52:15",1
+436,troy,quigley,troy.quigley@sakilacustomer.org,1,"983 santa fé way","british colombia",47472,vancouver,canada,"2005-05-26 15:20:58","2005-05-31 15:58:58",3.99,"2005-05-26 15:20:58",5
+373,louis,leone,louis.leone@sakilacustomer.org,1,"1191 tandil drive","southern tagalog",6362,tanauan,philippines,"2005-05-26 15:27:05","2005-05-29 16:25:05",4.99,"2005-05-26 15:27:05",3
+502,brett,cornwell,brett.cornwell@sakilacustomer.org,1,"1197 sokoto boulevard","west bengali",87687,"siliguri (shiliguri)",india,"2005-05-26 15:28:14","2005-05-30 18:38:14",2.99,"2005-05-26 15:28:14",4
+482,maurice,crawley,maurice.crawley@sakilacustomer.org,0,"1785 são bernardo do campo street",veracruz,71182,coatzacoalcos,mexico,"2005-05-26 15:32:46","2005-06-04 15:27:46",8.99,"2005-05-26 15:32:46",9
+21,michelle,clark,michelle.clark@sakilacustomer.org,1,"262 a coruña (la coruña) parkway",dhaka,34418,tangail,bangladesh,"2005-05-26 15:42:20","2005-05-31 13:21:20",3.99,"2005-05-26 15:42:20",5
+414,vincent,ralston,vincent.ralston@sakilacustomer.org,1,"397 sunnyvale avenue",guanajuato,55566,allende,mexico,"2005-05-26 15:44:23","2005-06-02 09:47:23",3.99,"2005-05-26 15:44:23",7
+236,marcia,dean,marcia.dean@sakilacustomer.org,1,"1479 rustenburg boulevard","southern tagalog",18727,tanza,philippines,"2005-05-26 15:46:56","2005-05-28 15:49:56",2.99,"2005-05-26 15:46:56",2
+449,oscar,aquino,oscar.aquino@sakilacustomer.org,1,"956 nam dinh manor",kerman,21872,sirjan,iran,"2005-05-26 15:47:40","2005-05-30 10:07:40",4.99,"2005-05-26 15:47:40",4
+251,vickie,brewer,vickie.brewer@sakilacustomer.org,1,"1966 tonghae street","anhalt sachsen",36481,halle/saale,germany,"2005-05-26 16:00:49","2005-05-27 10:12:49",2.99,"2005-05-26 16:00:49",1
+303,william,satterfield,william.satterfield@sakilacustomer.org,1,"687 alessandria parkway",sanaa,57587,sanaa,yemen,"2005-05-26 16:07:38","2005-06-01 14:20:38",0.99,"2005-05-26 16:07:38",6
+263,hilda,hopkins,hilda.hopkins@sakilacustomer.org,1,"1831 nam dinh loop","national capital reg",51990,mandaluyong,philippines,"2005-05-26 16:08:05","2005-05-27 10:55:05",0.99,"2005-05-26 16:08:05",1
+417,travis,estep,travis.estep@sakilacustomer.org,1,"289 santo andré manor",al-sharqiya,72410,al-qatif,"saudi arabia","2005-05-26 16:16:21","2005-05-30 16:53:21",4.99,"2005-05-26 16:16:21",4
+75,tammy,sanders,tammy.sanders@sakilacustomer.org,1,"1551 rampur lane",changhwa,72394,changhwa,taiwan,"2005-05-26 16:19:08","2005-05-27 14:35:08",0.99,"2005-05-26 16:19:08",1
+322,jason,morrissey,jason.morrissey@sakilacustomer.org,1,"1427 a coruña (la coruña) place","buenos aires",85799,"bahía blanca",argentina,"2005-05-26 16:19:46","2005-05-27 15:59:46",4.99,"2005-05-26 16:19:46",1
+200,jeanne,lawson,jeanne.lawson@sakilacustomer.org,1,"387 mwene-ditu drive",ahal,8073,ashgabat,turkmenistan,"2005-05-26 16:20:56","2005-06-03 12:40:56",9.99,"2005-05-26 16:20:56",8
+92,tina,simmons,tina.simmons@sakilacustomer.org,1,"984 effon-alaiye avenue",gois,17119,goiânia,brazil,"2005-05-26 16:22:01","2005-06-03 17:30:01",5.99,"2005-05-26 16:22:01",8
+71,kathy,james,kathy.james@sakilacustomer.org,1,"492 cam ranh street","eastern visayas",50805,baybay,philippines,"2005-05-26 16:27:11","2005-06-03 13:10:11",9.99,"2005-05-26 16:27:11",8
+193,katie,elliott,katie.elliott@sakilacustomer.org,1,"447 surakarta loop",nyanza,10428,kisumu,kenya,"2005-05-26 16:29:36","2005-05-29 18:49:36",2.99,"2005-05-26 16:29:36",3
+311,paul,trout,paul.trout@sakilacustomer.org,1,"746 joliet lane",kursk,94878,kursk,"russian federation","2005-05-26 16:48:51","2005-06-03 18:17:51",5.99,"2005-05-26 16:48:51",8
+133,pauline,henry,pauline.henry@sakilacustomer.org,1,"261 saint louis way","coahuila de zaragoza",83401,torreón,mexico,"2005-05-26 17:09:53","2005-06-04 22:35:53",6.99,"2005-05-26 17:09:53",9
+58,jean,bell,jean.bell@sakilacustomer.org,1,"1114 liepaja street",sarawak,69226,kuching,malaysia,"2005-05-26 17:16:07","2005-06-03 12:59:07",7.99,"2005-05-26 17:16:07",8
+45,janet,phillips,janet.phillips@sakilacustomer.org,1,"1718 valencia street",antofagasta,37359,antofagasta,chile,"2005-05-26 17:32:11","2005-05-28 22:54:11",2.99,"2005-05-26 17:32:11",2
+214,kristin,johnston,kristin.johnston@sakilacustomer.org,1,"226 brest manor",california,2299,sunnyvale,"united states","2005-05-26 17:40:58","2005-06-02 16:43:58",3.99,"2005-05-26 17:40:58",7
+384,ernest,stepp,ernest.stepp@sakilacustomer.org,1,"500 lincoln parkway",ji´angsu,95509,huai´an,china,"2005-05-26 18:02:50","2005-06-03 18:48:50",2.99,"2005-05-26 18:02:50",8
+167,sally,pierce,sally.pierce@sakilacustomer.org,1,"1540 wroclaw drive",maharashtra,62686,chandrapur,india,"2005-05-26 18:36:58","2005-05-27 23:42:58",2.99,"2005-05-26 18:36:58",1
+582,andy,vanhorn,andy.vanhorn@sakilacustomer.org,1,"966 asunción way",hidalgo,62703,"huejutla de reyes",mexico,"2005-05-26 18:49:35","2005-05-27 18:11:35",0.99,"2005-05-26 18:49:35",1
+282,jenny,castro,jenny.castro@sakilacustomer.org,1,"1405 chisinau place",ponce,8160,ponce,"puerto rico","2005-05-26 18:56:26","2005-06-01 16:32:26",6.99,"2005-05-26 18:56:26",6
+242,glenda,frazier,glenda.frazier@sakilacustomer.org,1,"1246 boksburg parkway",hebei,28349,qinhuangdao,china,"2005-05-26 19:05:05","2005-05-31 19:19:05",3.99,"2005-05-26 19:05:05",5
+359,willie,markham,willie.markham@sakilacustomer.org,1,"1623 kingstown drive","buenos aires",91299,"almirante brown",argentina,"2005-05-26 19:21:44","2005-06-04 14:18:44",8.99,"2005-05-26 19:21:44",9
+162,lauren,hudson,lauren.hudson@sakilacustomer.org,1,"1740 le mans loop","pays de la loire",22853,"le mans",france,"2005-05-26 19:41:40","2005-05-31 16:58:40",1.99,"2005-05-26 19:41:40",5
+371,billy,poulin,billy.poulin@sakilacustomer.org,1,"1061 ede avenue","southern tagalog",57810,cabuyao,philippines,"2005-05-26 19:44:51","2005-06-04 18:00:51",6.99,"2005-05-26 19:44:51",9
+17,donna,thompson,donna.thompson@sakilacustomer.org,1,"270 toulon boulevard",kalmykia,81766,elista,"russian federation","2005-05-26 19:44:54","2005-06-02 01:10:54",2.99,"2005-05-26 19:44:54",7
+82,kathryn,coleman,kathryn.coleman@sakilacustomer.org,1,"927 bahía blanca parkway",krim,9495,simferopol,ukraine,"2005-05-26 19:47:49","2005-06-03 20:53:49",8.99,"2005-05-26 19:47:49",8
+81,andrea,henderson,andrea.henderson@sakilacustomer.org,1,"320 baiyin parkway",mahajanga,37307,mahajanga,madagascar,"2005-05-26 20:01:09","2005-05-28 15:09:09",0.99,"2005-05-26 20:01:09",2
+429,frederick,isbell,frederick.isbell@sakilacustomer.org,1,"1404 taguig drive",okayama,87212,tsuyama,japan,"2005-05-26 20:08:33","2005-05-30 00:32:33",2.99,"2005-05-26 20:08:33",4
+577,clifton,malcolm,clifton.malcolm@sakilacustomer.org,1,"1489 kakamigahara lane",taipei,98883,tanshui,taiwan,"2005-05-26 20:20:47","2005-06-03 02:06:47",5.99,"2005-05-26 20:20:47",8
+515,andre,rapp,andre.rapp@sakilacustomer.org,1,"568 dhule (dhulia) loop",coquimbo,92568,coquimbo,chile,"2005-05-26 20:22:12","2005-06-05 00:58:12",6.99,"2005-05-26 20:22:12",10
+158,veronica,stone,veronica.stone@sakilacustomer.org,1,"369 papeete way","north carolina",66639,greensboro,"united states","2005-05-26 20:27:02","2005-06-03 16:45:02",5.99,"2005-05-26 20:27:02",8
+369,fred,wheat,fred.wheat@sakilacustomer.org,1,"433 florencia street",chihuahua,91330,juárez,mexico,"2005-05-26 20:29:57","2005-05-28 17:20:57",4.99,"2005-05-26 20:29:57",2
+65,rose,howard,rose.howard@sakilacustomer.org,1,"698 otsu street",cayenne,71110,cayenne,"french guiana","2005-05-26 20:33:20","2005-05-27 18:23:20",4.99,"2005-05-26 20:33:20",1
+468,tim,cary,tim.cary@sakilacustomer.org,1,"1257 guadalajara street",karnataka,33599,bijapur,india,"2005-05-26 20:35:19","2005-06-04 02:31:19",6.99,"2005-05-26 20:35:19",9
+48,ann,evans,ann.evans@sakilacustomer.org,1,"909 garland manor",tatarstan,69367,niznekamsk,"russian federation","2005-05-26 20:48:48","2005-05-27 19:52:48",2.99,"2005-05-26 20:48:48",1
+460,leon,bostic,leon.bostic@sakilacustomer.org,1,"734 tanshui avenue",caquet,70664,florencia,colombia,"2005-05-26 20:52:26","2005-05-29 22:08:26",0.99,"2005-05-26 20:52:26",3
+448,miguel,betancourt,miguel.betancourt@sakilacustomer.org,1,"319 springs loop",baijeri,99552,erlangen,germany,"2005-05-26 20:55:36","2005-05-28 00:25:36",4.99,"2005-05-26 20:55:36",2
+47,frances,parker,frances.parker@sakilacustomer.org,1,"686 garland manor",cear,52535,"juazeiro do norte",brazil,"2005-05-26 20:57:00","2005-06-05 01:34:00",6.99,"2005-05-26 20:57:00",10
+274,naomi,jennings,naomi.jennings@sakilacustomer.org,1,"1884 shikarpur avenue",haryana,85548,karnal,india,"2005-05-26 21:06:14","2005-06-01 01:54:14",2.99,"2005-05-26 21:06:14",6
+387,jesse,schilling,jesse.schilling@sakilacustomer.org,1,"514 ife way",shaba,69973,lubumbashi,"congo, the democratic republic of the","2005-05-26 21:13:46","2005-06-03 15:49:46",4.99,"2005-05-26 21:13:46",8
+596,enrique,forsythe,enrique.forsythe@sakilacustomer.org,1,"1101 bucuresti boulevard","west greece",97661,patras,greece,"2005-05-26 21:16:52","2005-05-27 23:41:52",4.99,"2005-05-26 21:16:52",1
+534,christian,jung,christian.jung@sakilacustomer.org,0,"949 allende lane","uttar pradesh",67521,amroha,india,"2005-05-26 21:21:28","2005-06-02 00:05:28",5.99,"2005-05-26 21:21:28",7
+464,jerome,kenyon,jerome.kenyon@sakilacustomer.org,1,"1872 toulon loop",ohiggins,7939,rancagua,chile,"2005-05-26 21:22:07","2005-06-02 22:33:07",3.99,"2005-05-26 21:22:07",7
+547,kurt,emmons,kurt.emmons@sakilacustomer.org,1,"1421 quilmes lane",ishikawa,19151,kanazawa,japan,"2005-05-26 21:31:57","2005-05-28 19:37:57",0.99,"2005-05-26 21:31:57",2
+375,aaron,selby,aaron.selby@sakilacustomer.org,1,"1519 santiago de los caballeros loop","east kasai",22025,mwene-ditu,"congo, the democratic republic of the","2005-05-26 21:48:13","2005-06-04 22:24:13",8.99,"2005-05-26 21:48:13",9
+277,olga,jimenez,olga.jimenez@sakilacustomer.org,1,"556 baybay manor","oyo & osun",55802,ogbomosho,nigeria,"2005-05-26 22:01:39","2005-06-04 20:24:39",6.99,"2005-05-26 22:01:39",9
+251,vickie,brewer,vickie.brewer@sakilacustomer.org,1,"1966 tonghae street","anhalt sachsen",36481,halle/saale,germany,"2005-05-26 22:38:10","2005-06-02 03:10:10",1.99,"2005-05-26 22:38:10",7
+409,rodney,moeller,rodney.moeller@sakilacustomer.org,1,"1936 lapu-lapu parkway","bauchi & gombe",7122,"deba habe",nigeria,"2005-05-26 22:41:07","2005-06-02 04:09:07",6.99,"2005-05-26 22:41:07",7
+201,vicki,fields,vicki.fields@sakilacustomer.org,1,"68 molodetšno manor",nordrhein-westfalen,4662,witten,germany,"2005-05-26 22:51:37","2005-06-01 00:02:37",3.99,"2005-05-26 22:51:37",6
+143,leslie,gordon,leslie.gordon@sakilacustomer.org,1,"374 bat yam boulevard",kilis,97700,kilis,turkey,"2005-05-26 22:52:19","2005-06-02 18:14:19",2.99,"2005-05-26 22:52:19",7
+594,eduardo,hiatt,eduardo.hiatt@sakilacustomer.org,1,"1837 kaduna parkway","inner mongolia",82580,jining,china,"2005-05-26 22:56:19","2005-05-29 01:29:19",4.99,"2005-05-26 22:56:19",3
+203,tara,ryan,tara.ryan@sakilacustomer.org,1,"1688 nador lane","sulawesi utara",61613,gorontalo,indonesia,"2005-05-26 23:09:41","2005-05-28 22:49:41",0.99,"2005-05-26 23:09:41",2
+238,nellie,garrett,nellie.garrett@sakilacustomer.org,1,"1964 gijón manor",karnataka,14408,shimoga,india,"2005-05-26 23:12:55","2005-05-29 23:33:55",4.99,"2005-05-26 23:12:55",3
+249,dora,medina,dora.medina@sakilacustomer.org,1,"1760 oshawa manor",tianjin,38140,tianjin,china,"2005-05-26 23:22:55","2005-05-29 23:25:55",4.99,"2005-05-26 23:22:55",3
+391,clarence,gamez,clarence.gamez@sakilacustomer.org,1,"767 pyongyang drive",osaka,83536,izumisano,japan,"2005-05-26 23:23:56","2005-06-01 19:56:56",5.99,"2005-05-26 23:23:56",6
+60,mildred,bailey,mildred.bailey@sakilacustomer.org,1,"81 hodeida way",rajasthan,55561,jaipur,india,"2005-05-26 23:37:39","2005-06-03 04:31:39",4.99,"2005-05-26 23:37:39",8
+77,jane,bennett,jane.bennett@sakilacustomer.org,1,"1692 ede loop","são paulo",9223,araçatuba,brazil,"2005-05-26 23:52:13","2005-05-30 18:55:13",2.99,"2005-05-26 23:52:13",4
+2,patricia,johnson,patricia.johnson@sakilacustomer.org,1,"1121 loja avenue",california,17886,"san bernardino","united states","2005-05-27 00:09:24","2005-05-28 04:30:24",4.99,"2005-05-27 00:09:24",1
+496,tyler,wren,tyler.wren@sakilacustomer.org,1,"1060 tandil lane",shandong,72349,rizhao,china,"2005-05-27 00:47:35","2005-06-02 00:32:35",4.99,"2005-05-27 00:47:35",6
+144,clara,shaw,clara.shaw@sakilacustomer.org,1,"1027 songkhla manor",minsk,30861,molodetšno,belarus,"2005-05-27 00:49:27","2005-05-30 03:12:27",2.99,"2005-05-27 00:49:27",3
+292,misty,lambert,misty.lambert@sakilacustomer.org,1,"1192 tongliao street",sharja,19065,sharja,"united arab emirates","2005-05-27 01:00:04","2005-05-30 04:27:04",0.99,"2005-05-27 01:00:04",3
+449,oscar,aquino,oscar.aquino@sakilacustomer.org,1,"956 nam dinh manor",kerman,21872,sirjan,iran,"2005-05-27 01:09:55","2005-05-31 07:01:55",5.99,"2005-05-27 01:09:55",4
+432,edwin,burk,edwin.burk@sakilacustomer.org,1,"1766 almirante brown street",kwazulu-natal,63104,newcastle,"south africa","2005-05-27 01:10:11","2005-06-04 20:25:11",7.99,"2005-05-27 01:10:11",8
+105,dawn,sullivan,dawn.sullivan@sakilacustomer.org,1,"454 nakhon sawan boulevard",funafuti,76383,funafuti,tuvalu,"2005-05-27 01:18:57","2005-06-04 04:06:57",8.99,"2005-05-27 01:18:57",8
+451,jim,rea,jim.rea@sakilacustomer.org,1,"814 simferopol loop",sinaloa,48745,"el fuerte",mexico,"2005-05-27 01:29:31","2005-06-01 02:27:31",2.99,"2005-05-27 01:29:31",5
+231,georgia,jacobs,georgia.jacobs@sakilacustomer.org,1,"954 kimchon place","west bengali",42420,uttarpara-kotrung,india,"2005-05-27 01:57:14","2005-05-31 04:19:14",5.99,"2005-05-27 01:57:14",4
+248,caroline,bowman,caroline.bowman@sakilacustomer.org,1,"1309 weifang street",florida,57338,tallahassee,"united states","2005-05-27 02:15:30","2005-06-04 05:09:30",7.99,"2005-05-27 02:15:30",8
+67,kelly,torres,kelly.torres@sakilacustomer.org,1,"1586 guarujá place",hunan,5135,xi´angtan,china,"2005-05-27 02:22:26","2005-06-05 00:25:26",9.99,"2005-05-27 02:22:26",9
+299,james,gannon,james.gannon@sakilacustomer.org,1,"1635 kuwana boulevard",hiroshima,52137,hiroshima,japan,"2005-05-27 02:27:10","2005-06-03 01:26:10",5.99,"2005-05-27 02:27:10",7
+412,allen,butterfield,allen.butterfield@sakilacustomer.org,1,"791 salinas street",punjab,40509,hoshiarpur,india,"2005-05-27 02:52:21","2005-06-01 00:55:21",4.99,"2005-05-27 02:52:21",5
+194,kristen,chavez,kristen.chavez@sakilacustomer.org,1,"345 oshawa boulevard",tokyo-to,32114,hino,japan,"2005-05-27 03:03:07","2005-05-29 03:54:07",4.99,"2005-05-27 03:03:07",2
+16,sandra,martin,sandra.martin@sakilacustomer.org,0,"360 toulouse parkway",england,54308,southend-on-sea,"united kingdom","2005-05-27 03:07:10","2005-06-05 00:15:10",3.99,"2005-05-27 03:07:10",9
+275,carole,barnett,carole.barnett@sakilacustomer.org,1,"1980 kamjanets-podilskyi street",illinois,89502,peoria,"united states","2005-05-27 03:15:23","2005-05-29 22:43:23",2.99,"2005-05-27 03:15:23",2
+19,ruth,martinez,ruth.martinez@sakilacustomer.org,1,"1417 lancaster avenue","northern cape",72192,kimberley,"south africa","2005-05-27 03:22:30","2005-06-02 03:27:30",2.99,"2005-05-27 03:22:30",6
+165,lorraine,stephens,lorraine.stephens@sakilacustomer.org,1,"154 tallahassee loop",xinxiang,62250,hami,china,"2005-05-27 03:42:52","2005-06-01 05:23:52",4.99,"2005-05-27 03:42:52",5
+516,elmer,noe,elmer.noe@sakilacustomer.org,1,"1768 udine loop",battambang,32347,battambang,cambodia,"2005-05-27 03:47:18","2005-06-04 05:46:18",3.99,"2005-05-27 03:47:18",8
+209,tonya,chapman,tonya.chapman@sakilacustomer.org,1,"43 dadu avenue",rajasthan,4855,bhilwara,india,"2005-05-27 03:55:25","2005-06-04 07:57:25",9.99,"2005-05-27 03:55:25",8
+56,gloria,cook,gloria.cook@sakilacustomer.org,1,"1668 saint louis place",tahiti,39072,papeete,"french polynesia","2005-05-27 04:01:42","2005-06-05 08:51:42",5.99,"2005-05-27 04:01:42",9
+539,mathew,bolin,mathew.bolin@sakilacustomer.org,1,"163 augusta-richmond county loop",carabobo,33030,valencia,venezuela,"2005-05-27 04:11:04","2005-05-29 01:28:04",0.99,"2005-05-27 04:11:04",2
+455,jon,wiles,jon.wiles@sakilacustomer.org,1,"659 gatineau boulevard","la paz",28587,"el alto",bolivia,"2005-05-27 04:13:41","2005-05-28 08:34:41",0.99,"2005-05-27 04:13:41",1
+236,marcia,dean,marcia.dean@sakilacustomer.org,1,"1479 rustenburg boulevard","southern tagalog",18727,tanza,philippines,"2005-05-27 04:30:22","2005-05-29 10:13:22",2.99,"2005-05-27 04:30:22",2
+144,clara,shaw,clara.shaw@sakilacustomer.org,1,"1027 songkhla manor",minsk,30861,molodetšno,belarus,"2005-05-27 04:32:25","2005-05-31 09:50:25",2.99,"2005-05-27 04:32:25",4
+14,betty,white,betty.white@sakilacustomer.org,1,"770 bydgoszcz avenue",california,16266,"citrus heights","united states","2005-05-27 04:34:41","2005-06-05 04:24:41",9.99,"2005-05-27 04:34:41",9
+378,eugene,culpepper,eugene.culpepper@sakilacustomer.org,1,"686 donostia-san sebastián lane",guangdong,97390,shenzhen,china,"2005-05-27 04:40:33","2005-05-28 09:56:33",0.99,"2005-05-27 04:40:33",1
+473,jorge,olivares,jorge.olivares@sakilacustomer.org,1,"1078 stara zagora drive",aceh,69221,lhokseumawe,indonesia,"2005-05-27 04:50:56","2005-06-01 04:43:56",4.99,"2005-05-27 04:50:56",5
+36,kathleen,adams,kathleen.adams@sakilacustomer.org,1,"334 munger (monghyr) lane",markazi,38145,arak,iran,"2005-05-27 04:53:11","2005-05-28 06:33:11",0.99,"2005-05-27 04:53:11",1
+9,margaret,moore,margaret.moore@sakilacustomer.org,1,"613 korolev drive",masqat,45844,masqat,oman,"2005-05-27 05:01:28","2005-06-04 05:01:28",4.99,"2005-05-27 05:01:28",8
+118,kim,cruz,kim.cruz@sakilacustomer.org,1,"333 goiânia way",texas,78625,"grand prairie","united states","2005-05-27 05:39:03","2005-06-01 11:10:03",5.99,"2005-05-27 05:39:03",5
+157,darlene,rose,darlene.rose@sakilacustomer.org,1,"1386 nakhon sawan boulevard",pyongyang-si,53502,pyongyang,"north korea","2005-05-27 05:48:19","2005-05-29 09:05:19",0.99,"2005-05-27 05:48:19",2
+503,angel,barclay,angel.barclay@sakilacustomer.org,1,"496 celaya drive",nagano,90797,ueda,japan,"2005-05-27 06:03:39","2005-06-03 04:39:39",5.99,"2005-05-27 06:03:39",7
+452,tom,milner,tom.milner@sakilacustomer.org,1,"535 ahmadnagar manor","abu dhabi",41136,"abu dhabi","united arab emirates","2005-05-27 06:12:26","2005-06-01 06:48:26",2.99,"2005-05-27 06:12:26",5
+446,theodore,culp,theodore.culp@sakilacustomer.org,0,"1704 tambaram manor","west bengali",2834,uluberia,india,"2005-05-27 06:15:33","2005-06-01 02:50:33",4.99,"2005-05-27 06:15:33",5
+382,victor,barkley,victor.barkley@sakilacustomer.org,1,"401 sucre boulevard","new hampshire",25007,manchester,"united states","2005-05-27 06:32:30","2005-05-30 06:24:30",2.99,"2005-05-27 06:32:30",3
+198,elsie,kelley,elsie.kelley@sakilacustomer.org,1,"955 bamenda way","ondo & ekiti",1545,ikerre,nigeria,"2005-05-27 06:37:15","2005-05-30 07:04:15",0.99,"2005-05-27 06:37:15",3
+102,crystal,ford,crystal.ford@sakilacustomer.org,1,"659 vaduz drive","ha darom",49708,ashdod,israel,"2005-05-27 06:43:59","2005-05-29 11:28:59",0.99,"2005-05-27 06:43:59",2
+152,alicia,mills,alicia.mills@sakilacustomer.org,1,"1963 moscow place",assam,64863,nagaon,india,"2005-05-27 06:48:33","2005-05-29 03:55:33",4.99,"2005-05-27 06:48:33",2
+594,eduardo,hiatt,eduardo.hiatt@sakilacustomer.org,1,"1837 kaduna parkway","inner mongolia",82580,jining,china,"2005-05-27 06:51:14","2005-06-03 01:58:14",8.99,"2005-05-27 06:51:14",7
+587,sergio,stanfield,sergio.stanfield@sakilacustomer.org,1,"1402 zanzibar boulevard",guanajuato,71102,celaya,mexico,"2005-05-27 07:03:28","2005-05-31 08:01:28",0.99,"2005-05-27 07:03:28",4
+147,joanne,robertson,joanne.robertson@sakilacustomer.org,1,"1337 lincoln parkway",saitama,99457,urawa,japan,"2005-05-27 07:10:25","2005-06-01 08:34:25",0.99,"2005-05-27 07:10:25",5
+345,carl,artis,carl.artis@sakilacustomer.org,1,"1628 nagareyama lane",central,60079,"san lorenzo",paraguay,"2005-05-27 07:14:00","2005-05-28 12:22:00",0.99,"2005-05-27 07:14:00",1
+430,ray,houle,ray.houle@sakilacustomer.org,1,"740 udaipur lane","nizni novgorod",33505,dzerzinsk,"russian federation","2005-05-27 07:20:12","2005-05-31 10:44:12",4.99,"2005-05-27 07:20:12",4
+167,sally,pierce,sally.pierce@sakilacustomer.org,1,"1540 wroclaw drive",maharashtra,62686,chandrapur,india,"2005-05-27 07:31:20","2005-06-04 04:46:20",2.99,"2005-05-27 07:31:20",8
+134,emma,boyd,emma.boyd@sakilacustomer.org,1,"765 southampton drive",al-qalyubiya,4285,qalyub,egypt,"2005-05-27 07:33:54","2005-06-04 01:55:54",3.99,"2005-05-27 07:33:54",8
+439,alexander,fennell,alexander.fennell@sakilacustomer.org,1,"231 kaliningrad place",lombardia,57833,bergamo,italy,"2005-05-27 07:37:02","2005-05-30 05:43:02",0.99,"2005-05-27 07:37:02",3
+361,lawrence,lawton,lawrence.lawton@sakilacustomer.org,1,"114 jalib al-shuyukh manor",centre,60440,yaoundé,cameroon,"2005-05-27 07:42:29","2005-06-04 11:20:29",5.99,"2005-05-27 07:42:29",8
+508,milton,howland,milton.howland@sakilacustomer.org,1,"758 korolev parkway","andhra pradesh",75474,vijayawada,india,"2005-05-27 07:46:49","2005-06-01 06:20:49",2.99,"2005-05-27 07:46:49",5
+22,laura,rodriguez,laura.rodriguez@sakilacustomer.org,1,"28 charlotte amalie street",rabat-sal-zammour-z,37551,salé,morocco,"2005-05-27 07:49:43","2005-06-05 06:39:43",4.99,"2005-05-27 07:49:43",9
+295,daisy,bates,daisy.bates@sakilacustomer.org,1,"661 chisinau lane",pietari,8856,kolpino,"russian federation","2005-05-27 08:08:18","2005-06-05 03:05:18",3.99,"2005-05-27 08:08:18",9
+510,ben,easter,ben.easter@sakilacustomer.org,0,"886 tonghae place",volgograd,19450,kamyšin,"russian federation","2005-05-27 08:13:58","2005-06-04 03:50:58",5.99,"2005-05-27 08:13:58",8
+464,jerome,kenyon,jerome.kenyon@sakilacustomer.org,1,"1872 toulon loop",ohiggins,7939,rancagua,chile,"2005-05-27 08:16:25","2005-06-01 11:41:25",1.99,"2005-05-27 08:16:25",5
+337,jerry,jordon,jerry.jordon@sakilacustomer.org,1,"124 al-manama way",hiroshima,52368,onomichi,japan,"2005-05-27 08:26:30","2005-06-05 07:13:30",6.99,"2005-05-27 08:26:30",9
+306,charles,kowalski,charles.kowalski@sakilacustomer.org,1,"715 são bernardo do campo lane",kedah,84804,"sungai petani",malaysia,"2005-05-27 08:49:21","2005-06-04 14:11:21",3.99,"2005-05-27 08:49:21",8
+542,lonnie,tirado,lonnie.tirado@sakilacustomer.org,1,"1658 cumaná loop","sumatera selatan",51309,"pangkal pinang",indonesia,"2005-05-27 08:58:15","2005-06-02 04:48:15",4.99,"2005-05-27 08:58:15",6
+170,beatrice,arnold,beatrice.arnold@sakilacustomer.org,1,"1877 ezhou lane",rajasthan,63337,udaipur,india,"2005-05-27 09:04:05","2005-06-02 03:36:05",5.99,"2005-05-27 09:04:05",6
+53,heather,morris,heather.morris@sakilacustomer.org,1,"17 kabul boulevard",chiba,38594,nagareyama,japan,"2005-05-27 09:23:22","2005-05-29 15:20:22",2.99,"2005-05-27 09:23:22",2
+584,salvador,teel,salvador.teel@sakilacustomer.org,1,"247 jining parkway",banjul,53446,banjul,gambia,"2005-05-27 09:25:32","2005-06-02 06:19:32",4.99,"2005-05-27 09:25:32",6
+176,june,carroll,june.carroll@sakilacustomer.org,1,"757 rustenburg avenue",skikda,89668,skikda,algeria,"2005-05-27 09:34:39","2005-06-04 11:45:39",6.99,"2005-05-27 09:34:39",8
+371,billy,poulin,billy.poulin@sakilacustomer.org,1,"1061 ede avenue","southern tagalog",57810,cabuyao,philippines,"2005-05-27 09:43:25","2005-05-31 12:00:25",4.99,"2005-05-27 09:43:25",4
+183,ida,andrews,ida.andrews@sakilacustomer.org,1,"1839 székesfehérvár parkway",gois,55709,luziânia,brazil,"2005-05-27 10:12:00","2005-05-31 15:03:00",0.99,"2005-05-27 10:12:00",4
+298,erika,pena,erika.pena@sakilacustomer.org,1,"898 jining lane",pohjois-pohjanmaa,40070,oulu,finland,"2005-05-27 10:12:20","2005-06-03 10:37:20",3.99,"2005-05-27 10:12:20",7
+371,billy,poulin,billy.poulin@sakilacustomer.org,1,"1061 ede avenue","southern tagalog",57810,cabuyao,philippines,"2005-05-27 10:18:20","2005-06-02 09:21:20",5.99,"2005-05-27 10:18:20",6
+213,gina,williamson,gina.williamson@sakilacustomer.org,1,"1001 miyakonojo lane",taizz,67924,taizz,yemen,"2005-05-27 10:23:25","2005-05-30 15:27:25",0.99,"2005-05-27 10:23:25",3
+109,edna,west,edna.west@sakilacustomer.org,1,"682 junan way","north west",30418,klerksdorp,"south africa","2005-05-27 10:26:31","2005-05-30 08:32:31",0.99,"2005-05-27 10:26:31",3
+506,leslie,seward,leslie.seward@sakilacustomer.org,1,"1152 al-qatif lane","kalimantan barat",44816,pontianak,indonesia,"2005-05-27 10:35:27","2005-06-01 13:37:27",2.99,"2005-05-27 10:35:27",5
+28,cynthia,young,cynthia.young@sakilacustomer.org,1,"1425 shikarpur manor",bihar,65599,"munger (monghyr)",india,"2005-05-27 10:37:27","2005-05-30 05:45:27",2.99,"2005-05-27 10:37:27",3
+500,reginald,kinder,reginald.kinder@sakilacustomer.org,1,"519 brescia parkway","east java",69504,madiun,indonesia,"2005-05-27 10:45:41","2005-06-05 06:22:41",8.99,"2005-05-27 10:45:41",9
+48,ann,evans,ann.evans@sakilacustomer.org,1,"909 garland manor",tatarstan,69367,niznekamsk,"russian federation","2005-05-27 11:02:26","2005-06-02 16:09:26",4.99,"2005-05-27 11:02:26",6
+197,sue,peters,sue.peters@sakilacustomer.org,1,"817 bradford loop",ji´angsu,89459,changzhou,china,"2005-05-27 11:03:55","2005-06-01 11:59:55",2.99,"2005-05-27 11:03:55",5
+359,willie,markham,willie.markham@sakilacustomer.org,1,"1623 kingstown drive","buenos aires",91299,"almirante brown",argentina,"2005-05-27 11:14:42","2005-06-01 14:28:42",2.99,"2005-05-27 11:14:42",5
+251,vickie,brewer,vickie.brewer@sakilacustomer.org,1,"1966 tonghae street","anhalt sachsen",36481,halle/saale,germany,"2005-05-27 11:18:25","2005-05-28 07:10:25",2.99,"2005-05-27 11:18:25",1
+274,naomi,jennings,naomi.jennings@sakilacustomer.org,1,"1884 shikarpur avenue",haryana,85548,karnal,india,"2005-05-27 11:26:11","2005-06-03 16:44:11",5.99,"2005-05-27 11:26:11",7
+575,isaac,oglesby,isaac.oglesby@sakilacustomer.org,1,"186 skikda lane",morelos,89422,cuernavaca,mexico,"2005-05-27 11:45:49","2005-05-31 13:42:49",0.99,"2005-05-27 11:45:49",4
+112,rosa,reynolds,rosa.reynolds@sakilacustomer.org,1,"793 cam ranh avenue",california,87057,lancaster,"united states","2005-05-27 11:47:04","2005-05-29 10:14:04",0.99,"2005-05-27 11:47:04",2
+544,cody,nolen,cody.nolen@sakilacustomer.org,1,"1715 okayama street","são paulo",55676,"são bernardo do campo",brazil,"2005-05-27 12:29:02","2005-05-28 17:36:02",2.99,"2005-05-27 12:29:02",1
+422,melvin,ellington,melvin.ellington@sakilacustomer.org,1,"1557 cape coral parkway",hubei,46875,laohekou,china,"2005-05-27 12:44:03","2005-06-02 08:19:03",0.99,"2005-05-27 12:44:03",6
+204,rosemary,schmidt,rosemary.schmidt@sakilacustomer.org,1,"1215 pyongyang parkway",usak,25238,usak,turkey,"2005-05-27 12:48:38","2005-05-29 15:27:38",4.99,"2005-05-27 12:48:38",2
+249,dora,medina,dora.medina@sakilacustomer.org,1,"1760 oshawa manor",tianjin,38140,tianjin,china,"2005-05-27 12:51:44","2005-05-31 08:34:44",2.99,"2005-05-27 12:51:44",4
+46,catherine,campbell,catherine.campbell@sakilacustomer.org,1,"46 pjatigorsk lane","moscow (city)",23616,moscow,"russian federation","2005-05-27 12:57:55","2005-05-29 17:55:55",2.99,"2005-05-27 12:57:55",2
+354,justin,ngo,justin.ngo@sakilacustomer.org,1,"519 nyeri manor","são paulo",37650,"santo andré",brazil,"2005-05-27 13:17:18","2005-05-30 08:53:18",0.99,"2005-05-27 13:17:18",3
+424,kyle,spurlock,kyle.spurlock@sakilacustomer.org,1,"1269 botosani manor",guangdong,47394,shanwei,china,"2005-05-27 13:28:52","2005-05-29 11:47:52",0.99,"2005-05-27 13:28:52",2
+168,regina,berry,regina.berry@sakilacustomer.org,1,"475 atšinsk way",gansu,59571,jinchang,china,"2005-05-27 13:31:51","2005-05-30 16:58:51",0.99,"2005-05-27 13:31:51",3
+272,kay,caldwell,kay.caldwell@sakilacustomer.org,1,"85 san felipe de puerto plata drive",shandong,46063,yantai,china,"2005-05-27 13:32:39","2005-06-05 18:53:39",6.99,"2005-05-27 13:32:39",9
+381,bobby,boudreau,bobby.boudreau@sakilacustomer.org,1,"1368 maracaíbo boulevard",,32716,"south hill",anguilla,"2005-05-27 13:46:46","2005-05-30 12:43:46",2.99,"2005-05-27 13:46:46",3
+44,marie,turner,marie.turner@sakilacustomer.org,1,"1998 halifax drive",lipetsk,76022,lipetsk,"russian federation","2005-05-27 13:57:38","2005-05-31 18:23:38",2.99,"2005-05-27 13:57:38",4
+84,sara,perry,sara.perry@sakilacustomer.org,1,"125 città del vaticano boulevard",puebla,67912,atlixco,mexico,"2005-05-27 13:57:39","2005-05-28 11:57:39",0.99,"2005-05-27 13:57:39",1
+220,charlene,alvarez,charlene.alvarez@sakilacustomer.org,1,"1842 luziânia boulevard","zanzibar west",94420,zanzibar,tanzania,"2005-05-27 14:10:58","2005-06-02 10:40:58",0.99,"2005-05-27 14:10:58",6
+506,leslie,seward,leslie.seward@sakilacustomer.org,1,"1152 al-qatif lane","kalimantan barat",44816,pontianak,indonesia,"2005-05-27 14:11:22","2005-06-02 20:06:22",3.99,"2005-05-27 14:11:22",6
+388,craig,morrell,craig.morrell@sakilacustomer.org,1,"717 changzhou lane","southern tagalog",21615,cavite,philippines,"2005-05-27 14:14:14","2005-06-03 17:39:14",4.99,"2005-05-27 14:14:14",7
+375,aaron,selby,aaron.selby@sakilacustomer.org,1,"1519 santiago de los caballeros loop","east kasai",22025,mwene-ditu,"congo, the democratic republic of the","2005-05-27 14:17:23","2005-05-29 15:07:23",4.99,"2005-05-27 14:17:23",2
+307,joseph,joy,joseph.joy@sakilacustomer.org,1,"1354 siegen street","rio de janeiro",80184,"angra dos reis",brazil,"2005-05-27 14:45:37","2005-06-03 11:11:37",4.99,"2005-05-27 14:45:37",7
+219,willie,howell,willie.howell@sakilacustomer.org,1,"1244 allappuzha (alleppey) place","buenos aires",20657,"vicente lópez",argentina,"2005-05-27 14:48:20","2005-05-31 14:39:20",0.99,"2005-05-27 14:48:20",4
+304,david,royal,david.royal@sakilacustomer.org,1,"827 yuncheng drive",callao,79047,callao,peru,"2005-05-27 14:51:45","2005-05-28 19:07:45",0.99,"2005-05-27 14:51:45",1
+222,delores,hansen,delores.hansen@sakilacustomer.org,1,"810 palghat (palakkad) boulevard",jaroslavl,73431,jaroslavl,"russian federation","2005-05-27 15:02:10","2005-05-29 10:34:10",0.99,"2005-05-27 15:02:10",2
+475,pedro,chestnut,pedro.chestnut@sakilacustomer.org,1,"421 yaoundé street",sumy,11363,šostka,ukraine,"2005-05-27 15:07:27","2005-05-29 20:01:27",4.99,"2005-05-27 15:07:27",2
+151,megan,palmer,megan.palmer@sakilacustomer.org,1,"1560 jelets boulevard",shandong,77777,laiwu,china,"2005-05-27 15:13:17","2005-06-04 12:05:17",5.99,"2005-05-27 15:13:17",8
+77,jane,bennett,jane.bennett@sakilacustomer.org,1,"1692 ede loop","são paulo",9223,araçatuba,brazil,"2005-05-27 15:15:11","2005-06-02 11:53:11",1.99,"2005-05-27 15:15:11",6
+93,phyllis,foster,phyllis.foster@sakilacustomer.org,1,"832 nakhon sawan manor","inner mongolia",49021,zalantun,china,"2005-05-27 15:19:38","2005-06-03 15:07:38",6.99,"2005-05-27 15:19:38",7
+246,marian,mendoza,marian.mendoza@sakilacustomer.org,1,"829 grand prairie way",paraná,6461,maringá,brazil,"2005-05-27 15:30:13","2005-06-04 13:19:13",8.99,"2005-05-27 15:30:13",8
+150,danielle,daniels,danielle.daniels@sakilacustomer.org,1,"781 shimonoseki drive","michoacn de ocampo",95444,hidalgo,mexico,"2005-05-27 15:31:55","2005-06-01 11:47:55",3.99,"2005-05-27 15:31:55",5
+284,sonia,gregory,sonia.gregory@sakilacustomer.org,1,"1279 udine parkway","edo & delta",75860,"benin city",nigeria,"2005-05-27 15:32:57","2005-06-02 19:03:57",0.99,"2005-05-27 15:32:57",6
+35,virginia,green,virginia.green@sakilacustomer.org,1,"391 callao drive",midi-pyrnes,34021,toulouse,france,"2005-05-27 15:34:01","2005-06-05 09:44:01",6.99,"2005-05-27 15:34:01",9
+182,renee,lane,renee.lane@sakilacustomer.org,1,"533 al-ayn boulevard",california,8862,compton,"united states","2005-05-27 15:51:30","2005-06-03 16:52:30",3.99,"2005-05-27 15:51:30",7
+522,arnold,havens,arnold.havens@sakilacustomer.org,1,"1176 southend-on-sea manor","southern tagalog",81651,"santa rosa",philippines,"2005-05-27 15:56:57","2005-06-05 11:45:57",5.99,"2005-05-27 15:56:57",9
+288,bobbie,craig,bobbie.craig@sakilacustomer.org,1,"86 higashiosaka lane",guanajuato,33768,"valle de santiago",mexico,"2005-05-27 16:10:04","2005-06-05 13:22:04",6.99,"2005-05-27 16:10:04",9
+161,geraldine,perkins,geraldine.perkins@sakilacustomer.org,1,"97 shimoga avenue","tel aviv",44660,"tel aviv-jaffa",israel,"2005-05-27 16:10:58","2005-05-31 17:24:58",2.99,"2005-05-27 16:10:58",4
+498,gene,sanborn,gene.sanborn@sakilacustomer.org,1,"1416 san juan bautista tuxtepec avenue",zufar,50592,salala,oman,"2005-05-27 16:21:26","2005-06-05 20:23:26",8.99,"2005-05-27 16:21:26",9
+190,yolanda,weaver,yolanda.weaver@sakilacustomer.org,1,"605 rio claro parkway",tabora,49348,tabora,tanzania,"2005-05-27 16:22:10","2005-06-05 13:10:10",4.99,"2005-05-27 16:22:10",9
+334,raymond,mcwhorter,raymond.mcwhorter@sakilacustomer.org,1,"503 sogamoso loop",sumqayit,49812,sumqayit,azerbaijan,"2005-05-27 16:31:05","2005-06-05 11:29:05",8.99,"2005-05-27 16:31:05",9
+46,catherine,campbell,catherine.campbell@sakilacustomer.org,1,"46 pjatigorsk lane","moscow (city)",23616,moscow,"russian federation","2005-05-27 16:40:29","2005-05-29 16:20:29",4.99,"2005-05-27 16:40:29",2
+574,julian,vest,julian.vest@sakilacustomer.org,1,"923 tangail boulevard",tokyo-to,33384,akishima,japan,"2005-05-27 16:40:40","2005-05-30 19:55:40",0.99,"2005-05-27 16:40:40",3
+246,marian,mendoza,marian.mendoza@sakilacustomer.org,1,"829 grand prairie way",paraná,6461,maringá,brazil,"2005-05-27 16:54:27","2005-06-04 22:26:27",5.99,"2005-05-27 16:54:27",8
+3,linda,williams,linda.williams@sakilacustomer.org,1,"692 joliet street",attika,83579,athenai,greece,"2005-05-27 17:17:09","2005-06-02 11:20:09",1.99,"2005-05-27 17:17:09",6
+267,margie,wade,margie.wade@sakilacustomer.org,1,"1762 paarl parkway",hunan,53928,lengshuijiang,china,"2005-05-27 17:21:04","2005-05-30 21:26:04",4.99,"2005-05-27 17:21:04",3
+525,adrian,clary,adrian.clary@sakilacustomer.org,1,"1986 sivas place","friuli-venezia giuli",95775,udine,italy,"2005-05-27 17:47:22","2005-06-05 14:22:22",5.99,"2005-05-27 17:47:22",9
+249,dora,medina,dora.medina@sakilacustomer.org,1,"1760 oshawa manor",tianjin,38140,tianjin,china,"2005-05-27 17:52:34","2005-06-05 22:23:34",6.99,"2005-05-27 17:52:34",9
+319,ronald,weiner,ronald.weiner@sakilacustomer.org,1,"1145 vilnius manor",mxico,73170,"san felipe del progreso",mexico,"2005-05-27 17:54:48","2005-06-02 23:01:48",2.99,"2005-05-27 17:54:48",6
+314,george,linton,george.linton@sakilacustomer.org,1,"1957 yantai lane","são paulo",59255,sorocaba,brazil,"2005-05-27 18:00:35","2005-05-29 16:15:35",4.99,"2005-05-27 18:00:35",2
+54,teresa,rogers,teresa.rogers@sakilacustomer.org,1,"1964 allappuzha (alleppey) street",yamaguchi,48980,iwakuni,japan,"2005-05-27 18:11:05","2005-05-30 22:45:05",4.99,"2005-05-27 18:11:05",3
+403,mike,way,mike.way@sakilacustomer.org,1,"990 etawah loop","tamil nadu",79940,valparai,india,"2005-05-27 18:12:13","2005-05-30 12:30:13",2.99,"2005-05-27 18:12:13",3
+547,kurt,emmons,kurt.emmons@sakilacustomer.org,1,"1421 quilmes lane",ishikawa,19151,kanazawa,japan,"2005-05-27 18:35:20","2005-06-04 18:58:20",8.99,"2005-05-27 18:35:20",8
+239,minnie,romero,minnie.romero@sakilacustomer.org,1,"47 syktyvkar lane","west java",22236,ciomas,indonesia,"2005-05-27 18:39:15","2005-06-01 15:56:15",2.99,"2005-05-27 18:39:15",5
+293,mae,fletcher,mae.fletcher@sakilacustomer.org,1,"44 najafabad way",baskimaa,61391,"donostia-san sebastián",spain,"2005-05-27 18:42:57","2005-05-30 22:35:57",0.99,"2005-05-27 18:42:57",3
+401,tony,carranza,tony.carranza@sakilacustomer.org,1,"454 patiala lane",fukushima,13496,koriyama,japan,"2005-05-27 18:48:41","2005-06-03 16:42:41",4.99,"2005-05-27 18:48:41",7
+133,pauline,henry,pauline.henry@sakilacustomer.org,1,"261 saint louis way","coahuila de zaragoza",83401,torreón,mexico,"2005-05-27 18:57:02","2005-06-05 18:38:02",2.99,"2005-05-27 18:57:02",9
+247,stella,moreno,stella.moreno@sakilacustomer.org,1,"1473 changhwa parkway",mxico,75933,"coacalco de berriozábal",mexico,"2005-05-27 19:03:08","2005-06-03 20:28:08",3.99,"2005-05-27 19:03:08",7
+172,bernice,willis,bernice.willis@sakilacustomer.org,1,"29 pyongyang loop",batman,47753,batman,turkey,"2005-05-27 19:13:15","2005-06-04 01:08:15",3.99,"2005-05-27 19:13:15",8
+247,stella,moreno,stella.moreno@sakilacustomer.org,1,"1473 changhwa parkway",mxico,75933,"coacalco de berriozábal",mexico,"2005-05-27 19:18:54","2005-06-05 23:52:54",6.99,"2005-05-27 19:18:54",9
+87,wanda,patterson,wanda.patterson@sakilacustomer.org,1,"1740 portoviejo avenue",sucre,29932,sincelejo,colombia,"2005-05-27 19:27:54","2005-05-29 01:07:54",4.99,"2005-05-27 19:27:54",2
+127,elaine,stevens,elaine.stevens@sakilacustomer.org,1,"801 hagonoy drive",smolensk,8439,smolensk,"russian federation","2005-05-27 19:30:33","2005-05-30 20:53:33",0.99,"2005-05-27 19:30:33",3
+529,erik,guillen,erik.guillen@sakilacustomer.org,1,"635 brest manor","andhra pradesh",40899,bhimavaram,india,"2005-05-27 19:31:16","2005-05-29 23:06:16",2.99,"2005-05-27 19:31:16",2
+575,isaac,oglesby,isaac.oglesby@sakilacustomer.org,1,"186 skikda lane",morelos,89422,cuernavaca,mexico,"2005-05-27 19:31:36","2005-05-30 15:46:36",4.99,"2005-05-27 19:31:36",3
+343,douglas,graf,douglas.graf@sakilacustomer.org,1,"785 vaduz street","baja california",36170,mexicali,mexico,"2005-05-27 19:43:29","2005-06-04 23:40:29",3.99,"2005-05-27 19:43:29",8
+92,tina,simmons,tina.simmons@sakilacustomer.org,1,"984 effon-alaiye avenue",gois,17119,goiânia,brazil,"2005-05-27 19:50:06","2005-06-02 22:14:06",4.99,"2005-05-27 19:50:06",6
+300,john,farnsworth,john.farnsworth@sakilacustomer.org,1,"41 el alto parkway",maharashtra,56883,parbhani,india,"2005-05-27 19:52:29","2005-06-02 17:17:29",0.99,"2005-05-27 19:52:29",6
+565,jaime,nettles,jaime.nettles@sakilacustomer.org,1,"1746 faaa way",huánuco,32515,huánuco,peru,"2005-05-27 19:58:36","2005-06-06 00:51:36",6.99,"2005-05-27 19:58:36",10
+468,tim,cary,tim.cary@sakilacustomer.org,1,"1257 guadalajara street",karnataka,33599,bijapur,india,"2005-05-27 20:00:04","2005-05-29 22:47:04",0.99,"2005-05-27 20:00:04",2
+240,marlene,welch,marlene.welch@sakilacustomer.org,1,"1148 saarbrücken parkway",fukushima,1921,iwaki,japan,"2005-05-27 20:02:03","2005-05-28 16:14:03",2.99,"2005-05-27 20:02:03",1
+447,clifford,bowens,clifford.bowens@sakilacustomer.org,1,"207 cuernavaca loop",tatarstan,52671,"nabereznyje tšelny","russian federation","2005-05-27 20:08:55","2005-06-01 14:32:55",2.99,"2005-05-27 20:08:55",5
+364,benjamin,varney,benjamin.varney@sakilacustomer.org,1,"817 laredo avenue",jalisco,77449,guadalajara,mexico,"2005-05-27 20:10:36","2005-06-03 21:12:36",5.99,"2005-05-27 20:10:36",7
+21,michelle,clark,michelle.clark@sakilacustomer.org,1,"262 a coruña (la coruña) parkway",dhaka,34418,tangail,bangladesh,"2005-05-27 20:11:47","2005-06-04 21:18:47",3.99,"2005-05-27 20:11:47",8
+193,katie,elliott,katie.elliott@sakilacustomer.org,1,"447 surakarta loop",nyanza,10428,kisumu,kenya,"2005-05-27 20:42:44","2005-05-30 00:49:44",0.99,"2005-05-27 20:42:44",3
+261,deanna,byrd,deanna.byrd@sakilacustomer.org,1,"862 xintai lane","cagayan valley",30065,tuguegarao,philippines,"2005-05-27 20:44:36","2005-06-02 02:43:36",3.99,"2005-05-27 20:44:36",6
+442,leroy,bustamante,leroy.bustamante@sakilacustomer.org,1,"105 dzerzinsk manor","inner mongolia",48570,tongliao,china,"2005-05-27 20:57:07","2005-05-29 15:52:07",0.99,"2005-05-27 20:57:07",2
+557,felix,gaffney,felix.gaffney@sakilacustomer.org,1,"1059 yuncheng avenue",vilna,47498,vilnius,lithuania,"2005-05-27 21:10:03","2005-06-01 16:08:03",4.99,"2005-05-27 21:10:03",5
+101,peggy,myers,peggy.myers@sakilacustomer.org,1,"733 mandaluyong place",asir,77459,abha,"saudi arabia","2005-05-27 21:13:10","2005-06-04 15:26:10",9.99,"2005-05-27 21:13:10",8
+154,michele,grant,michele.grant@sakilacustomer.org,1,"798 cianjur avenue",shanxi,76990,yuncheng,china,"2005-05-27 21:14:26","2005-06-05 21:51:26",5.99,"2005-05-27 21:14:26",9
+504,nathaniel,adam,nathaniel.adam@sakilacustomer.org,1,"786 matsue way",illinois,37469,joliet,"united states","2005-05-27 21:17:08","2005-06-04 17:47:08",4.99,"2005-05-27 21:17:08",8
+209,tonya,chapman,tonya.chapman@sakilacustomer.org,1,"43 dadu avenue",rajasthan,4855,bhilwara,india,"2005-05-27 21:32:42","2005-05-31 00:39:42",0.99,"2005-05-27 21:32:42",4
+528,claude,herzog,claude.herzog@sakilacustomer.org,1,"486 ondo parkway",benguela,35202,benguela,angola,"2005-05-27 21:36:15","2005-05-29 21:07:15",0.99,"2005-05-27 21:36:15",2
+105,dawn,sullivan,dawn.sullivan@sakilacustomer.org,1,"454 nakhon sawan boulevard",funafuti,76383,funafuti,tuvalu,"2005-05-27 21:36:34","2005-06-05 17:02:34",7.99,"2005-05-27 21:36:34",9
+274,naomi,jennings,naomi.jennings@sakilacustomer.org,1,"1884 shikarpur avenue",haryana,85548,karnal,india,"2005-05-27 22:11:56","2005-05-31 19:07:56",2.99,"2005-05-27 22:11:56",4
+159,jill,hawkins,jill.hawkins@sakilacustomer.org,1,"1440 compton place","north austria",81037,linz,austria,"2005-05-27 22:16:26","2005-05-28 19:58:26",2.99,"2005-05-27 22:16:26",1
+543,lance,pemberton,lance.pemberton@sakilacustomer.org,1,"454 qinhuangdao drive",tadla-azilal,25866,beni-mellal,morocco,"2005-05-27 22:31:36","2005-06-03 19:12:36",1.99,"2005-05-27 22:31:36",7
+161,geraldine,perkins,geraldine.perkins@sakilacustomer.org,1,"97 shimoga avenue","tel aviv",44660,"tel aviv-jaffa",israel,"2005-05-27 22:33:33","2005-06-02 18:35:33",3.99,"2005-05-27 22:33:33",6
+557,felix,gaffney,felix.gaffney@sakilacustomer.org,1,"1059 yuncheng avenue",vilna,47498,vilnius,lithuania,"2005-05-27 22:38:20","2005-05-31 18:39:20",4.99,"2005-05-27 22:38:20",4
+231,georgia,jacobs,georgia.jacobs@sakilacustomer.org,1,"954 kimchon place","west bengali",42420,uttarpara-kotrung,india,"2005-05-27 22:39:10","2005-06-05 22:46:10",6.99,"2005-05-27 22:39:10",9
+220,charlene,alvarez,charlene.alvarez@sakilacustomer.org,1,"1842 luziânia boulevard","zanzibar west",94420,zanzibar,tanzania,"2005-05-27 22:47:39","2005-06-04 21:17:39",3.99,"2005-05-27 22:47:39",8
+445,micheal,forman,micheal.forman@sakilacustomer.org,1,"203 tambaram street","buenos aires",73942,escobar,argentina,"2005-05-27 22:49:27","2005-05-30 17:46:27",2.99,"2005-05-27 22:49:27",3
+546,kelly,knott,kelly.knott@sakilacustomer.org,1,"390 wroclaw way",hainan,5753,sanya,china,"2005-05-27 22:53:02","2005-06-01 22:53:02",6.99,"2005-05-27 22:53:02",5
+32,amy,lopez,amy.lopez@sakilacustomer.org,1,"176 mandaluyong place","uttar pradesh",65213,jhansi,india,"2005-05-27 23:00:25","2005-05-28 21:30:25",4.99,"2005-05-27 23:00:25",1
+491,rick,mattox,rick.mattox@sakilacustomer.org,1,"775 šostka drive",al-daqahliya,22358,"mit ghamr",egypt,"2005-05-27 23:26:45","2005-05-29 21:16:45",2.99,"2005-05-27 23:26:45",2
+105,dawn,sullivan,dawn.sullivan@sakilacustomer.org,1,"454 nakhon sawan boulevard",funafuti,76383,funafuti,tuvalu,"2005-05-27 23:40:52","2005-05-28 22:40:52",2.99,"2005-05-27 23:40:52",1
+398,antonio,meek,antonio.meek@sakilacustomer.org,1,"1190 0 place","rio grande do sul",10417,bagé,brazil,"2005-05-27 23:51:12","2005-05-28 20:26:12",4.99,"2005-05-27 23:51:12",1
+569,dave,gardiner,dave.gardiner@sakilacustomer.org,1,"1052 pathankot avenue",sichuan,77397,leshan,china,"2005-05-28 00:00:30","2005-05-28 19:18:30",4.99,"2005-05-28 00:00:30",0
+168,regina,berry,regina.berry@sakilacustomer.org,1,"475 atšinsk way",gansu,59571,jinchang,china,"2005-05-28 00:07:50","2005-06-03 22:30:50",4.99,"2005-05-28 00:07:50",6
+476,derrick,bourque,derrick.bourque@sakilacustomer.org,1,"1153 allende way",québec,20336,gatineau,canada,"2005-05-28 00:09:12","2005-05-31 04:44:12",4.99,"2005-05-28 00:09:12",3
+95,paula,bryant,paula.bryant@sakilacustomer.org,1,"1697 tanauan lane",punjab,22870,pathankot,india,"2005-05-28 00:09:56","2005-05-30 22:32:56",4.99,"2005-05-28 00:09:56",2
+196,alma,austin,alma.austin@sakilacustomer.org,1,"1074 binzhou manor",baden-wrttemberg,36490,mannheim,germany,"2005-05-28 00:13:35","2005-05-29 00:11:35",2.99,"2005-05-28 00:13:35",1
+228,allison,stanley,allison.stanley@sakilacustomer.org,1,"754 valencia place","phnom penh",87911,"phnom penh",cambodia,"2005-05-28 00:24:58","2005-05-28 22:34:58",4.99,"2005-05-28 00:24:58",0
+501,ruben,geary,ruben.geary@sakilacustomer.org,1,"414 mandaluyong street",lubelskie,16370,lublin,poland,"2005-05-28 00:34:11","2005-05-30 18:40:11",0.99,"2005-05-28 00:34:11",2
+64,judith,cox,judith.cox@sakilacustomer.org,0,"1966 amroha avenue",sichuan,70385,daxian,china,"2005-05-28 00:39:31","2005-06-02 19:35:31",4.99,"2005-05-28 00:39:31",5
+526,karl,seal,karl.seal@sakilacustomer.org,1,"1427 tabuk place",florida,31342,"cape coral","united states","2005-05-28 00:40:48","2005-05-29 06:07:48",4.99,"2005-05-28 00:40:48",1
+56,gloria,cook,gloria.cook@sakilacustomer.org,1,"1668 saint louis place",tahiti,39072,papeete,"french polynesia","2005-05-28 00:43:41","2005-06-04 03:56:41",2.99,"2005-05-28 00:43:41",7
+20,sharon,robinson,sharon.robinson@sakilacustomer.org,1,"1688 okara way","nothwest border prov",21954,mardan,pakistan,"2005-05-28 00:54:39","2005-06-03 20:47:39",6.99,"2005-05-28 00:54:39",6
+287,becky,miles,becky.miles@sakilacustomer.org,1,"1993 tabuk lane","tamil nadu",64221,tambaram,india,"2005-05-28 01:01:21","2005-05-30 21:20:21",0.99,"2005-05-28 01:01:21",2
+199,beth,franklin,beth.franklin@sakilacustomer.org,1,"1149 a coruña (la coruña) boulevard",haiphong,95824,haiphong,vietnam,"2005-05-28 01:05:07","2005-06-05 19:54:07",7.99,"2005-05-28 01:05:07",8
+145,lucille,holmes,lucille.holmes@sakilacustomer.org,1,"999 sanaa loop",gauteng,3439,soshanguve,"south africa","2005-05-28 01:05:25","2005-05-31 20:04:25",0.99,"2005-05-28 01:05:25",3
+162,lauren,hudson,lauren.hudson@sakilacustomer.org,1,"1740 le mans loop","pays de la loire",22853,"le mans",france,"2005-05-28 01:09:36","2005-05-30 06:14:36",4.99,"2005-05-28 01:09:36",2
+179,dana,hart,dana.hart@sakilacustomer.org,1,"1089 iwatsuki avenue",kirov,35109,kirovo-tšepetsk,"russian federation","2005-05-28 01:34:43","2005-05-31 01:02:43",0.99,"2005-05-28 01:34:43",3
+288,bobbie,craig,bobbie.craig@sakilacustomer.org,1,"86 higashiosaka lane",guanajuato,33768,"valle de santiago",mexico,"2005-05-28 01:35:25","2005-05-28 22:12:25",4.99,"2005-05-28 01:35:25",0
+170,beatrice,arnold,beatrice.arnold@sakilacustomer.org,1,"1877 ezhou lane",rajasthan,63337,udaipur,india,"2005-05-28 02:05:34","2005-05-30 23:03:34",0.99,"2005-05-28 02:05:34",2
+111,carmen,owens,carmen.owens@sakilacustomer.org,1,"1378 alvorada avenue","distrito federal",75834,caracas,venezuela,"2005-05-28 02:06:37","2005-05-29 06:57:37",2.99,"2005-05-28 02:06:37",1
+469,wesley,bull,wesley.bull@sakilacustomer.org,1,"1469 plock lane",galicia,95835,"ourense (orense)",spain,"2005-05-28 02:09:19","2005-06-05 20:34:19",7.99,"2005-05-28 02:09:19",8
+421,lee,hawks,lee.hawks@sakilacustomer.org,1,"1661 abha drive","tamil nadu",14400,pudukkottai,india,"2005-05-28 02:31:19","2005-06-02 05:07:19",0.99,"2005-05-28 02:31:19",5
+434,eddie,tomlin,eddie.tomlin@sakilacustomer.org,1,"1351 aparecida de goiânia parkway","northern mindanao",41775,ozamis,philippines,"2005-05-28 02:40:50","2005-06-05 03:05:50",5.99,"2005-05-28 02:40:50",8
+147,joanne,robertson,joanne.robertson@sakilacustomer.org,1,"1337 lincoln parkway",saitama,99457,urawa,japan,"2005-05-28 02:51:12","2005-05-31 06:27:12",0.99,"2005-05-28 02:51:12",3
+113,cindy,fisher,cindy.fisher@sakilacustomer.org,1,"1079 tel aviv-jaffa boulevard",sucre,10885,cumaná,venezuela,"2005-05-28 02:52:14","2005-05-30 21:20:14",0.99,"2005-05-28 02:52:14",2
+296,ramona,hale,ramona.hale@sakilacustomer.org,1,"951 stara zagora manor",punjab,98573,patiala,india,"2005-05-28 03:04:04","2005-06-03 04:58:04",5.99,"2005-05-28 03:04:04",6
+231,georgia,jacobs,georgia.jacobs@sakilacustomer.org,1,"954 kimchon place","west bengali",42420,uttarpara-kotrung,india,"2005-05-28 03:07:50","2005-06-05 02:12:50",8.99,"2005-05-28 03:07:50",8
+489,ricardo,meador,ricardo.meador@sakilacustomer.org,1,"591 sungai petani drive",okayama,46400,okayama,japan,"2005-05-28 03:08:10","2005-05-29 07:22:10",2.99,"2005-05-28 03:08:10",1
+597,freddie,duggan,freddie.duggan@sakilacustomer.org,1,"1103 quilmes boulevard",piura,52137,sullana,peru,"2005-05-28 03:09:28","2005-06-05 00:49:28",8.99,"2005-05-28 03:09:28",8
+110,tiffany,jordan,tiffany.jordan@sakilacustomer.org,1,"804 elista drive",hubei,61069,enshi,china,"2005-05-28 03:10:10","2005-06-04 02:18:10",7.99,"2005-05-28 03:10:10",7
+400,bryan,hardison,bryan.hardison@sakilacustomer.org,1,"530 lausanne lane",texas,11067,dallas,"united states","2005-05-28 03:11:47","2005-06-04 02:19:47",1.99,"2005-05-28 03:11:47",7
+403,mike,way,mike.way@sakilacustomer.org,1,"990 etawah loop","tamil nadu",79940,valparai,india,"2005-05-28 03:17:57","2005-05-29 06:33:57",0.99,"2005-05-28 03:17:57",1
+480,corey,hauser,corey.hauser@sakilacustomer.org,1,"984 novotšerkassk loop",gaziantep,28165,gaziantep,turkey,"2005-05-28 03:18:02","2005-05-30 05:32:02",0.99,"2005-05-28 03:18:02",2
+245,courtney,day,courtney.day@sakilacustomer.org,1,"300 junan street",kyonggi,81314,uijongbu,"south korea","2005-05-28 03:22:33","2005-06-03 05:06:33",7.99,"2005-05-28 03:22:33",6
+161,geraldine,perkins,geraldine.perkins@sakilacustomer.org,1,"97 shimoga avenue","tel aviv",44660,"tel aviv-jaffa",israel,"2005-05-28 03:27:37","2005-06-04 05:47:37",5.99,"2005-05-28 03:27:37",7
+374,jeremy,hurtado,jeremy.hurtado@sakilacustomer.org,1,"1133 rizhao avenue",pernambuco,2800,"vitória de santo antão",brazil,"2005-05-28 03:32:22","2005-05-28 22:37:22",0.99,"2005-05-28 03:32:22",0
+382,victor,barkley,victor.barkley@sakilacustomer.org,1,"401 sucre boulevard","new hampshire",25007,manchester,"united states","2005-05-28 03:33:20","2005-05-31 04:23:20",2.99,"2005-05-28 03:33:20",3
+138,hazel,warren,hazel.warren@sakilacustomer.org,1,"1587 sullana lane","inner mongolia",85769,hohhot,china,"2005-05-28 03:53:26","2005-05-31 05:58:26",2.99,"2005-05-28 03:53:26",3
+223,melinda,fernandez,melinda.fernandez@sakilacustomer.org,1,"1820 maringá parkway",punjab,88307,"mandi bahauddin",pakistan,"2005-05-28 03:57:28","2005-05-31 05:20:28",2.99,"2005-05-28 03:57:28",3
+14,betty,white,betty.white@sakilacustomer.org,1,"770 bydgoszcz avenue",california,16266,"citrus heights","united states","2005-05-28 04:25:33","2005-06-06 04:18:33",5.99,"2005-05-28 04:25:33",9
+408,manuel,murrell,manuel.murrell@sakilacustomer.org,1,"692 amroha drive",northern,35575,jaffna,"sri lanka","2005-05-28 04:27:37","2005-05-30 07:52:37",2.99,"2005-05-28 04:27:37",2
+169,erica,matthews,erica.matthews@sakilacustomer.org,0,"1294 firozabad drive",ji´angxi,70618,pingxiang,china,"2005-05-28 04:28:38","2005-06-02 08:19:38",3.99,"2005-05-28 04:28:38",5
+359,willie,markham,willie.markham@sakilacustomer.org,1,"1623 kingstown drive","buenos aires",91299,"almirante brown",argentina,"2005-05-28 04:30:05","2005-06-03 10:01:05",3.99,"2005-05-28 04:30:05",6
+469,wesley,bull,wesley.bull@sakilacustomer.org,1,"1469 plock lane",galicia,95835,"ourense (orense)",spain,"2005-05-28 04:34:17","2005-05-30 00:35:17",4.99,"2005-05-28 04:34:17",2
+312,mark,rinehart,mark.rinehart@sakilacustomer.org,1,"780 kimberley way",tabuk,17032,tabuk,"saudi arabia","2005-05-28 05:13:01","2005-06-01 10:21:01",0.99,"2005-05-28 05:13:01",4
+589,tracy,herrmann,tracy.herrmann@sakilacustomer.org,1,"1074 sanaa parkway",loja,22474,loja,ecuador,"2005-05-28 05:23:38","2005-05-29 08:00:38",0.99,"2005-05-28 05:23:38",1
+120,sylvia,ortiz,sylvia.ortiz@sakilacustomer.org,1,"241 mosul lane",risaralda,76157,"dos quebradas",colombia,"2005-05-28 05:36:58","2005-06-02 01:50:58",0.99,"2005-05-28 05:36:58",5
+528,claude,herzog,claude.herzog@sakilacustomer.org,1,"486 ondo parkway",benguela,35202,benguela,angola,"2005-05-28 06:14:46","2005-06-01 06:26:46",5.99,"2005-05-28 06:14:46",4
+184,vivian,ruiz,vivian.ruiz@sakilacustomer.org,1,"741 ambattur manor",noord-brabant,43310,´s-hertogenbosch,netherlands,"2005-05-28 06:15:25","2005-06-06 07:51:25",4.99,"2005-05-28 06:15:25",9
+307,joseph,joy,joseph.joy@sakilacustomer.org,1,"1354 siegen street","rio de janeiro",80184,"angra dos reis",brazil,"2005-05-28 06:16:32","2005-05-31 02:48:32",4.99,"2005-05-28 06:16:32",3
+514,franklin,troutman,franklin.troutman@sakilacustomer.org,1,"1778 gijón manor",hubei,35156,zaoyang,china,"2005-05-28 06:17:33","2005-06-03 10:02:33",4.99,"2005-05-28 06:17:33",6
+315,kenneth,gooden,kenneth.gooden@sakilacustomer.org,0,"1542 lubumbashi boulevard","tel aviv",62472,"bat yam",israel,"2005-05-28 06:20:55","2005-06-05 11:48:55",8.99,"2005-05-28 06:20:55",8
+110,tiffany,jordan,tiffany.jordan@sakilacustomer.org,1,"804 elista drive",hubei,61069,enshi,china,"2005-05-28 06:21:05","2005-06-02 01:22:05",1.99,"2005-05-28 06:21:05",5
+161,geraldine,perkins,geraldine.perkins@sakilacustomer.org,1,"97 shimoga avenue","tel aviv",44660,"tel aviv-jaffa",israel,"2005-05-28 06:26:16","2005-05-30 02:02:16",0.99,"2005-05-28 06:26:16",2
+119,sherry,marshall,sherry.marshall@sakilacustomer.org,1,"1987 coacalco de berriozábal loop",al-qalyubiya,96065,"shubra al-khayma",egypt,"2005-05-28 06:40:25","2005-06-06 00:47:25",6.99,"2005-05-28 06:40:25",9
+535,javier,elrod,javier.elrod@sakilacustomer.org,1,"195 ilorin street",chari-baguirmi,49250,ndjamna,chad,"2005-05-28 06:41:58","2005-06-02 09:12:58",2.99,"2005-05-28 06:41:58",5
+261,deanna,byrd,deanna.byrd@sakilacustomer.org,1,"862 xintai lane","cagayan valley",30065,tuguegarao,philippines,"2005-05-28 06:42:13","2005-06-03 09:05:13",6.99,"2005-05-28 06:42:13",6
+493,brent,harkins,brent.harkins@sakilacustomer.org,1,"319 plock parkway",istanbul,26101,sultanbeyli,turkey,"2005-05-28 06:43:34","2005-06-06 07:16:34",7.99,"2005-05-28 06:43:34",9
+311,paul,trout,paul.trout@sakilacustomer.org,1,"746 joliet lane",kursk,94878,kursk,"russian federation","2005-05-28 07:03:00","2005-06-06 06:23:00",6.99,"2005-05-28 07:03:00",9
+54,teresa,rogers,teresa.rogers@sakilacustomer.org,1,"1964 allappuzha (alleppey) street",yamaguchi,48980,iwakuni,japan,"2005-05-28 07:10:20","2005-06-04 01:47:20",3.99,"2005-05-28 07:10:20",7
+20,sharon,robinson,sharon.robinson@sakilacustomer.org,1,"1688 okara way","nothwest border prov",21954,mardan,pakistan,"2005-05-28 07:16:25","2005-06-01 08:36:25",1.99,"2005-05-28 07:16:25",4
+506,leslie,seward,leslie.seward@sakilacustomer.org,1,"1152 al-qatif lane","kalimantan barat",44816,pontianak,indonesia,"2005-05-28 07:24:28","2005-06-06 01:31:28",8.99,"2005-05-28 07:24:28",9
+450,jay,robb,jay.robb@sakilacustomer.org,1,"1947 paarl way","central java",23636,surakarta,indonesia,"2005-05-28 07:34:56","2005-06-05 03:14:56",3.99,"2005-05-28 07:34:56",8
+159,jill,hawkins,jill.hawkins@sakilacustomer.org,1,"1440 compton place","north austria",81037,linz,austria,"2005-05-28 07:35:37","2005-06-02 09:08:37",1.99,"2005-05-28 07:35:37",5
+432,edwin,burk,edwin.burk@sakilacustomer.org,1,"1766 almirante brown street",kwazulu-natal,63104,newcastle,"south africa","2005-05-28 07:39:16","2005-06-06 12:20:16",5.99,"2005-05-28 07:39:16",9
+315,kenneth,gooden,kenneth.gooden@sakilacustomer.org,0,"1542 lubumbashi boulevard","tel aviv",62472,"bat yam",israel,"2005-05-28 07:44:18","2005-06-02 12:55:18",4.99,"2005-05-28 07:44:18",5
+106,connie,wallace,connie.wallace@sakilacustomer.org,1,"1867 san juan bautista tuxtepec avenue",ivanovo,78311,ivanovo,"russian federation","2005-05-28 07:53:38","2005-06-04 12:45:38",3.99,"2005-05-28 07:53:38",7
+176,june,carroll,june.carroll@sakilacustomer.org,1,"757 rustenburg avenue",skikda,89668,skikda,algeria,"2005-05-28 08:14:44","2005-06-02 03:01:44",3.99,"2005-05-28 08:14:44",5
+376,randy,gaither,randy.gaither@sakilacustomer.org,1,"1618 olomouc manor",kurgan,26385,kurgan,"russian federation","2005-05-28 08:23:16","2005-05-31 03:29:16",0.99,"2005-05-28 08:23:16",3
+55,doris,reed,doris.reed@sakilacustomer.org,1,"1697 kowloon and new kowloon loop",moskova,57807,balašiha,"russian federation","2005-05-28 08:31:14","2005-05-30 07:34:14",4.99,"2005-05-28 08:31:14",2
+22,laura,rodriguez,laura.rodriguez@sakilacustomer.org,1,"28 charlotte amalie street",rabat-sal-zammour-z,37551,salé,morocco,"2005-05-28 08:31:36","2005-06-06 07:29:36",4.99,"2005-05-28 08:31:36",9
+444,marcus,hidalgo,marcus.hidalgo@sakilacustomer.org,1,"1289 belém boulevard",tartumaa,88306,tartu,estonia,"2005-05-28 08:36:22","2005-06-03 10:42:22",0.99,"2005-05-28 08:36:22",6
+442,leroy,bustamante,leroy.bustamante@sakilacustomer.org,1,"105 dzerzinsk manor","inner mongolia",48570,tongliao,china,"2005-05-28 08:38:43","2005-06-06 13:52:43",6.99,"2005-05-28 08:38:43",9
+572,sidney,burleson,sidney.burleson@sakilacustomer.org,1,"1405 hagonoy avenue",slaskie,86587,czestochowa,poland,"2005-05-28 08:39:02","2005-06-05 08:38:02",7.99,"2005-05-28 08:39:02",8
+463,darrell,power,darrell.power@sakilacustomer.org,1,"1844 usak avenue","nova scotia",84461,halifax,canada,"2005-05-28 08:53:02","2005-06-04 12:27:02",1.99,"2005-05-28 08:53:02",7
+77,jane,bennett,jane.bennett@sakilacustomer.org,1,"1692 ede loop","são paulo",9223,araçatuba,brazil,"2005-05-28 08:54:06","2005-06-05 05:54:06",2.99,"2005-05-28 08:54:06",8
+102,crystal,ford,crystal.ford@sakilacustomer.org,1,"659 vaduz drive","ha darom",49708,ashdod,israel,"2005-05-28 09:01:21","2005-06-02 05:26:21",1.99,"2005-05-28 09:01:21",5
+324,gary,coy,gary.coy@sakilacustomer.org,1,"867 benin city avenue",henan,78543,yuzhou,china,"2005-05-28 09:10:49","2005-06-06 11:32:49",3.99,"2005-05-28 09:10:49",9
+282,jenny,castro,jenny.castro@sakilacustomer.org,1,"1405 chisinau place",ponce,8160,ponce,"puerto rico","2005-05-28 09:12:09","2005-05-29 05:07:09",0.99,"2005-05-28 09:12:09",1
+288,bobbie,craig,bobbie.craig@sakilacustomer.org,1,"86 higashiosaka lane",guanajuato,33768,"valle de santiago",mexico,"2005-05-28 09:26:31","2005-06-01 07:28:31",5.99,"2005-05-28 09:26:31",4
+253,terry,carlson,terry.carlson@sakilacustomer.org,1,"752 ondo loop",miyazaki,32474,miyakonojo,japan,"2005-05-28 09:51:39","2005-06-05 09:35:39",6.99,"2005-05-28 09:51:39",8
+184,vivian,ruiz,vivian.ruiz@sakilacustomer.org,1,"741 ambattur manor",noord-brabant,43310,´s-hertogenbosch,netherlands,"2005-05-28 09:56:20","2005-06-01 06:41:20",1.99,"2005-05-28 09:56:20",4
+155,gail,knight,gail.knight@sakilacustomer.org,1,"185 novi sad place",bern,41778,bern,switzerland,"2005-05-28 09:57:36","2005-05-31 15:44:36",2.99,"2005-05-28 09:57:36",3
+56,gloria,cook,gloria.cook@sakilacustomer.org,1,"1668 saint louis place",tahiti,39072,papeete,"french polynesia","2005-05-28 10:12:41","2005-06-03 10:08:41",6.99,"2005-05-28 10:12:41",6
+21,michelle,clark,michelle.clark@sakilacustomer.org,1,"262 a coruña (la coruña) parkway",dhaka,34418,tangail,bangladesh,"2005-05-28 10:15:04","2005-05-30 08:32:04",0.99,"2005-05-28 10:15:04",2
+516,elmer,noe,elmer.noe@sakilacustomer.org,1,"1768 udine loop",battambang,32347,battambang,cambodia,"2005-05-28 10:17:41","2005-06-05 07:56:41",1.99,"2005-05-28 10:17:41",8
+337,jerry,jordon,jerry.jordon@sakilacustomer.org,1,"124 al-manama way",hiroshima,52368,onomichi,japan,"2005-05-28 10:30:13","2005-06-02 05:04:13",4.99,"2005-05-28 10:30:13",5
+1,mary,smith,mary.smith@sakilacustomer.org,1,"1913 hanoi way",nagasaki,35200,sasebo,japan,"2005-05-28 10:35:23","2005-06-03 06:32:23",0.99,"2005-05-28 10:35:23",6
+76,irene,price,irene.price@sakilacustomer.org,1,"602 paarl street",pavlodar,98889,pavlodar,kazakstan,"2005-05-28 10:44:28","2005-06-04 11:42:28",1.99,"2005-05-28 10:44:28",7
+142,april,burns,april.burns@sakilacustomer.org,1,"483 ljubertsy parkway",scotland,60562,dundee,"united kingdom","2005-05-28 10:56:09","2005-06-05 15:39:09",9.99,"2005-05-28 10:56:09",8
+588,marion,ocampo,marion.ocampo@sakilacustomer.org,1,"1464 kursk parkway",shandong,17381,weifang,china,"2005-05-28 10:56:10","2005-06-04 13:15:10",2.99,"2005-05-28 10:56:10",7
+6,jennifer,davis,jennifer.davis@sakilacustomer.org,1,"1795 santiago de compostela way",texas,18743,laredo,"united states","2005-05-28 11:09:14","2005-06-01 13:27:14",2.99,"2005-05-28 11:09:14",4
+173,audrey,ray,audrey.ray@sakilacustomer.org,1,"1010 klerksdorp way",steiermark,6802,graz,austria,"2005-05-28 11:15:48","2005-06-02 09:59:48",2.99,"2005-05-28 11:15:48",5
+181,ana,bradley,ana.bradley@sakilacustomer.org,1,"682 garden grove place",tennessee,67497,memphis,"united states","2005-05-28 11:19:23","2005-06-02 13:51:23",6.99,"2005-05-28 11:19:23",5
+17,donna,thompson,donna.thompson@sakilacustomer.org,1,"270 toulon boulevard",kalmykia,81766,elista,"russian federation","2005-05-28 11:19:53","2005-06-01 10:44:53",2.99,"2005-05-28 11:19:53",4
+186,holly,fox,holly.fox@sakilacustomer.org,1,"435 0 way","west bengali",74750,haldia,india,"2005-05-28 11:20:29","2005-06-04 12:37:29",1.99,"2005-05-28 11:20:29",7
+198,elsie,kelley,elsie.kelley@sakilacustomer.org,1,"955 bamenda way","ondo & ekiti",1545,ikerre,nigeria,"2005-05-28 11:33:46","2005-05-29 08:33:46",4.99,"2005-05-28 11:33:46",1
+386,todd,tan,todd.tan@sakilacustomer.org,1,"1793 meixian place",hmelnytskyi,33535,kamjanets-podilskyi,ukraine,"2005-05-28 11:48:55","2005-06-04 07:09:55",7.99,"2005-05-28 11:48:55",7
+69,judy,gray,judy.gray@sakilacustomer.org,1,"1031 daugavpils parkway",béchar,59025,béchar,algeria,"2005-05-28 11:49:00","2005-06-01 11:54:00",4.99,"2005-05-28 11:49:00",4
+490,sam,mcduffie,sam.mcduffie@sakilacustomer.org,1,"656 matamoros drive",boyac,19489,sogamoso,colombia,"2005-05-28 11:50:45","2005-06-03 15:35:45",6.99,"2005-05-28 11:50:45",6
+77,jane,bennett,jane.bennett@sakilacustomer.org,1,"1692 ede loop","são paulo",9223,araçatuba,brazil,"2005-05-28 12:03:00","2005-05-29 13:16:00",0.99,"2005-05-28 12:03:00",1
+64,judith,cox,judith.cox@sakilacustomer.org,0,"1966 amroha avenue",sichuan,70385,daxian,china,"2005-05-28 12:05:33","2005-05-30 13:45:33",0.99,"2005-05-28 12:05:33",2
+89,julia,flores,julia.flores@sakilacustomer.org,1,"1926 el alto avenue","buenos aires",75543,"la plata",argentina,"2005-05-28 12:08:37","2005-05-29 16:25:37",0.99,"2005-05-28 12:08:37",1
+308,thomas,grigsby,thomas.grigsby@sakilacustomer.org,1,"1191 sungai petani boulevard",missouri,9668,"kansas city","united states","2005-05-28 12:27:50","2005-06-03 07:15:50",3.99,"2005-05-28 12:27:50",6
+462,warren,sherrod,warren.sherrod@sakilacustomer.org,1,"1621 tongliao avenue",irkutsk,22173,usolje-sibirskoje,"russian federation","2005-05-28 13:06:50","2005-06-02 09:18:50",3.99,"2005-05-28 13:06:50",5
+19,ruth,martinez,ruth.martinez@sakilacustomer.org,1,"1417 lancaster avenue","northern cape",72192,kimberley,"south africa","2005-05-28 13:11:04","2005-05-29 17:20:04",2.99,"2005-05-28 13:11:04",1
+244,viola,hanson,viola.hanson@sakilacustomer.org,1,"582 papeete loop","central visayas",27722,lapu-lapu,philippines,"2005-05-28 13:21:08","2005-05-29 16:55:08",4.99,"2005-05-28 13:21:08",1
+16,sandra,martin,sandra.martin@sakilacustomer.org,0,"360 toulouse parkway",england,54308,southend-on-sea,"united kingdom","2005-05-28 13:33:23","2005-05-30 17:10:23",2.99,"2005-05-28 13:33:23",2
+538,ted,breaux,ted.breaux@sakilacustomer.org,1,"183 haiphong street",jilin,69953,baicheng,china,"2005-05-28 13:41:56","2005-05-30 12:00:56",2.99,"2005-05-28 13:41:56",2
+294,shelly,watts,shelly.watts@sakilacustomer.org,1,"32 pudukkottai lane",ohio,38834,dayton,"united states","2005-05-28 13:59:54","2005-06-05 15:16:54",1.99,"2005-05-28 13:59:54",8
+589,tracy,herrmann,tracy.herrmann@sakilacustomer.org,1,"1074 sanaa parkway",loja,22474,loja,ecuador,"2005-05-28 14:00:03","2005-05-29 17:10:03",4.99,"2005-05-28 14:00:03",1
+249,dora,medina,dora.medina@sakilacustomer.org,1,"1760 oshawa manor",tianjin,38140,tianjin,china,"2005-05-28 14:01:02","2005-06-06 19:06:02",3.99,"2005-05-28 14:01:02",9
+159,jill,hawkins,jill.hawkins@sakilacustomer.org,1,"1440 compton place","north austria",81037,linz,austria,"2005-05-28 14:04:50","2005-06-03 18:00:50",0.99,"2005-05-28 14:04:50",6
+393,philip,causey,philip.causey@sakilacustomer.org,1,"954 lapu-lapu way",moskova,8816,korolev,"russian federation","2005-05-28 14:05:57","2005-06-01 16:41:57",4.99,"2005-05-28 14:05:57",4
+332,stephen,qualls,stephen.qualls@sakilacustomer.org,1,"1838 tabriz lane",dhaka,1195,dhaka,bangladesh,"2005-05-28 14:08:19","2005-06-03 11:57:19",3.99,"2005-05-28 14:08:19",6
+429,frederick,isbell,frederick.isbell@sakilacustomer.org,1,"1404 taguig drive",okayama,87212,tsuyama,japan,"2005-05-28 14:08:22","2005-06-04 10:50:22",7.99,"2005-05-28 14:08:22",7
+590,seth,hannon,seth.hannon@sakilacustomer.org,1,"1759 niznekamsk avenue",al-manama,39414,al-manama,bahrain,"2005-05-28 14:15:54","2005-06-05 15:16:54",3.99,"2005-05-28 14:15:54",8
+537,clinton,buford,clinton.buford@sakilacustomer.org,1,"43 vilnius manor",colorado,79814,aurora,"united states","2005-05-28 14:27:51","2005-05-29 13:13:51",4.99,"2005-05-28 14:27:51",1
+426,bradley,motley,bradley.motley@sakilacustomer.org,1,"1596 acuña parkway",jharkhand,70425,"purnea (purnia)",india,"2005-05-28 14:37:07","2005-06-03 11:03:07",0.99,"2005-05-28 14:37:07",6
+501,ruben,geary,ruben.geary@sakilacustomer.org,1,"414 mandaluyong street",lubelskie,16370,lublin,poland,"2005-05-28 14:39:10","2005-06-01 09:28:10",1.99,"2005-05-28 14:39:10",4
+299,james,gannon,james.gannon@sakilacustomer.org,1,"1635 kuwana boulevard",hiroshima,52137,hiroshima,japan,"2005-05-28 14:48:39","2005-06-04 09:44:39",8.99,"2005-05-28 14:48:39",7
+554,dwayne,olvera,dwayne.olvera@sakilacustomer.org,1,"1447 imus place",gujarat,12905,rajkot,india,"2005-05-28 15:02:41","2005-05-30 12:54:41",2.99,"2005-05-28 15:02:41",2
+494,ramon,choate,ramon.choate@sakilacustomer.org,1,"1954 kowloon and new kowloon way",chimborazo,63667,ríobamba,ecuador,"2005-05-28 15:03:44","2005-06-04 17:14:44",4.99,"2005-05-28 15:03:44",7
+150,danielle,daniels,danielle.daniels@sakilacustomer.org,1,"781 shimonoseki drive","michoacn de ocampo",95444,hidalgo,mexico,"2005-05-28 15:04:02","2005-06-05 14:47:02",2.99,"2005-05-28 15:04:02",8
+500,reginald,kinder,reginald.kinder@sakilacustomer.org,1,"519 brescia parkway","east java",69504,madiun,indonesia,"2005-05-28 15:15:25","2005-06-02 12:30:25",0.99,"2005-05-28 15:15:25",5
+580,ross,grey,ross.grey@sakilacustomer.org,1,"951 springs lane","central mindanao",96115,iligan,philippines,"2005-05-28 15:18:18","2005-05-31 20:15:18",0.99,"2005-05-28 15:18:18",3
+161,geraldine,perkins,geraldine.perkins@sakilacustomer.org,1,"97 shimoga avenue","tel aviv",44660,"tel aviv-jaffa",israel,"2005-05-28 15:24:54","2005-05-30 14:22:54",2.99,"2005-05-28 15:24:54",2
+595,terrence,gunderson,terrence.gunderson@sakilacustomer.org,1,"844 bucuresti place",liaoning,36603,jinzhou,china,"2005-05-28 15:27:22","2005-06-02 20:01:22",6.99,"2005-05-28 15:27:22",5
+307,joseph,joy,joseph.joy@sakilacustomer.org,1,"1354 siegen street","rio de janeiro",80184,"angra dos reis",brazil,"2005-05-28 15:33:28","2005-06-04 12:27:28",1.99,"2005-05-28 15:33:28",7
+533,jessie,milam,jessie.milam@sakilacustomer.org,1,"1332 gaziantep lane",shandong,22813,binzhou,china,"2005-05-28 15:35:52","2005-06-03 17:35:52",5.99,"2005-05-28 15:35:52",6
+471,dean,sauer,dean.sauer@sakilacustomer.org,1,"270 tambaram parkway",gauteng,9668,johannesburg,"south africa","2005-05-28 15:45:39","2005-06-02 09:55:39",2.99,"2005-05-28 15:45:39",5
+372,steve,mackenzie,steve.mackenzie@sakilacustomer.org,1,"154 oshawa manor","east java",72771,probolinggo,indonesia,"2005-05-28 15:49:14","2005-05-31 14:29:14",2.99,"2005-05-28 15:49:14",3
+248,caroline,bowman,caroline.bowman@sakilacustomer.org,1,"1309 weifang street",florida,57338,tallahassee,"united states","2005-05-28 15:50:07","2005-06-01 19:45:07",4.99,"2005-05-28 15:50:07",4
+407,dale,ratcliff,dale.ratcliff@sakilacustomer.org,1,"1639 saarbrücken drive","north west",9827,rustenburg,"south africa","2005-05-28 15:52:26","2005-06-06 17:55:26",7.99,"2005-05-28 15:52:26",9
+321,kevin,schuler,kevin.schuler@sakilacustomer.org,1,"470 boksburg street",central,97960,birgunj,nepal,"2005-05-28 15:54:45","2005-06-04 20:26:45",5.99,"2005-05-28 15:54:45",7
+239,minnie,romero,minnie.romero@sakilacustomer.org,1,"47 syktyvkar lane","west java",22236,ciomas,indonesia,"2005-05-28 15:58:12","2005-05-30 21:54:12",4.99,"2005-05-28 15:58:12",2
+109,edna,west,edna.west@sakilacustomer.org,1,"682 junan way","north west",30418,klerksdorp,"south africa","2005-05-28 15:58:22","2005-06-04 10:13:22",3.99,"2005-05-28 15:58:22",7
+495,charlie,bess,charlie.bess@sakilacustomer.org,1,"362 rajkot lane",gansu,98030,baiyin,china,"2005-05-28 16:01:28","2005-05-30 11:19:28",4.99,"2005-05-28 16:01:28",2
+569,dave,gardiner,dave.gardiner@sakilacustomer.org,1,"1052 pathankot avenue",sichuan,77397,leshan,china,"2005-05-28 16:13:22","2005-06-06 20:35:22",4.99,"2005-05-28 16:13:22",9
+596,enrique,forsythe,enrique.forsythe@sakilacustomer.org,1,"1101 bucuresti boulevard","west greece",97661,patras,greece,"2005-05-28 16:35:46","2005-06-01 14:19:46",0.99,"2005-05-28 16:35:46",4
+584,salvador,teel,salvador.teel@sakilacustomer.org,1,"247 jining parkway",banjul,53446,banjul,gambia,"2005-05-28 16:58:09","2005-06-01 14:02:09",4.99,"2005-05-28 16:58:09",4
+241,heidi,larson,heidi.larson@sakilacustomer.org,0,"1103 bilbays parkway",hubei,87660,xi´angfan,china,"2005-05-28 17:04:43","2005-06-04 19:58:43",7.99,"2005-05-28 17:04:43",7
+173,audrey,ray,audrey.ray@sakilacustomer.org,1,"1010 klerksdorp way",steiermark,6802,graz,austria,"2005-05-28 17:05:46","2005-06-06 16:29:46",4.99,"2005-05-28 17:05:46",9
+94,norma,gonzales,norma.gonzales@sakilacustomer.org,1,"152 kitwe parkway",caraga,53182,bislig,philippines,"2005-05-28 17:19:15","2005-06-02 20:01:15",4.99,"2005-05-28 17:19:15",5
+417,travis,estep,travis.estep@sakilacustomer.org,1,"289 santo andré manor",al-sharqiya,72410,al-qatif,"saudi arabia","2005-05-28 17:24:51","2005-06-05 20:05:51",8.99,"2005-05-28 17:24:51",8
+503,angel,barclay,angel.barclay@sakilacustomer.org,1,"496 celaya drive",nagano,90797,ueda,japan,"2005-05-28 17:36:32","2005-06-03 14:56:32",2.99,"2005-05-28 17:36:32",6
+442,leroy,bustamante,leroy.bustamante@sakilacustomer.org,1,"105 dzerzinsk manor","inner mongolia",48570,tongliao,china,"2005-05-28 17:37:50","2005-06-03 16:04:50",5.99,"2005-05-28 17:37:50",6
+360,ralph,madrigal,ralph.madrigal@sakilacustomer.org,1,"1009 zanzibar lane",arecibo,64875,arecibo,"puerto rico","2005-05-28 17:37:59","2005-06-03 22:49:59",0.99,"2005-05-28 17:37:59",6
+428,herbert,kruger,herbert.kruger@sakilacustomer.org,1,"1823 hoshiarpur lane",komi,33191,syktyvkar,"russian federation","2005-05-28 17:40:35","2005-06-05 16:18:35",4.99,"2005-05-28 17:40:35",8
+42,carolyn,perez,carolyn.perez@sakilacustomer.org,1,"1632 bislig avenue",nonthaburi,61117,"pak kret",thailand,"2005-05-28 17:46:57","2005-06-06 18:24:57",5.99,"2005-05-28 17:46:57",9
+239,minnie,romero,minnie.romero@sakilacustomer.org,1,"47 syktyvkar lane","west java",22236,ciomas,indonesia,"2005-05-28 17:47:58","2005-06-04 16:32:58",6.99,"2005-05-28 17:47:58",7
+250,jo,fowler,jo.fowler@sakilacustomer.org,1,"786 stara zagora way","oyo & osun",98332,oyo,nigeria,"2005-05-28 18:14:29","2005-05-29 23:48:29",4.99,"2005-05-28 18:14:29",1
+372,steve,mackenzie,steve.mackenzie@sakilacustomer.org,1,"154 oshawa manor","east java",72771,probolinggo,indonesia,"2005-05-28 18:24:43","2005-06-02 19:03:43",2.99,"2005-05-28 18:24:43",5
+198,elsie,kelley,elsie.kelley@sakilacustomer.org,1,"955 bamenda way","ondo & ekiti",1545,ikerre,nigeria,"2005-05-28 18:25:02","2005-05-29 18:22:02",2.99,"2005-05-28 18:25:02",1
+465,floyd,gandy,floyd.gandy@sakilacustomer.org,1,"1088 ibirité place",jalisco,88502,zapopan,mexico,"2005-05-28 18:43:26","2005-05-30 13:39:26",0.99,"2005-05-28 18:43:26",2
+396,earl,shanks,earl.shanks@sakilacustomer.org,1,"168 cianjur manor",saitama,73824,iwatsuki,japan,"2005-05-28 18:45:47","2005-06-04 15:24:47",5.99,"2005-05-28 18:45:47",7
+157,darlene,rose,darlene.rose@sakilacustomer.org,1,"1386 nakhon sawan boulevard",pyongyang-si,53502,pyongyang,"north korea","2005-05-28 18:49:12","2005-06-01 20:50:12",4.99,"2005-05-28 18:49:12",4
+240,marlene,welch,marlene.welch@sakilacustomer.org,1,"1148 saarbrücken parkway",fukushima,1921,iwaki,japan,"2005-05-28 18:52:11","2005-05-31 15:15:11",4.99,"2005-05-28 18:52:11",3
+316,steven,curley,steven.curley@sakilacustomer.org,1,"651 pathankot loop",maharashtra,59811,miraj,india,"2005-05-28 18:59:12","2005-06-04 18:06:12",8.99,"2005-05-28 18:59:12",7
+505,rafael,abney,rafael.abney@sakilacustomer.org,1,"48 maracaíbo place","central luzon",1570,talavera,philippines,"2005-05-28 19:14:09","2005-06-05 14:01:09",2.99,"2005-05-28 19:14:09",8
+185,roberta,harper,roberta.harper@sakilacustomer.org,1,"927 barcelona street","chaharmahal va bakht",65121,"shahr-e kord",iran,"2005-05-28 19:16:14","2005-05-31 16:50:14",0.99,"2005-05-28 19:16:14",3
+569,dave,gardiner,dave.gardiner@sakilacustomer.org,1,"1052 pathankot avenue",sichuan,77397,leshan,china,"2005-05-28 19:22:52","2005-06-01 00:10:52",1.99,"2005-05-28 19:22:52",4
+253,terry,carlson,terry.carlson@sakilacustomer.org,1,"752 ondo loop",miyazaki,32474,miyakonojo,japan,"2005-05-28 19:25:54","2005-06-03 15:57:54",0.99,"2005-05-28 19:25:54",6
+197,sue,peters,sue.peters@sakilacustomer.org,1,"817 bradford loop",ji´angsu,89459,changzhou,china,"2005-05-28 19:35:45","2005-06-05 16:00:45",1.99,"2005-05-28 19:35:45",8
+281,leona,obrien,leona.obrien@sakilacustomer.org,1,"1308 sumy loop",fujian,30657,fuzhou,china,"2005-05-28 19:45:40","2005-05-29 21:02:40",2.99,"2005-05-28 19:45:40",1
+266,nora,herrera,nora.herrera@sakilacustomer.org,1,"1587 loja manor",salzburg,5410,salzburg,austria,"2005-05-28 19:46:50","2005-05-30 16:29:50",2.99,"2005-05-28 19:46:50",2
+43,christine,roberts,christine.roberts@sakilacustomer.org,1,"1447 imus way",tahiti,48942,faaa,"french polynesia","2005-05-28 20:08:47","2005-05-29 14:57:47",4.99,"2005-05-28 20:08:47",1
+327,larry,thrasher,larry.thrasher@sakilacustomer.org,1,"663 bahía blanca parkway",adana,33463,adana,turkey,"2005-05-28 20:12:20","2005-06-04 14:44:20",6.99,"2005-05-28 20:12:20",7
+23,sarah,lewis,sarah.lewis@sakilacustomer.org,1,"1780 hino boulevard",liepaja,7716,liepaja,latvia,"2005-05-28 20:15:30","2005-05-30 22:02:30",2.99,"2005-05-28 20:15:30",2
+287,becky,miles,becky.miles@sakilacustomer.org,1,"1993 tabuk lane","tamil nadu",64221,tambaram,india,"2005-05-28 20:16:20","2005-05-31 16:46:20",2.99,"2005-05-28 20:16:20",3
+437,randall,neumann,randall.neumann@sakilacustomer.org,1,"1245 ibirité way","la romana",40926,"la romana","dominican republic","2005-05-28 20:18:24","2005-05-30 16:19:24",4.99,"2005-05-28 20:18:24",2
+65,rose,howard,rose.howard@sakilacustomer.org,1,"698 otsu street",cayenne,71110,cayenne,"french guiana","2005-05-28 20:23:09","2005-06-01 02:11:09",0.99,"2005-05-28 20:23:09",4
+103,gladys,hamilton,gladys.hamilton@sakilacustomer.org,1,"1177 jelets way","kwara & kogi",3305,ilorin,nigeria,"2005-05-28 20:23:23","2005-06-06 19:31:23",9.99,"2005-05-28 20:23:23",9
+207,gertrude,castillo,gertrude.castillo@sakilacustomer.org,1,"850 salala loop",kitaa,10800,nuuk,greenland,"2005-05-28 20:27:53","2005-05-31 01:36:53",0.99,"2005-05-28 20:27:53",3
+578,willard,lumpkin,willard.lumpkin@sakilacustomer.org,1,"1819 alessandria loop",campeche,53829,carmen,mexico,"2005-05-28 20:53:31","2005-05-30 15:26:31",0.99,"2005-05-28 20:53:31",2
+51,alice,stewart,alice.stewart@sakilacustomer.org,1,"1135 izumisano parkway",california,48150,fontana,"united states","2005-05-28 21:01:25","2005-06-02 01:22:25",4.99,"2005-05-28 21:01:25",5
+166,lynn,payne,lynn.payne@sakilacustomer.org,1,"710 san felipe del progreso avenue",lilongwe,76901,lilongwe,malawi,"2005-05-28 21:09:31","2005-06-01 19:00:31",1.99,"2005-05-28 21:09:31",4
+176,june,carroll,june.carroll@sakilacustomer.org,1,"757 rustenburg avenue",skikda,89668,skikda,algeria,"2005-05-28 21:23:02","2005-06-02 17:39:02",1.99,"2005-05-28 21:23:02",5
+523,harvey,guajardo,harvey.guajardo@sakilacustomer.org,1,"600 purnea (purnia) avenue","nghe an",18043,vinh,vietnam,"2005-05-28 21:31:08","2005-06-02 20:56:08",0.99,"2005-05-28 21:31:08",5
+415,glenn,pullen,glenn.pullen@sakilacustomer.org,1,"992 klerksdorp loop",utrecht,33711,amersfoort,netherlands,"2005-05-28 21:38:39","2005-05-29 21:37:39",4.99,"2005-05-28 21:38:39",1
+437,randall,neumann,randall.neumann@sakilacustomer.org,1,"1245 ibirité way","la romana",40926,"la romana","dominican republic","2005-05-28 21:48:51","2005-06-05 16:45:51",5.99,"2005-05-28 21:48:51",8
+596,enrique,forsythe,enrique.forsythe@sakilacustomer.org,1,"1101 bucuresti boulevard","west greece",97661,patras,greece,"2005-05-28 21:49:02","2005-05-31 03:07:02",4.99,"2005-05-28 21:49:02",3
+484,roberto,vu,roberto.vu@sakilacustomer.org,1,"1297 alvorada parkway",ningxia,11839,yinchuan,china,"2005-05-28 21:54:45","2005-05-29 22:32:45",2.99,"2005-05-28 21:54:45",1
+313,donald,mahon,donald.mahon@sakilacustomer.org,1,"1774 yaoundé place",hubei,91400,ezhou,china,"2005-05-28 22:03:25","2005-06-03 03:39:25",4.99,"2005-05-28 22:03:25",6
+201,vicki,fields,vicki.fields@sakilacustomer.org,1,"68 molodetšno manor",nordrhein-westfalen,4662,witten,germany,"2005-05-28 22:04:03","2005-06-06 22:43:03",6.99,"2005-05-28 22:04:03",9
+14,betty,white,betty.white@sakilacustomer.org,1,"770 bydgoszcz avenue",california,16266,"citrus heights","united states","2005-05-28 22:04:30","2005-06-03 01:21:30",2.99,"2005-05-28 22:04:30",6
+306,charles,kowalski,charles.kowalski@sakilacustomer.org,1,"715 são bernardo do campo lane",kedah,84804,"sungai petani",malaysia,"2005-05-28 22:05:29","2005-06-06 02:10:29",6.99,"2005-05-28 22:05:29",9
+468,tim,cary,tim.cary@sakilacustomer.org,1,"1257 guadalajara street",karnataka,33599,bijapur,india,"2005-05-28 22:07:30","2005-06-01 23:42:30",0.99,"2005-05-28 22:07:30",4
+87,wanda,patterson,wanda.patterson@sakilacustomer.org,1,"1740 portoviejo avenue",sucre,29932,sincelejo,colombia,"2005-05-28 22:11:35","2005-06-01 23:58:35",2.99,"2005-05-28 22:11:35",4
+338,dennis,gilman,dennis.gilman@sakilacustomer.org,1,"1443 mardan street","western cape",31483,paarl,"south africa","2005-05-28 22:22:44","2005-06-01 02:57:44",0.99,"2005-05-28 22:22:44",4
+490,sam,mcduffie,sam.mcduffie@sakilacustomer.org,1,"656 matamoros drive",boyac,19489,sogamoso,colombia,"2005-05-28 22:27:51","2005-05-29 20:36:51",4.99,"2005-05-28 22:27:51",1
+194,kristen,chavez,kristen.chavez@sakilacustomer.org,1,"345 oshawa boulevard",tokyo-to,32114,hino,japan,"2005-05-28 23:00:08","2005-06-05 19:11:08",7.99,"2005-05-28 23:00:08",8
+269,cassandra,walters,cassandra.walters@sakilacustomer.org,1,"920 kumbakonam loop",california,75090,salinas,"united states","2005-05-28 23:15:48","2005-06-03 04:43:48",6.99,"2005-05-28 23:15:48",6
+526,karl,seal,karl.seal@sakilacustomer.org,1,"1427 tabuk place",florida,31342,"cape coral","united states","2005-05-28 23:24:57","2005-06-06 21:59:57",4.99,"2005-05-28 23:24:57",9
+482,maurice,crawley,maurice.crawley@sakilacustomer.org,0,"1785 são bernardo do campo street",veracruz,71182,coatzacoalcos,mexico,"2005-05-28 23:27:26","2005-06-02 02:28:26",2.99,"2005-05-28 23:27:26",5
+531,jamie,waugh,jamie.waugh@sakilacustomer.org,1,"958 sagamihara lane",mie,88408,kuwana,japan,"2005-05-28 23:39:44","2005-06-01 01:42:44",2.99,"2005-05-28 23:39:44",4
+148,eleanor,hunt,eleanor.hunt@sakilacustomer.org,1,"1952 pune lane",saint-denis,92150,saint-denis,réunion,"2005-05-28 23:53:18","2005-05-29 19:14:18",4.99,"2005-05-28 23:53:18",1
+197,sue,peters,sue.peters@sakilacustomer.org,1,"817 bradford loop",ji´angsu,89459,changzhou,china,"2005-05-29 00:09:48","2005-06-02 04:27:48",2.99,"2005-05-29 00:09:48",4
+461,derek,blakely,derek.blakely@sakilacustomer.org,1,"118 jaffna loop","northern mindanao",10447,gingoog,philippines,"2005-05-29 00:13:15","2005-06-04 21:26:15",6.99,"2005-05-29 00:13:15",6
+172,bernice,willis,bernice.willis@sakilacustomer.org,1,"29 pyongyang loop",batman,47753,batman,turkey,"2005-05-29 00:17:51","2005-06-05 05:32:51",6.99,"2005-05-29 00:17:51",7
+411,norman,currier,norman.currier@sakilacustomer.org,1,"1445 carmen parkway","west java",70809,cianjur,indonesia,"2005-05-29 00:27:10","2005-05-30 02:29:10",4.99,"2005-05-29 00:27:10",1
+250,jo,fowler,jo.fowler@sakilacustomer.org,1,"786 stara zagora way","oyo & osun",98332,oyo,nigeria,"2005-05-29 00:32:09","2005-05-31 23:53:09",0.99,"2005-05-29 00:32:09",2
+162,lauren,hudson,lauren.hudson@sakilacustomer.org,1,"1740 le mans loop","pays de la loire",22853,"le mans",france,"2005-05-29 00:45:24","2005-06-02 01:30:24",4.99,"2005-05-29 00:45:24",4
+571,johnnie,chisholm,johnnie.chisholm@sakilacustomer.org,1,"1501 pangkal pinang avenue",mazowieckie,943,plock,poland,"2005-05-29 00:46:53","2005-06-03 23:48:53",3.99,"2005-05-29 00:46:53",5
+85,anne,powell,anne.powell@sakilacustomer.org,1,"1557 kütahya boulevard",england,88002,bradford,"united kingdom","2005-05-29 00:54:53","2005-06-06 00:45:53",9.99,"2005-05-29 00:54:53",8
+433,don,bone,don.bone@sakilacustomer.org,1,"596 huixquilucan place",nampula,65892,naçala-porto,mozambique,"2005-05-29 01:01:26","2005-06-07 06:21:26",10.99,"2005-05-29 01:01:26",9
+18,carol,garcia,carol.garcia@sakilacustomer.org,1,"320 brest avenue",kaduna,43331,kaduna,nigeria,"2005-05-29 01:32:10","2005-06-02 03:54:10",4.99,"2005-05-29 01:32:10",4
+190,yolanda,weaver,yolanda.weaver@sakilacustomer.org,1,"605 rio claro parkway",tabora,49348,tabora,tanzania,"2005-05-29 01:42:31","2005-06-03 02:29:31",2.99,"2005-05-29 01:42:31",5
+399,danny,isom,danny.isom@sakilacustomer.org,1,"734 béchar place",punjab,30586,okara,pakistan,"2005-05-29 01:49:43","2005-06-05 06:52:43",6.99,"2005-05-29 01:49:43",7
+528,claude,herzog,claude.herzog@sakilacustomer.org,1,"486 ondo parkway",benguela,35202,benguela,angola,"2005-05-29 01:50:53","2005-06-03 02:28:53",3.99,"2005-05-29 01:50:53",5
+19,ruth,martinez,ruth.martinez@sakilacustomer.org,1,"1417 lancaster avenue","northern cape",72192,kimberley,"south africa","2005-05-29 01:59:10","2005-06-01 02:45:10",2.99,"2005-05-29 01:59:10",3
+387,jesse,schilling,jesse.schilling@sakilacustomer.org,1,"514 ife way",shaba,69973,lubumbashi,"congo, the democratic republic of the","2005-05-29 02:04:04","2005-06-04 00:47:04",7.99,"2005-05-29 02:04:04",6
+109,edna,west,edna.west@sakilacustomer.org,1,"682 junan way","north west",30418,klerksdorp,"south africa","2005-05-29 02:10:52","2005-06-01 21:52:52",0.99,"2005-05-29 02:10:52",3
+246,marian,mendoza,marian.mendoza@sakilacustomer.org,1,"829 grand prairie way",paraná,6461,maringá,brazil,"2005-05-29 02:11:44","2005-06-04 20:23:44",3.99,"2005-05-29 02:11:44",6
+117,edith,mcdonald,edith.mcdonald@sakilacustomer.org,1,"1967 sincelejo place",gujarat,73644,gandhinagar,india,"2005-05-29 02:18:54","2005-05-30 05:54:54",0.99,"2005-05-29 02:18:54",1
+112,rosa,reynolds,rosa.reynolds@sakilacustomer.org,1,"793 cam ranh avenue",california,87057,lancaster,"united states","2005-05-29 02:26:27","2005-06-03 04:59:27",2.99,"2005-05-29 02:26:27",5
+475,pedro,chestnut,pedro.chestnut@sakilacustomer.org,1,"421 yaoundé street",sumy,11363,šostka,ukraine,"2005-05-29 02:27:30","2005-05-30 01:52:30",0.99,"2005-05-29 02:27:30",1
+269,cassandra,walters,cassandra.walters@sakilacustomer.org,1,"920 kumbakonam loop",california,75090,salinas,"united states","2005-05-29 02:29:36","2005-06-03 04:54:36",0.99,"2005-05-29 02:29:36",5
+330,scott,shelley,scott.shelley@sakilacustomer.org,1,"587 benguela manor",illinois,91590,aurora,"united states","2005-05-29 02:44:43","2005-06-06 01:51:43",3.99,"2005-05-29 02:44:43",8
+257,marsha,douglas,marsha.douglas@sakilacustomer.org,1,"771 yaoundé manor",sofala,86768,beira,mozambique,"2005-05-29 02:48:52","2005-05-30 06:21:52",2.99,"2005-05-29 02:48:52",1
+60,mildred,bailey,mildred.bailey@sakilacustomer.org,1,"81 hodeida way",rajasthan,55561,jaipur,india,"2005-05-29 03:05:49","2005-06-04 22:48:49",1.99,"2005-05-29 03:05:49",6
+252,mattie,hoffman,mattie.hoffman@sakilacustomer.org,1,"1497 yuzhou drive",england,3433,london,"united kingdom","2005-05-29 03:18:19","2005-05-30 02:45:19",4.99,"2005-05-29 03:18:19",1
+127,elaine,stevens,elaine.stevens@sakilacustomer.org,1,"801 hagonoy drive",smolensk,8439,smolensk,"russian federation","2005-05-29 03:23:47","2005-05-31 21:27:47",0.99,"2005-05-29 03:23:47",2
+479,zachary,hite,zachary.hite@sakilacustomer.org,1,"98 pyongyang boulevard",ohio,88749,akron,"united states","2005-05-29 03:48:01","2005-06-06 05:21:01",7.99,"2005-05-29 03:48:01",8
+518,gabriel,harder,gabriel.harder@sakilacustomer.org,1,"680 a coruña (la coruña) manor",sivas,49806,sivas,turkey,"2005-05-29 03:48:36","2005-06-03 05:03:36",2.99,"2005-05-29 03:48:36",5
+215,jessie,banks,jessie.banks@sakilacustomer.org,1,"1229 valencia parkway",haskovo,99124,"stara zagora",bulgaria,"2005-05-29 03:49:03","2005-05-31 08:29:03",4.99,"2005-05-29 03:49:03",2
+313,donald,mahon,donald.mahon@sakilacustomer.org,1,"1774 yaoundé place",hubei,91400,ezhou,china,"2005-05-29 04:02:24","2005-05-30 03:09:24",2.99,"2005-05-29 04:02:24",1
+507,edgar,rhoads,edgar.rhoads@sakilacustomer.org,1,"1269 ipoh avenue",eskisehir,54674,eskisehir,turkey,"2005-05-29 04:10:17","2005-06-07 07:13:17",4.99,"2005-05-29 04:10:17",9
+452,tom,milner,tom.milner@sakilacustomer.org,1,"535 ahmadnagar manor","abu dhabi",41136,"abu dhabi","united arab emirates","2005-05-29 04:15:21","2005-06-01 23:05:21",2.99,"2005-05-29 04:15:21",3
+545,julio,noland,julio.noland@sakilacustomer.org,1,"182 nuku´alofa drive",sumy,15414,konotop,ukraine,"2005-05-29 04:22:41","2005-06-05 09:28:41",3.99,"2005-05-29 04:22:41",7
+36,kathleen,adams,kathleen.adams@sakilacustomer.org,1,"334 munger (monghyr) lane",markazi,38145,arak,iran,"2005-05-29 04:35:29","2005-06-01 07:42:29",0.99,"2005-05-29 04:35:29",3
+412,allen,butterfield,allen.butterfield@sakilacustomer.org,1,"791 salinas street",punjab,40509,hoshiarpur,india,"2005-05-29 04:37:44","2005-05-30 05:48:44",0.99,"2005-05-29 04:37:44",1
+498,gene,sanborn,gene.sanborn@sakilacustomer.org,1,"1416 san juan bautista tuxtepec avenue",zufar,50592,salala,oman,"2005-05-29 04:52:23","2005-06-02 02:27:23",2.99,"2005-05-29 04:52:23",4
+245,courtney,day,courtney.day@sakilacustomer.org,1,"300 junan street",kyonggi,81314,uijongbu,"south korea","2005-05-29 05:16:05","2005-06-01 07:53:05",2.99,"2005-05-29 05:16:05",3
+480,corey,hauser,corey.hauser@sakilacustomer.org,1,"984 novotšerkassk loop",gaziantep,28165,gaziantep,turkey,"2005-05-29 05:17:30","2005-06-06 02:47:30",6.99,"2005-05-29 05:17:30",8
+44,marie,turner,marie.turner@sakilacustomer.org,1,"1998 halifax drive",lipetsk,76022,lipetsk,"russian federation","2005-05-29 05:28:47","2005-05-31 11:24:47",0.99,"2005-05-29 05:28:47",2
+259,lena,jensen,lena.jensen@sakilacustomer.org,1,"1027 banjul place","west bengali",50390,halisahar,india,"2005-05-29 05:30:31","2005-06-06 04:51:31",6.99,"2005-05-29 05:30:31",8
+309,christopher,greco,christopher.greco@sakilacustomer.org,1,"1224 huejutla de reyes boulevard",lombardia,70923,brescia,italy,"2005-05-29 05:34:44","2005-05-30 05:50:44",0.99,"2005-05-29 05:34:44",1
+416,jeffery,pinson,jeffery.pinson@sakilacustomer.org,1,"966 arecibo loop",sind,94018,dadu,pakistan,"2005-05-29 05:53:23","2005-06-05 04:01:23",3.99,"2005-05-29 05:53:23",7
+245,courtney,day,courtney.day@sakilacustomer.org,1,"300 junan street",kyonggi,81314,uijongbu,"south korea","2005-05-29 06:03:41","2005-06-03 08:52:41",2.99,"2005-05-29 06:03:41",5
+452,tom,milner,tom.milner@sakilacustomer.org,1,"535 ahmadnagar manor","abu dhabi",41136,"abu dhabi","united arab emirates","2005-05-29 06:05:29","2005-06-05 04:40:29",1.99,"2005-05-29 06:05:29",7
+484,roberto,vu,roberto.vu@sakilacustomer.org,1,"1297 alvorada parkway",ningxia,11839,yinchuan,china,"2005-05-29 06:08:15","2005-05-30 07:16:15",2.99,"2005-05-29 06:08:15",1
+551,clayton,barbee,clayton.barbee@sakilacustomer.org,1,"1407 pachuca de soto place","rio grande do sul",26284,alvorada,brazil,"2005-05-29 06:12:38","2005-06-03 07:41:38",2.99,"2005-05-29 06:12:38",5
+323,matthew,mahan,matthew.mahan@sakilacustomer.org,1,"479 san felipe del progreso avenue",morelos,54949,cuautla,mexico,"2005-05-29 06:35:13","2005-06-04 03:23:13",2.99,"2005-05-29 06:35:13",6
+197,sue,peters,sue.peters@sakilacustomer.org,1,"817 bradford loop",ji´angsu,89459,changzhou,china,"2005-05-29 07:00:59","2005-06-06 01:17:59",3.99,"2005-05-29 07:00:59",8
+5,elizabeth,brown,elizabeth.brown@sakilacustomer.org,1,"53 idfu parkway",nantou,42399,nantou,taiwan,"2005-05-29 07:25:16","2005-05-30 05:21:16",0.99,"2005-05-29 07:25:16",1
+447,clifford,bowens,clifford.bowens@sakilacustomer.org,1,"207 cuernavaca loop",tatarstan,52671,"nabereznyje tšelny","russian federation","2005-05-29 07:32:51","2005-05-30 10:08:51",0.99,"2005-05-29 07:32:51",1
+363,roy,whiting,roy.whiting@sakilacustomer.org,1,"1658 jastrzebie-zdrój loop",central,96584,nyeri,kenya,"2005-05-29 07:35:21","2005-06-05 09:14:21",3.99,"2005-05-29 07:35:21",7
+538,ted,breaux,ted.breaux@sakilacustomer.org,1,"183 haiphong street",jilin,69953,baicheng,china,"2005-05-29 07:38:52","2005-06-03 10:17:52",4.99,"2005-05-29 07:38:52",5
+454,alex,gresham,alex.gresham@sakilacustomer.org,1,"251 florencia drive","michoacn de ocampo",16119,uruapan,mexico,"2005-05-29 08:08:13","2005-06-07 13:35:13",7.99,"2005-05-29 08:08:13",9
+276,brandy,graves,brandy.graves@sakilacustomer.org,1,"1944 bamenda way",michigan,24645,warren,"united states","2005-05-29 08:10:07","2005-06-05 10:21:07",3.99,"2005-05-29 08:10:07",7
+589,tracy,herrmann,tracy.herrmann@sakilacustomer.org,1,"1074 sanaa parkway",loja,22474,loja,ecuador,"2005-05-29 08:11:31","2005-06-04 11:18:31",4.99,"2005-05-29 08:11:31",6
+256,mabel,holland,mabel.holland@sakilacustomer.org,1,"51 laredo avenue",sagaing,68146,monywa,myanmar,"2005-05-29 08:20:08","2005-06-06 08:59:08",4.99,"2005-05-29 08:20:08",8
+84,sara,perry,sara.perry@sakilacustomer.org,1,"125 città del vaticano boulevard",puebla,67912,atlixco,mexico,"2005-05-29 08:28:18","2005-06-06 09:21:18",6.99,"2005-05-29 08:28:18",8
+89,julia,flores,julia.flores@sakilacustomer.org,1,"1926 el alto avenue","buenos aires",75543,"la plata",argentina,"2005-05-29 08:30:36","2005-06-04 12:47:36",5.99,"2005-05-29 08:30:36",6
+495,charlie,bess,charlie.bess@sakilacustomer.org,1,"362 rajkot lane",gansu,98030,baiyin,china,"2005-05-29 08:35:49","2005-06-04 11:55:49",4.99,"2005-05-29 08:35:49",6
+483,vernon,chapa,vernon.chapa@sakilacustomer.org,1,"698 jelets boulevard",denizli,2596,denizli,turkey,"2005-05-29 08:36:30","2005-06-05 11:30:30",6.99,"2005-05-29 08:36:30",7
+548,allan,cornish,allan.cornish@sakilacustomer.org,1,"947 tórshavn place","central luzon",841,tarlac,philippines,"2005-05-29 08:39:02","2005-06-06 08:42:02",4.99,"2005-05-29 08:39:02",8
+420,jacob,lance,jacob.lance@sakilacustomer.org,1,"1866 al-qatif avenue",california,89420,"el monte","united states","2005-05-29 09:13:08","2005-06-01 07:05:08",4.99,"2005-05-29 09:13:08",3
+152,alicia,mills,alicia.mills@sakilacustomer.org,1,"1963 moscow place",assam,64863,nagaon,india,"2005-05-29 09:22:57","2005-06-01 09:10:57",4.99,"2005-05-29 09:22:57",3
+130,charlotte,hunter,charlotte.hunter@sakilacustomer.org,1,"758 junan lane",gois,82639,"águas lindas de goiás",brazil,"2005-05-29 09:25:10","2005-06-02 04:20:10",2.99,"2005-05-29 09:25:10",4
+291,toni,holt,toni.holt@sakilacustomer.org,1,"1936 cumaná avenue",virginia,61195,roanoke,"united states","2005-05-29 09:26:34","2005-06-05 07:28:34",4.99,"2005-05-29 09:26:34",7
+7,maria,miller,maria.miller@sakilacustomer.org,1,"900 santiago de compostela parkway","central serbia",93896,kragujevac,yugoslavia,"2005-05-29 09:27:00","2005-06-03 04:25:00",2.99,"2005-05-29 09:27:00",5
+375,aaron,selby,aaron.selby@sakilacustomer.org,1,"1519 santiago de los caballeros loop","east kasai",22025,mwene-ditu,"congo, the democratic republic of the","2005-05-29 09:33:33","2005-05-31 11:45:33",4.99,"2005-05-29 09:33:33",2
+269,cassandra,walters,cassandra.walters@sakilacustomer.org,1,"920 kumbakonam loop",california,75090,salinas,"united states","2005-05-29 09:41:40","2005-05-30 13:31:40",4.99,"2005-05-29 09:41:40",1
+53,heather,morris,heather.morris@sakilacustomer.org,1,"17 kabul boulevard",chiba,38594,nagareyama,japan,"2005-05-29 09:55:43","2005-06-02 04:54:43",0.99,"2005-05-29 09:55:43",4
+126,ellen,simpson,ellen.simpson@sakilacustomer.org,1,"1666 qomsheh drive","são paulo",66255,poá,brazil,"2005-05-29 10:14:15","2005-06-04 06:30:15",4.99,"2005-05-29 10:14:15",6
+135,juanita,mason,juanita.mason@sakilacustomer.org,1,"943 johannesburg avenue",maharashtra,5892,pune,india,"2005-05-29 10:16:42","2005-06-05 08:52:42",3.99,"2005-05-29 10:16:42",7
+281,leona,obrien,leona.obrien@sakilacustomer.org,1,"1308 sumy loop",fujian,30657,fuzhou,china,"2005-05-29 10:18:59","2005-06-04 05:03:59",2.99,"2005-05-29 10:18:59",6
+576,morris,mccarter,morris.mccarter@sakilacustomer.org,1,"1568 celaya parkway",kaohsiung,34750,fengshan,taiwan,"2005-05-29 10:26:29","2005-06-01 10:25:29",2.99,"2005-05-29 10:26:29",3
+201,vicki,fields,vicki.fields@sakilacustomer.org,1,"68 molodetšno manor",nordrhein-westfalen,4662,witten,germany,"2005-05-29 10:28:45","2005-06-04 12:50:45",5.99,"2005-05-29 10:28:45",6
+435,ricky,shelby,ricky.shelby@sakilacustomer.org,1,"722 bradford lane",shandong,90920,junan,china,"2005-05-29 10:29:47","2005-06-07 15:27:47",7.99,"2005-05-29 10:29:47",9
+563,ken,prewitt,ken.prewitt@sakilacustomer.org,1,"1342 abha boulevard",bukarest,10714,bucuresti,romania,"2005-05-29 10:31:56","2005-06-01 14:53:56",4.99,"2005-05-29 10:31:56",3
+179,dana,hart,dana.hart@sakilacustomer.org,1,"1089 iwatsuki avenue",kirov,35109,kirovo-tšepetsk,"russian federation","2005-05-29 10:57:57","2005-06-07 16:23:57",6.99,"2005-05-29 10:57:57",9
+77,jane,bennett,jane.bennett@sakilacustomer.org,1,"1692 ede loop","são paulo",9223,araçatuba,brazil,"2005-05-29 11:07:25","2005-06-02 14:16:25",5.99,"2005-05-29 11:07:25",4
+58,jean,bell,jean.bell@sakilacustomer.org,1,"1114 liepaja street",sarawak,69226,kuching,malaysia,"2005-05-29 11:09:01","2005-06-03 16:18:01",0.99,"2005-05-29 11:09:01",5
+146,jamie,rice,jamie.rice@sakilacustomer.org,1,"879 newcastle way",michigan,90732,"sterling heights","united states","2005-05-29 11:15:51","2005-06-06 07:48:51",7.99,"2005-05-29 11:15:51",8
+50,diane,collins,diane.collins@sakilacustomer.org,1,"115 hidalgo parkway",khartum,80168,omdurman,sudan,"2005-05-29 11:32:15","2005-05-31 17:31:15",4.99,"2005-05-29 11:32:15",2
+149,valerie,black,valerie.black@sakilacustomer.org,1,"782 mosul street",massachusetts,25545,brockton,"united states","2005-05-29 11:37:35","2005-05-31 16:47:35",4.99,"2005-05-29 11:37:35",2
+69,judy,gray,judy.gray@sakilacustomer.org,1,"1031 daugavpils parkway",béchar,59025,béchar,algeria,"2005-05-29 11:38:34","2005-06-02 17:04:34",1.99,"2005-05-29 11:38:34",4
+383,martin,bales,martin.bales@sakilacustomer.org,1,"368 huánuco boulevard",namibe,17165,namibe,angola,"2005-05-29 11:47:02","2005-06-06 07:14:02",8.99,"2005-05-29 11:47:02",8
+67,kelly,torres,kelly.torres@sakilacustomer.org,1,"1586 guarujá place",hunan,5135,xi´angtan,china,"2005-05-29 12:20:19","2005-06-02 14:15:19",2.99,"2005-05-29 12:20:19",4
+566,casey,mena,casey.mena@sakilacustomer.org,1,"539 hami way",tokat,52196,tokat,turkey,"2005-05-29 12:30:46","2005-06-07 09:00:46",4.99,"2005-05-29 12:30:46",9
+575,isaac,oglesby,isaac.oglesby@sakilacustomer.org,1,"186 skikda lane",morelos,89422,cuernavaca,mexico,"2005-05-29 12:51:44","2005-06-01 17:43:44",2.99,"2005-05-29 12:51:44",3
+405,leonard,schofield,leonard.schofield@sakilacustomer.org,1,"88 nagaon manor","buenos aires",86868,tandil,argentina,"2005-05-29 12:56:50","2005-06-07 15:54:50",4.99,"2005-05-29 12:56:50",9
+476,derrick,bourque,derrick.bourque@sakilacustomer.org,1,"1153 allende way",québec,20336,gatineau,canada,"2005-05-29 12:59:14","2005-06-01 16:05:14",2.99,"2005-05-29 12:59:14",3
+556,armando,gruber,armando.gruber@sakilacustomer.org,1,"869 shikarpur way",england,57380,southport,"united kingdom","2005-05-29 13:08:06","2005-06-06 08:19:06",5.99,"2005-05-29 13:08:06",8
+563,ken,prewitt,ken.prewitt@sakilacustomer.org,1,"1342 abha boulevard",bukarest,10714,bucuresti,romania,"2005-05-29 13:18:05","2005-06-07 17:22:05",5.99,"2005-05-29 13:18:05",9
+575,isaac,oglesby,isaac.oglesby@sakilacustomer.org,1,"186 skikda lane",morelos,89422,cuernavaca,mexico,"2005-05-29 13:19:43","2005-06-01 18:51:43",4.99,"2005-05-29 13:19:43",3
+124,sheila,wells,sheila.wells@sakilacustomer.org,0,"848 tafuna manor",kütahya,45142,kütahya,turkey,"2005-05-29 13:23:26","2005-05-30 07:53:26",0.99,"2005-05-29 13:23:26",1
+113,cindy,fisher,cindy.fisher@sakilacustomer.org,1,"1079 tel aviv-jaffa boulevard",sucre,10885,cumaná,venezuela,"2005-05-29 13:35:35","2005-06-03 17:33:35",0.99,"2005-05-29 13:35:35",5
+360,ralph,madrigal,ralph.madrigal@sakilacustomer.org,1,"1009 zanzibar lane",arecibo,64875,arecibo,"puerto rico","2005-05-29 14:07:58","2005-06-03 08:41:58",4.99,"2005-05-29 14:07:58",5
+535,javier,elrod,javier.elrod@sakilacustomer.org,1,"195 ilorin street",chari-baguirmi,49250,ndjamna,chad,"2005-05-29 14:09:53","2005-06-05 20:05:53",3.99,"2005-05-29 14:09:53",7
+105,dawn,sullivan,dawn.sullivan@sakilacustomer.org,1,"454 nakhon sawan boulevard",funafuti,76383,funafuti,tuvalu,"2005-05-29 14:17:17","2005-06-06 16:46:17",6.99,"2005-05-29 14:17:17",8
+300,john,farnsworth,john.farnsworth@sakilacustomer.org,1,"41 el alto parkway",maharashtra,56883,parbhani,india,"2005-05-29 14:18:32","2005-06-06 20:14:32",3.99,"2005-05-29 14:18:32",8
+313,donald,mahon,donald.mahon@sakilacustomer.org,1,"1774 yaoundé place",hubei,91400,ezhou,china,"2005-05-29 14:23:58","2005-05-30 17:44:58",0.99,"2005-05-29 14:23:58",1
+596,enrique,forsythe,enrique.forsythe@sakilacustomer.org,1,"1101 bucuresti boulevard","west greece",97661,patras,greece,"2005-05-29 14:38:57","2005-06-02 13:18:57",1.99,"2005-05-29 14:38:57",4
+53,heather,morris,heather.morris@sakilacustomer.org,1,"17 kabul boulevard",chiba,38594,nagareyama,japan,"2005-05-29 14:41:18","2005-06-06 10:39:18",5.99,"2005-05-29 14:41:18",8
+352,albert,crouse,albert.crouse@sakilacustomer.org,1,"1641 changhwa place",nord-ouest,37636,bamenda,cameroon,"2005-05-29 14:44:22","2005-06-01 17:28:22",2.99,"2005-05-29 14:44:22",3
+72,theresa,watson,theresa.watson@sakilacustomer.org,1,"89 allappuzha (alleppey) manor","national capital reg",75444,taguig,philippines,"2005-05-29 15:08:41","2005-05-30 15:51:41",4.99,"2005-05-29 15:08:41",1
+439,alexander,fennell,alexander.fennell@sakilacustomer.org,1,"231 kaliningrad place",lombardia,57833,bergamo,italy,"2005-05-29 15:17:28","2005-06-07 10:07:28",9.99,"2005-05-29 15:17:28",9
+27,shirley,allen,shirley.allen@sakilacustomer.org,1,"217 botshabelo place","southern mindanao",49521,davao,philippines,"2005-05-29 16:03:03","2005-06-07 11:07:03",2.99,"2005-05-29 16:03:03",9
+562,wallace,slone,wallace.slone@sakilacustomer.org,1,"1342 sharja way","sokoto & kebbi & zam",93655,sokoto,nigeria,"2005-05-29 16:13:55","2005-05-31 16:40:55",2.99,"2005-05-29 16:13:55",2
+553,max,pitt,max.pitt@sakilacustomer.org,1,"1917 kumbakonam parkway",vojvodina,11892,"novi sad",yugoslavia,"2005-05-29 16:17:07","2005-06-06 18:15:07",4.99,"2005-05-29 16:17:07",8
+593,rene,mcalister,rene.mcalister@sakilacustomer.org,1,"1895 zhezqazghan drive",california,36693,"garden grove","united states","2005-05-29 16:19:29","2005-06-02 17:22:29",2.99,"2005-05-29 16:19:29",4
+284,sonia,gregory,sonia.gregory@sakilacustomer.org,1,"1279 udine parkway","edo & delta",75860,"benin city",nigeria,"2005-05-29 16:30:42","2005-06-01 19:11:42",0.99,"2005-05-29 16:30:42",3
+261,deanna,byrd,deanna.byrd@sakilacustomer.org,1,"862 xintai lane","cagayan valley",30065,tuguegarao,philippines,"2005-05-29 16:32:10","2005-05-31 18:01:10",0.99,"2005-05-29 16:32:10",2
+528,claude,herzog,claude.herzog@sakilacustomer.org,1,"486 ondo parkway",benguela,35202,benguela,angola,"2005-05-29 16:44:08","2005-06-06 19:21:08",5.99,"2005-05-29 16:44:08",8
+50,diane,collins,diane.collins@sakilacustomer.org,1,"115 hidalgo parkway",khartum,80168,omdurman,sudan,"2005-05-29 16:44:11","2005-06-05 16:11:11",4.99,"2005-05-29 16:44:11",7
+551,clayton,barbee,clayton.barbee@sakilacustomer.org,1,"1407 pachuca de soto place","rio grande do sul",26284,alvorada,brazil,"2005-05-29 16:57:39","2005-06-01 11:33:39",0.99,"2005-05-29 16:57:39",3
+26,jessica,hall,jessica.hall@sakilacustomer.org,1,"18 duisburg boulevard",,58327,"città del vaticano","holy see (vatican city state)","2005-05-29 16:59:44","2005-06-03 16:22:44",2.99,"2005-05-29 16:59:44",5
+244,viola,hanson,viola.hanson@sakilacustomer.org,1,"582 papeete loop","central visayas",27722,lapu-lapu,philippines,"2005-05-29 17:12:17","2005-06-03 16:06:17",1.99,"2005-05-29 17:12:17",5
+134,emma,boyd,emma.boyd@sakilacustomer.org,1,"765 southampton drive",al-qalyubiya,4285,qalyub,egypt,"2005-05-29 17:23:43","2005-06-01 13:06:43",0.99,"2005-05-29 17:23:43",3
+429,frederick,isbell,frederick.isbell@sakilacustomer.org,1,"1404 taguig drive",okayama,87212,tsuyama,japan,"2005-05-29 17:24:48","2005-06-05 12:25:48",4.99,"2005-05-29 17:24:48",7
+472,greg,robins,greg.robins@sakilacustomer.org,1,"1786 salinas place","nam ha",66546,"nam dinh",vietnam,"2005-05-29 17:28:12","2005-05-30 14:59:12",0.99,"2005-05-29 17:28:12",1
+402,luis,yanez,luis.yanez@sakilacustomer.org,1,"1346 mysore drive",bretagne,61507,brest,france,"2005-05-29 17:35:50","2005-06-04 17:05:50",1.99,"2005-05-29 17:35:50",6
+350,juan,fraley,juan.fraley@sakilacustomer.org,1,"469 nakhon sawan street",tuvassia,58866,tšeboksary,"russian federation","2005-05-29 17:38:59","2005-05-31 22:42:59",4.99,"2005-05-29 17:38:59",2
+32,amy,lopez,amy.lopez@sakilacustomer.org,1,"176 mandaluyong place","uttar pradesh",65213,jhansi,india,"2005-05-29 17:52:30","2005-05-30 14:35:30",4.99,"2005-05-29 17:52:30",1
+171,dolores,wagner,dolores.wagner@sakilacustomer.org,1,"316 uruapan street",perak,58194,ipoh,malaysia,"2005-05-29 18:10:24","2005-06-06 22:53:24",9.99,"2005-05-29 18:10:24",8
+232,constance,reid,constance.reid@sakilacustomer.org,1,"885 yingkou manor",kaduna,31390,zaria,nigeria,"2005-05-29 18:18:18","2005-06-07 15:11:18",3.99,"2005-05-29 18:18:18",9
+435,ricky,shelby,ricky.shelby@sakilacustomer.org,1,"722 bradford lane",shandong,90920,junan,china,"2005-05-29 18:31:30","2005-05-31 00:18:30",4.99,"2005-05-29 18:31:30",2
+235,jackie,lynch,jackie.lynch@sakilacustomer.org,1,"98 stara zagora boulevard",valle,76448,buenaventura,colombia,"2005-05-29 18:50:50","2005-06-03 18:36:50",2.99,"2005-05-29 18:50:50",5
+104,rita,graham,rita.graham@sakilacustomer.org,1,"1386 yangor avenue",provence-alpes-cte,80720,toulon,france,"2005-05-29 19:08:20","2005-06-06 20:32:20",3.99,"2005-05-29 19:08:20",8
+222,delores,hansen,delores.hansen@sakilacustomer.org,1,"810 palghat (palakkad) boulevard",jaroslavl,73431,jaroslavl,"russian federation","2005-05-29 19:10:20","2005-06-05 19:05:20",3.99,"2005-05-29 19:10:20",7
+346,arthur,simpkins,arthur.simpkins@sakilacustomer.org,1,"1157 nyeri loop",adygea,56380,maikop,"russian federation","2005-05-29 19:12:04","2005-06-04 21:12:04",4.99,"2005-05-29 19:12:04",6
+401,tony,carranza,tony.carranza@sakilacustomer.org,1,"454 patiala lane",fukushima,13496,koriyama,japan,"2005-05-29 19:30:42","2005-06-02 16:19:42",1.99,"2005-05-29 19:30:42",4
+225,arlene,harvey,arlene.harvey@sakilacustomer.org,1,"1014 loja manor","tamil nadu",66851,ambattur,india,"2005-05-29 20:00:30","2005-05-30 19:43:30",4.99,"2005-05-29 20:00:30",1
+344,henry,billingsley,henry.billingsley@sakilacustomer.org,1,"1516 escobar drive",tongatapu,46069,nuku´alofa,tonga,"2005-05-29 20:14:34","2005-06-05 20:56:34",5.99,"2005-05-29 20:14:34",7
+134,emma,boyd,emma.boyd@sakilacustomer.org,1,"765 southampton drive",al-qalyubiya,4285,qalyub,egypt,"2005-05-29 20:16:12","2005-06-07 17:47:12",6.99,"2005-05-29 20:16:12",9
+14,betty,white,betty.white@sakilacustomer.org,1,"770 bydgoszcz avenue",california,16266,"citrus heights","united states","2005-05-29 20:24:28","2005-06-03 15:32:28",0.99,"2005-05-29 20:24:28",5
+474,dustin,gillette,dustin.gillette@sakilacustomer.org,1,"1854 okara boulevard",drenthe,42123,emmen,netherlands,"2005-05-29 20:26:39","2005-06-06 22:31:39",7.99,"2005-05-29 20:26:39",8
+554,dwayne,olvera,dwayne.olvera@sakilacustomer.org,1,"1447 imus place",gujarat,12905,rajkot,india,"2005-05-29 20:39:14","2005-05-31 18:24:14",2.99,"2005-05-29 20:39:14",2
+321,kevin,schuler,kevin.schuler@sakilacustomer.org,1,"470 boksburg street",central,97960,birgunj,nepal,"2005-05-29 20:47:53","2005-06-02 23:18:53",4.99,"2005-05-29 20:47:53",4
+511,chester,benner,chester.benner@sakilacustomer.org,1,"1574 goiânia boulevard",heilongjiang,39529,suihua,china,"2005-05-29 21:00:32","2005-06-02 15:15:32",3.99,"2005-05-29 21:00:32",4
+22,laura,rodriguez,laura.rodriguez@sakilacustomer.org,1,"28 charlotte amalie street",rabat-sal-zammour-z,37551,salé,morocco,"2005-05-29 21:07:22","2005-06-07 00:22:22",8.99,"2005-05-29 21:07:22",9
+348,roger,quintanilla,roger.quintanilla@sakilacustomer.org,1,"381 kabul way",taipei,87272,hsichuh,taiwan,"2005-05-29 21:31:12","2005-06-04 22:49:12",0.99,"2005-05-29 21:31:12",6
+480,corey,hauser,corey.hauser@sakilacustomer.org,1,"984 novotšerkassk loop",gaziantep,28165,gaziantep,turkey,"2005-05-29 21:36:00","2005-06-07 17:24:00",9.99,"2005-05-29 21:36:00",9
+441,mario,cheatham,mario.cheatham@sakilacustomer.org,1,"1924 shimonoseki drive",batna,52625,batna,algeria,"2005-05-29 21:39:37","2005-05-30 22:06:37",4.99,"2005-05-29 21:39:37",1
+357,keith,rico,keith.rico@sakilacustomer.org,1,"482 kowloon and new kowloon manor",bratislava,97056,bratislava,slovakia,"2005-05-29 21:45:32","2005-05-31 19:01:32",4.99,"2005-05-29 21:45:32",2
+371,billy,poulin,billy.poulin@sakilacustomer.org,1,"1061 ede avenue","southern tagalog",57810,cabuyao,philippines,"2005-05-29 21:49:41","2005-06-04 20:27:41",0.99,"2005-05-29 21:49:41",6
+207,gertrude,castillo,gertrude.castillo@sakilacustomer.org,1,"850 salala loop",kitaa,10800,nuuk,greenland,"2005-05-29 21:56:15","2005-06-08 03:18:15",6.99,"2005-05-29 21:56:15",10
+573,byron,box,byron.box@sakilacustomer.org,1,"521 san juan bautista tuxtepec place",qaraghandy,95093,zhezqazghan,kazakstan,"2005-05-29 21:58:43","2005-06-06 00:54:43",2.99,"2005-05-29 21:58:43",8
+217,agnes,bishop,agnes.bishop@sakilacustomer.org,1,"866 shivapuri manor","uttar pradesh",22474,sambhal,india,"2005-05-29 22:14:55","2005-05-30 17:22:55",2.99,"2005-05-29 22:14:55",1
+371,billy,poulin,billy.poulin@sakilacustomer.org,1,"1061 ede avenue","southern tagalog",57810,cabuyao,philippines,"2005-05-29 22:16:42","2005-06-06 01:38:42",2.99,"2005-05-29 22:16:42",8
+3,linda,williams,linda.williams@sakilacustomer.org,1,"692 joliet street",attika,83579,athenai,greece,"2005-05-29 22:43:55","2005-06-01 17:43:55",2.99,"2005-05-29 22:43:55",3
+509,raul,fortier,raul.fortier@sakilacustomer.org,1,"1747 rustenburg place",bihar,51369,chapra,india,"2005-05-29 22:50:25","2005-06-06 02:27:25",8.99,"2005-05-29 22:50:25",8
+159,jill,hawkins,jill.hawkins@sakilacustomer.org,1,"1440 compton place","north austria",81037,linz,austria,"2005-05-29 22:51:20","2005-06-07 17:37:20",3.99,"2005-05-29 22:51:20",9
+417,travis,estep,travis.estep@sakilacustomer.org,1,"289 santo andré manor",al-sharqiya,72410,al-qatif,"saudi arabia","2005-05-29 23:21:56","2005-06-02 18:40:56",4.99,"2005-05-29 23:21:56",4
+84,sara,perry,sara.perry@sakilacustomer.org,1,"125 città del vaticano boulevard",puebla,67912,atlixco,mexico,"2005-05-29 23:24:30","2005-05-30 22:00:30",4.99,"2005-05-29 23:24:30",1
+381,bobby,boudreau,bobby.boudreau@sakilacustomer.org,1,"1368 maracaíbo boulevard",,32716,"south hill",anguilla,"2005-05-29 23:37:00","2005-06-02 23:38:00",2.99,"2005-05-29 23:37:00",4
+368,harry,arce,harry.arce@sakilacustomer.org,0,"1922 miraj way",esfahan,13203,najafabad,iran,"2005-05-29 23:56:42","2005-05-31 04:11:42",2.99,"2005-05-29 23:56:42",2
+172,bernice,willis,bernice.willis@sakilacustomer.org,1,"29 pyongyang loop",batman,47753,batman,turkey,"2005-05-30 00:02:08","2005-06-02 05:31:08",0.99,"2005-05-30 00:02:08",3
+504,nathaniel,adam,nathaniel.adam@sakilacustomer.org,1,"786 matsue way",illinois,37469,joliet,"united states","2005-05-30 00:27:57","2005-06-06 22:19:57",4.99,"2005-05-30 00:27:57",7
+337,jerry,jordon,jerry.jordon@sakilacustomer.org,1,"124 al-manama way",hiroshima,52368,onomichi,japan,"2005-05-30 00:28:12","2005-06-08 02:43:12",8.99,"2005-05-30 00:28:12",9
+79,rachel,barnes,rachel.barnes@sakilacustomer.org,1,"586 tete way",kanagawa,1079,kamakura,japan,"2005-05-30 00:28:41","2005-05-31 20:39:41",4.99,"2005-05-30 00:28:41",1
+387,jesse,schilling,jesse.schilling@sakilacustomer.org,1,"514 ife way",shaba,69973,lubumbashi,"congo, the democratic republic of the","2005-05-30 00:31:17","2005-06-02 19:14:17",4.99,"2005-05-30 00:31:17",3
+238,nellie,garrett,nellie.garrett@sakilacustomer.org,1,"1964 gijón manor",karnataka,14408,shimoga,india,"2005-05-30 00:32:04","2005-06-01 02:21:04",2.99,"2005-05-30 00:32:04",2
+313,donald,mahon,donald.mahon@sakilacustomer.org,1,"1774 yaoundé place",hubei,91400,ezhou,china,"2005-05-30 00:44:24","2005-05-31 00:58:24",0.99,"2005-05-30 00:44:24",1
+429,frederick,isbell,frederick.isbell@sakilacustomer.org,1,"1404 taguig drive",okayama,87212,tsuyama,japan,"2005-05-30 00:58:20","2005-06-01 00:38:20",4.99,"2005-05-30 00:58:20",2
+72,theresa,watson,theresa.watson@sakilacustomer.org,1,"89 allappuzha (alleppey) manor","national capital reg",75444,taguig,philippines,"2005-05-30 01:17:25","2005-06-07 02:00:25",4.99,"2005-05-30 01:17:25",8
+49,joyce,edwards,joyce.edwards@sakilacustomer.org,1,"725 isesaki place",mekka,74428,jedda,"saudi arabia","2005-05-30 01:17:45","2005-06-01 00:56:45",2.99,"2005-05-30 01:17:45",2
+380,russell,brinson,russell.brinson@sakilacustomer.org,1,"1642 charlotte amalie drive",slaskie,75442,tychy,poland,"2005-05-30 01:18:15","2005-06-06 20:20:15",3.99,"2005-05-30 01:18:15",7
+436,troy,quigley,troy.quigley@sakilacustomer.org,1,"983 santa fé way","british colombia",47472,vancouver,canada,"2005-05-30 01:19:53","2005-06-05 23:40:53",5.99,"2005-05-30 01:19:53",6
+449,oscar,aquino,oscar.aquino@sakilacustomer.org,1,"956 nam dinh manor",kerman,21872,sirjan,iran,"2005-05-30 01:23:07","2005-06-07 01:50:07",7.99,"2005-05-30 01:23:07",8
+517,brad,mccurdy,brad.mccurdy@sakilacustomer.org,1,"608 birgunj parkway",taipei,400,chungho,taiwan,"2005-05-30 01:35:12","2005-05-31 01:51:12",4.99,"2005-05-30 01:35:12",1
+530,darryl,ashcraft,darryl.ashcraft@sakilacustomer.org,1,"166 jinchang street","buenos aires",86760,ezeiza,argentina,"2005-05-30 01:35:15","2005-06-06 07:27:15",0.99,"2005-05-30 01:35:15",7
+549,nelson,christenson,nelson.christenson@sakilacustomer.org,1,"1764 jalib al-shuyukh parkway",galicia,77642,"santiago de compostela",spain,"2005-05-30 01:36:57","2005-06-01 22:44:57",4.99,"2005-05-30 01:36:57",2
+122,thelma,murray,thelma.murray@sakilacustomer.org,1,"1175 tanauan way",lima,64615,lima,peru,"2005-05-30 01:43:31","2005-06-01 02:05:31",0.99,"2005-05-30 01:43:31",2
+369,fred,wheat,fred.wheat@sakilacustomer.org,1,"433 florencia street",chihuahua,91330,juárez,mexico,"2005-05-30 01:56:11","2005-06-01 06:34:11",0.99,"2005-05-30 01:56:11",2
+406,nathan,runyon,nathan.runyon@sakilacustomer.org,0,"264 bhimavaram manor","st thomas",54749,"charlotte amalie","virgin islands, u.s.","2005-05-30 02:00:28","2005-06-03 20:16:28",0.99,"2005-05-30 02:00:28",4
+53,heather,morris,heather.morris@sakilacustomer.org,1,"17 kabul boulevard",chiba,38594,nagareyama,japan,"2005-05-30 02:01:21","2005-06-07 03:25:21",9.99,"2005-05-30 02:01:21",8
+204,rosemary,schmidt,rosemary.schmidt@sakilacustomer.org,1,"1215 pyongyang parkway",usak,25238,usak,turkey,"2005-05-30 02:01:23","2005-06-02 06:07:23",4.99,"2005-05-30 02:01:23",3
+358,samuel,marlow,samuel.marlow@sakilacustomer.org,1,"604 bern place",jharkhand,5373,ranchi,india,"2005-05-30 02:10:32","2005-06-01 04:42:32",4.99,"2005-05-30 02:10:32",2
+79,rachel,barnes,rachel.barnes@sakilacustomer.org,1,"586 tete way",kanagawa,1079,kamakura,japan,"2005-05-30 02:36:20","2005-06-02 07:49:20",2.99,"2005-05-30 02:36:20",3
+276,brandy,graves,brandy.graves@sakilacustomer.org,1,"1944 bamenda way",michigan,24645,warren,"united states","2005-05-30 02:45:16","2005-06-08 07:28:16",10.99,"2005-05-30 02:45:16",9
+502,brett,cornwell,brett.cornwell@sakilacustomer.org,1,"1197 sokoto boulevard","west bengali",87687,"siliguri (shiliguri)",india,"2005-05-30 02:48:32","2005-06-06 05:43:32",0.99,"2005-05-30 02:48:32",7
+328,jeffrey,spear,jeffrey.spear@sakilacustomer.org,1,"1860 taguig loop","west java",59550,ciparay,indonesia,"2005-05-30 03:09:11","2005-06-03 21:27:11",2.99,"2005-05-30 03:09:11",4
+379,carlos,coughlin,carlos.coughlin@sakilacustomer.org,1,"97 mogiljov lane",gujarat,89294,bhavnagar,india,"2005-05-30 03:14:59","2005-06-05 04:34:59",4.99,"2005-05-30 03:14:59",6
+544,cody,nolen,cody.nolen@sakilacustomer.org,1,"1715 okayama street","são paulo",55676,"são bernardo do campo",brazil,"2005-05-30 03:27:17","2005-06-06 08:28:17",2.99,"2005-05-30 03:27:17",7
+154,michele,grant,michele.grant@sakilacustomer.org,1,"798 cianjur avenue",shanxi,76990,yuncheng,china,"2005-05-30 03:39:44","2005-06-07 08:10:44",7.99,"2005-05-30 03:39:44",8
+8,susan,wilson,susan.wilson@sakilacustomer.org,1,"478 joliet way",hamilton,77948,hamilton,"new zealand","2005-05-30 03:43:54","2005-06-08 04:28:54",6.99,"2005-05-30 03:43:54",9
+99,emily,diaz,emily.diaz@sakilacustomer.org,1,"588 vila velha manor",kyongsangbuk,51540,kimchon,"south korea","2005-05-30 03:54:43","2005-06-01 22:59:43",0.99,"2005-05-30 03:54:43",2
+28,cynthia,young,cynthia.young@sakilacustomer.org,1,"1425 shikarpur manor",bihar,65599,"munger (monghyr)",india,"2005-05-30 04:19:55","2005-05-31 02:28:55",2.99,"2005-05-30 04:19:55",1
+296,ramona,hale,ramona.hale@sakilacustomer.org,1,"951 stara zagora manor",punjab,98573,patiala,india,"2005-05-30 04:22:06","2005-06-03 09:18:06",4.99,"2005-05-30 04:22:06",4
+391,clarence,gamez,clarence.gamez@sakilacustomer.org,1,"767 pyongyang drive",osaka,83536,izumisano,japan,"2005-05-30 04:25:47","2005-06-06 04:32:47",2.99,"2005-05-30 04:25:47",7
+303,william,satterfield,william.satterfield@sakilacustomer.org,1,"687 alessandria parkway",sanaa,57587,sanaa,yemen,"2005-05-30 05:01:30","2005-06-04 06:22:30",2.99,"2005-05-30 05:01:30",5
+548,allan,cornish,allan.cornish@sakilacustomer.org,1,"947 tórshavn place","central luzon",841,tarlac,philippines,"2005-05-30 05:03:04","2005-06-06 10:35:04",3.99,"2005-05-30 05:03:04",7
+375,aaron,selby,aaron.selby@sakilacustomer.org,1,"1519 santiago de los caballeros loop","east kasai",22025,mwene-ditu,"congo, the democratic republic of the","2005-05-30 05:15:20","2005-06-07 00:49:20",2.99,"2005-05-30 05:15:20",8
+52,julie,sanchez,julie.sanchez@sakilacustomer.org,1,"939 probolinggo loop",galicia,4166,"a coruña (la coruña)",spain,"2005-05-30 05:36:21","2005-06-01 09:32:21",0.99,"2005-05-30 05:36:21",2
+326,jose,andrew,jose.andrew@sakilacustomer.org,1,"1016 iwakuni street","st george",49833,kingstown,"saint vincent and the grenadines","2005-05-30 05:38:24","2005-06-06 00:34:24",6.99,"2005-05-30 05:38:24",7
+339,walter,perryman,walter.perryman@sakilacustomer.org,1,"1909 benguela lane",henan,19913,xinxiang,china,"2005-05-30 05:41:22","2005-06-07 09:06:22",5.99,"2005-05-30 05:41:22",8
+9,margaret,moore,margaret.moore@sakilacustomer.org,1,"613 korolev drive",masqat,45844,masqat,oman,"2005-05-30 05:48:59","2005-06-02 09:30:59",0.99,"2005-05-30 05:48:59",3
+323,matthew,mahan,matthew.mahan@sakilacustomer.org,1,"479 san felipe del progreso avenue",morelos,54949,cuautla,mexico,"2005-05-30 05:49:13","2005-06-07 04:35:13",5.99,"2005-05-30 05:49:13",8
+482,maurice,crawley,maurice.crawley@sakilacustomer.org,0,"1785 são bernardo do campo street",veracruz,71182,coatzacoalcos,mexico,"2005-05-30 05:49:42","2005-06-05 01:45:42",0.99,"2005-05-30 05:49:42",6
+460,leon,bostic,leon.bostic@sakilacustomer.org,1,"734 tanshui avenue",caquet,70664,florencia,colombia,"2005-05-30 06:12:33","2005-06-02 04:35:33",0.99,"2005-05-30 06:12:33",3
+242,glenda,frazier,glenda.frazier@sakilacustomer.org,1,"1246 boksburg parkway",hebei,28349,qinhuangdao,china,"2005-05-30 06:15:36","2005-06-02 10:21:36",4.99,"2005-05-30 06:15:36",3
+477,dan,paine,dan.paine@sakilacustomer.org,1,"808 naçala-porto parkway",england,41060,stockport,"united kingdom","2005-05-30 06:16:06","2005-06-02 11:57:06",2.99,"2005-05-30 06:16:06",3
+399,danny,isom,danny.isom@sakilacustomer.org,1,"734 béchar place",punjab,30586,okara,pakistan,"2005-05-30 06:21:05","2005-06-07 04:50:05",4.99,"2005-05-30 06:21:05",8
+17,donna,thompson,donna.thompson@sakilacustomer.org,1,"270 toulon boulevard",kalmykia,81766,elista,"russian federation","2005-05-30 06:41:32","2005-05-31 07:39:32",4.99,"2005-05-30 06:41:32",1
+62,joan,cooper,joan.cooper@sakilacustomer.org,1,"1717 guadalajara lane",missouri,85505,"saint louis","united states","2005-05-30 06:54:28","2005-06-03 07:03:28",0.99,"2005-05-30 06:54:28",4
+393,philip,causey,philip.causey@sakilacustomer.org,1,"954 lapu-lapu way",moskova,8816,korolev,"russian federation","2005-05-30 06:54:51","2005-06-01 06:04:51",0.99,"2005-05-30 06:54:51",2
+16,sandra,martin,sandra.martin@sakilacustomer.org,0,"360 toulouse parkway",england,54308,southend-on-sea,"united kingdom","2005-05-30 07:10:00","2005-06-01 06:48:00",0.99,"2005-05-30 07:10:00",2
+128,marjorie,tucker,marjorie.tucker@sakilacustomer.org,1,"1050 garden grove avenue",slaskie,4999,jastrzebie-zdrój,poland,"2005-05-30 07:13:14","2005-06-06 09:50:14",5.99,"2005-05-30 07:13:14",7
+114,grace,ellis,grace.ellis@sakilacustomer.org,1,"442 rae bareli place",nordrhein-westfalen,24321,duisburg,germany,"2005-05-30 07:14:53","2005-05-31 07:56:53",2.99,"2005-05-30 07:14:53",1
+349,joe,gilliland,joe.gilliland@sakilacustomer.org,1,"953 hodeida street","southern tagalog",18841,imus,philippines,"2005-05-30 07:43:04","2005-06-01 11:26:04",4.99,"2005-05-30 07:43:04",2
+391,clarence,gamez,clarence.gamez@sakilacustomer.org,1,"767 pyongyang drive",osaka,83536,izumisano,japan,"2005-05-30 07:43:12","2005-06-08 09:21:12",7.99,"2005-05-30 07:43:12",9
+274,naomi,jennings,naomi.jennings@sakilacustomer.org,1,"1884 shikarpur avenue",haryana,85548,karnal,india,"2005-05-30 08:02:56","2005-06-05 12:51:56",4.99,"2005-05-30 08:02:56",6
+502,brett,cornwell,brett.cornwell@sakilacustomer.org,1,"1197 sokoto boulevard","west bengali",87687,"siliguri (shiliguri)",india,"2005-05-30 08:06:59","2005-06-07 08:23:59",2.99,"2005-05-30 08:06:59",8
+400,bryan,hardison,bryan.hardison@sakilacustomer.org,1,"530 lausanne lane",texas,11067,dallas,"united states","2005-05-30 08:31:31","2005-06-07 12:39:31",5.99,"2005-05-30 08:31:31",8
+192,laurie,lawrence,laurie.lawrence@sakilacustomer.org,1,"9 san miguel de tucumán manor","uttar pradesh",90845,firozabad,india,"2005-05-30 08:50:43","2005-06-05 10:58:43",1.99,"2005-05-30 08:50:43",6
+207,gertrude,castillo,gertrude.castillo@sakilacustomer.org,1,"850 salala loop",kitaa,10800,nuuk,greenland,"2005-05-30 09:03:52","2005-06-05 07:37:52",3.99,"2005-05-30 09:03:52",6
+432,edwin,burk,edwin.burk@sakilacustomer.org,1,"1766 almirante brown street",kwazulu-natal,63104,newcastle,"south africa","2005-05-30 09:10:01","2005-06-08 03:43:01",8.99,"2005-05-30 09:10:01",9
+384,ernest,stepp,ernest.stepp@sakilacustomer.org,1,"500 lincoln parkway",ji´angsu,95509,huai´an,china,"2005-05-30 09:26:19","2005-06-01 10:45:19",0.99,"2005-05-30 09:26:19",2
+156,bertha,ferguson,bertha.ferguson@sakilacustomer.org,1,"1367 yantai manor","ondo & ekiti",21294,ondo,nigeria,"2005-05-30 09:29:30","2005-06-06 12:39:30",6.99,"2005-05-30 09:29:30",7
+586,kirk,stclair,kirk.stclair@sakilacustomer.org,1,"1923 stara zagora lane",nantou,95179,tsaotun,taiwan,"2005-05-30 09:38:41","2005-06-07 11:54:41",8.99,"2005-05-30 09:38:41",8
+259,lena,jensen,lena.jensen@sakilacustomer.org,1,"1027 banjul place","west bengali",50390,halisahar,india,"2005-05-30 09:40:40","2005-06-02 10:32:40",2.99,"2005-05-30 09:40:40",3
+561,ian,still,ian.still@sakilacustomer.org,1,"1894 boa vista way",texas,77464,garland,"united states","2005-05-30 09:53:36","2005-06-07 12:10:36",4.99,"2005-05-30 09:53:36",8
+197,sue,peters,sue.peters@sakilacustomer.org,1,"817 bradford loop",ji´angsu,89459,changzhou,china,"2005-05-30 10:11:29","2005-06-03 09:33:29",3.99,"2005-05-30 10:11:29",4
+44,marie,turner,marie.turner@sakilacustomer.org,1,"1998 halifax drive",lipetsk,76022,lipetsk,"russian federation","2005-05-30 10:19:42","2005-06-05 04:58:42",2.99,"2005-05-30 10:19:42",6
+50,diane,collins,diane.collins@sakilacustomer.org,1,"115 hidalgo parkway",khartum,80168,omdurman,sudan,"2005-05-30 10:25:00","2005-06-06 06:23:00",4.99,"2005-05-30 10:25:00",7
+549,nelson,christenson,nelson.christenson@sakilacustomer.org,1,"1764 jalib al-shuyukh parkway",galicia,77642,"santiago de compostela",spain,"2005-05-30 10:30:38","2005-06-07 06:44:38",3.99,"2005-05-30 10:30:38",8
+506,leslie,seward,leslie.seward@sakilacustomer.org,1,"1152 al-qatif lane","kalimantan barat",44816,pontianak,indonesia,"2005-05-30 10:37:27","2005-06-02 09:51:27",0.99,"2005-05-30 10:37:27",3
+85,anne,powell,anne.powell@sakilacustomer.org,1,"1557 kütahya boulevard",england,88002,bradford,"united kingdom","2005-05-30 10:38:37","2005-06-03 09:56:37",4.99,"2005-05-30 10:38:37",4
+486,glen,talbert,glen.talbert@sakilacustomer.org,1,"1789 saint-denis parkway","coahuila de zaragoza",8268,acuña,mexico,"2005-05-30 10:43:38","2005-06-08 12:07:38",8.99,"2005-05-30 10:43:38",9
+374,jeremy,hurtado,jeremy.hurtado@sakilacustomer.org,1,"1133 rizhao avenue",pernambuco,2800,"vitória de santo antão",brazil,"2005-05-30 10:46:16","2005-06-04 13:32:16",2.99,"2005-05-30 10:46:16",5
+366,brandon,huey,brandon.huey@sakilacustomer.org,1,"1912 emeishan drive",balikesir,33050,balikesir,turkey,"2005-05-30 10:50:22","2005-06-07 12:26:22",6.99,"2005-05-30 10:50:22",8
+390,shawn,heaton,shawn.heaton@sakilacustomer.org,1,"1337 mit ghamr avenue","nakhon sawan",29810,"nakhon sawan",thailand,"2005-05-30 10:58:33","2005-05-31 09:31:33",4.99,"2005-05-30 10:58:33",1
+369,fred,wheat,fred.wheat@sakilacustomer.org,1,"433 florencia street",chihuahua,91330,juárez,mexico,"2005-05-30 11:04:58","2005-06-07 13:22:58",7.99,"2005-05-30 11:04:58",8
+596,enrique,forsythe,enrique.forsythe@sakilacustomer.org,1,"1101 bucuresti boulevard","west greece",97661,patras,greece,"2005-05-30 11:06:00","2005-06-04 06:07:00",2.99,"2005-05-30 11:06:00",5
+115,wendy,harrison,wendy.harrison@sakilacustomer.org,1,"1107 nakhon sawan avenue",mxico,75149,nezahualcóyotl,mexico,"2005-05-30 11:20:27","2005-06-02 11:55:27",0.99,"2005-05-30 11:20:27",3
+6,jennifer,davis,jennifer.davis@sakilacustomer.org,1,"1795 santiago de compostela way",texas,18743,laredo,"united states","2005-05-30 11:25:01","2005-05-31 09:06:01",0.99,"2005-05-30 11:25:01",1
+385,phillip,holm,phillip.holm@sakilacustomer.org,1,"102 chapra drive",ibaragi,14073,tama,japan,"2005-05-30 11:27:06","2005-06-02 08:31:06",2.99,"2005-05-30 11:27:06",3
+197,sue,peters,sue.peters@sakilacustomer.org,1,"817 bradford loop",ji´angsu,89459,changzhou,china,"2005-05-30 11:32:24","2005-05-31 07:55:24",0.99,"2005-05-30 11:32:24",1
+374,jeremy,hurtado,jeremy.hurtado@sakilacustomer.org,1,"1133 rizhao avenue",pernambuco,2800,"vitória de santo antão",brazil,"2005-05-30 11:35:06","2005-06-02 13:16:06",0.99,"2005-05-30 11:35:06",3
+584,salvador,teel,salvador.teel@sakilacustomer.org,1,"247 jining parkway",banjul,53446,banjul,gambia,"2005-05-30 11:44:01","2005-06-02 08:19:01",4.99,"2005-05-30 11:44:01",3
+508,milton,howland,milton.howland@sakilacustomer.org,1,"758 korolev parkway","andhra pradesh",75474,vijayawada,india,"2005-05-30 11:53:09","2005-06-03 10:00:09",2.99,"2005-05-30 11:53:09",4
+550,guy,brownlee,guy.brownlee@sakilacustomer.org,1,"346 cam ranh avenue",zhejiang,39976,zhoushan,china,"2005-05-30 11:55:55","2005-06-08 10:12:55",7.99,"2005-05-30 11:55:55",9
+37,pamela,baker,pamela.baker@sakilacustomer.org,1,"1440 fukuyama loop",henan,47929,nanyang,china,"2005-05-30 11:58:50","2005-06-05 09:57:50",2.99,"2005-05-30 11:58:50",6
+293,mae,fletcher,mae.fletcher@sakilacustomer.org,1,"44 najafabad way",baskimaa,61391,"donostia-san sebastián",spain,"2005-05-30 12:10:59","2005-06-04 17:28:59",4.99,"2005-05-30 12:10:59",5
+137,rhonda,kennedy,rhonda.kennedy@sakilacustomer.org,1,"1749 daxian place",gelderland,11044,apeldoorn,netherlands,"2005-05-30 12:13:52","2005-06-02 14:41:52",2.99,"2005-05-30 12:13:52",3
+76,irene,price,irene.price@sakilacustomer.org,1,"602 paarl street",pavlodar,98889,pavlodar,kazakstan,"2005-05-30 12:15:54","2005-06-01 08:53:54",0.99,"2005-05-30 12:15:54",2
+167,sally,pierce,sally.pierce@sakilacustomer.org,1,"1540 wroclaw drive",maharashtra,62686,chandrapur,india,"2005-05-30 12:16:40","2005-05-31 16:20:40",4.99,"2005-05-30 12:16:40",1
+79,rachel,barnes,rachel.barnes@sakilacustomer.org,1,"586 tete way",kanagawa,1079,kamakura,japan,"2005-05-30 12:27:14","2005-06-05 13:56:14",2.99,"2005-05-30 12:27:14",6
+536,fernando,churchill,fernando.churchill@sakilacustomer.org,1,"193 bhusawal place",kang-won,9750,tonghae,"south korea","2005-05-30 12:32:39","2005-06-06 12:17:39",6.99,"2005-05-30 12:32:39",7
+141,debbie,reyes,debbie.reyes@sakilacustomer.org,1,"928 jaffna loop",hiroshima,93762,fukuyama,japan,"2005-05-30 12:44:57","2005-06-04 10:53:57",2.99,"2005-05-30 12:44:57",5
+421,lee,hawks,lee.hawks@sakilacustomer.org,1,"1661 abha drive","tamil nadu",14400,pudukkottai,india,"2005-05-30 12:53:01","2005-05-31 14:28:01",0.99,"2005-05-30 12:53:01",1
+198,elsie,kelley,elsie.kelley@sakilacustomer.org,1,"955 bamenda way","ondo & ekiti",1545,ikerre,nigeria,"2005-05-30 12:55:36","2005-05-31 10:30:36",2.99,"2005-05-30 12:55:36",1
+66,janice,ward,janice.ward@sakilacustomer.org,1,"1150 kimchon manor","skne ln",96109,malmö,sweden,"2005-05-30 13:08:45","2005-06-01 18:56:45",4.99,"2005-05-30 13:08:45",2
+60,mildred,bailey,mildred.bailey@sakilacustomer.org,1,"81 hodeida way",rajasthan,55561,jaipur,india,"2005-05-30 13:24:46","2005-06-08 16:44:46",2.99,"2005-05-30 13:24:46",9
+256,mabel,holland,mabel.holland@sakilacustomer.org,1,"51 laredo avenue",sagaing,68146,monywa,myanmar,"2005-05-30 13:29:36","2005-06-02 11:08:36",2.99,"2005-05-30 13:29:36",3
+469,wesley,bull,wesley.bull@sakilacustomer.org,1,"1469 plock lane",galicia,95835,"ourense (orense)",spain,"2005-05-30 13:52:49","2005-06-07 16:56:49",1.99,"2005-05-30 13:52:49",8
+304,david,royal,david.royal@sakilacustomer.org,1,"827 yuncheng drive",callao,79047,callao,peru,"2005-05-30 14:47:31","2005-06-05 09:53:31",2.99,"2005-05-30 14:47:31",6
+46,catherine,campbell,catherine.campbell@sakilacustomer.org,1,"46 pjatigorsk lane","moscow (city)",23616,moscow,"russian federation","2005-05-30 14:47:31","2005-06-04 10:10:31",2.99,"2005-05-30 14:47:31",5
+367,adam,gooch,adam.gooch@sakilacustomer.org,1,"230 urawa drive","andhra pradesh",2738,adoni,india,"2005-05-30 14:49:34","2005-06-01 19:00:34",0.99,"2005-05-30 14:49:34",2
+534,christian,jung,christian.jung@sakilacustomer.org,0,"949 allende lane","uttar pradesh",67521,amroha,india,"2005-05-30 15:01:02","2005-06-01 18:26:02",0.99,"2005-05-30 15:01:02",2
+562,wallace,slone,wallace.slone@sakilacustomer.org,1,"1342 sharja way","sokoto & kebbi & zam",93655,sokoto,nigeria,"2005-05-30 15:02:25","2005-06-01 17:19:25",2.99,"2005-05-30 15:02:25",2
+473,jorge,olivares,jorge.olivares@sakilacustomer.org,1,"1078 stara zagora drive",aceh,69221,lhokseumawe,indonesia,"2005-05-30 15:05:47","2005-06-08 15:59:47",2.99,"2005-05-30 15:05:47",9
+57,evelyn,morgan,evelyn.morgan@sakilacustomer.org,1,"943 tokat street",vaduz,45428,vaduz,liechtenstein,"2005-05-30 15:20:19","2005-06-06 18:53:19",4.99,"2005-05-30 15:20:19",7
+131,monica,hicks,monica.hicks@sakilacustomer.org,1,"1752 são leopoldo parkway",taka-karpatia,14014,mukatševe,ukraine,"2005-05-30 15:26:24","2005-06-07 18:09:24",7.99,"2005-05-30 15:26:24",8
+357,keith,rico,keith.rico@sakilacustomer.org,1,"482 kowloon and new kowloon manor",bratislava,97056,bratislava,slovakia,"2005-05-30 15:33:17","2005-06-02 15:02:17",0.99,"2005-05-30 15:33:17",3
+486,glen,talbert,glen.talbert@sakilacustomer.org,1,"1789 saint-denis parkway","coahuila de zaragoza",8268,acuña,mexico,"2005-05-30 15:35:08","2005-06-08 11:38:08",2.99,"2005-05-30 15:35:08",9
+62,joan,cooper,joan.cooper@sakilacustomer.org,1,"1717 guadalajara lane",missouri,85505,"saint louis","united states","2005-05-30 15:36:57","2005-06-04 18:48:57",4.99,"2005-05-30 15:36:57",5
+245,courtney,day,courtney.day@sakilacustomer.org,1,"300 junan street",kyonggi,81314,uijongbu,"south korea","2005-05-30 15:44:27","2005-06-08 17:30:27",8.99,"2005-05-30 15:44:27",9
+368,harry,arce,harry.arce@sakilacustomer.org,0,"1922 miraj way",esfahan,13203,najafabad,iran,"2005-05-30 15:50:39","2005-06-03 14:25:39",2.99,"2005-05-30 15:50:39",4
+83,louise,jenkins,louise.jenkins@sakilacustomer.org,1,"929 tallahassee loop",gauteng,74671,springs,"south africa","2005-05-30 16:06:08","2005-06-01 11:43:08",0.99,"2005-05-30 16:06:08",2
+59,cheryl,murphy,cheryl.murphy@sakilacustomer.org,1,"1213 ranchi parkway",karnataka,94352,mysore,india,"2005-05-30 16:10:35","2005-05-31 19:01:35",2.99,"2005-05-30 16:10:35",1
+311,paul,trout,paul.trout@sakilacustomer.org,1,"746 joliet lane",kursk,94878,kursk,"russian federation","2005-05-30 16:28:07","2005-06-02 16:12:07",2.99,"2005-05-30 16:28:07",3
+210,ella,oliver,ella.oliver@sakilacustomer.org,1,"751 lima loop",aden,99405,aden,yemen,"2005-05-30 16:34:02","2005-05-31 20:34:02",2.99,"2005-05-30 16:34:02",1
+297,sherri,rhodes,sherri.rhodes@sakilacustomer.org,1,"922 vila velha loop",maharashtra,4085,ahmadnagar,india,"2005-05-30 16:57:29","2005-06-08 13:30:29",3.99,"2005-05-30 16:57:29",9
+301,robert,baughman,robert.baughman@sakilacustomer.org,1,"1883 maikop lane",kaliningrad,68469,kaliningrad,"russian federation","2005-05-30 16:59:03","2005-05-31 11:58:03",0.99,"2005-05-30 16:59:03",1
+296,ramona,hale,ramona.hale@sakilacustomer.org,1,"951 stara zagora manor",punjab,98573,patiala,india,"2005-05-30 17:30:28","2005-06-07 13:54:28",2.99,"2005-05-30 17:30:28",8
+440,bernard,colby,bernard.colby@sakilacustomer.org,1,"495 bhimavaram lane",maharashtra,3,"dhule (dhulia)",india,"2005-05-30 17:53:29","2005-06-03 15:31:29",4.99,"2005-05-30 17:53:29",4
+186,holly,fox,holly.fox@sakilacustomer.org,1,"435 0 way","west bengali",74750,haldia,india,"2005-05-30 17:58:03","2005-06-01 19:17:03",0.99,"2005-05-30 17:58:03",2
+535,javier,elrod,javier.elrod@sakilacustomer.org,1,"195 ilorin street",chari-baguirmi,49250,ndjamna,chad,"2005-05-30 18:07:00","2005-06-02 14:37:00",4.99,"2005-05-30 18:07:00",3
+445,micheal,forman,micheal.forman@sakilacustomer.org,1,"203 tambaram street","buenos aires",73942,escobar,argentina,"2005-05-30 18:13:23","2005-06-04 00:12:23",2.99,"2005-05-30 18:13:23",5
+588,marion,ocampo,marion.ocampo@sakilacustomer.org,1,"1464 kursk parkway",shandong,17381,weifang,china,"2005-05-30 18:16:44","2005-06-04 23:40:44",4.99,"2005-05-30 18:16:44",5
+520,mitchell,westmoreland,mitchell.westmoreland@sakilacustomer.org,1,"617 klerksdorp place","khanh hoa",94707,"nha trang",vietnam,"2005-05-30 18:45:17","2005-06-05 22:47:17",6.99,"2005-05-30 18:45:17",6
+225,arlene,harvey,arlene.harvey@sakilacustomer.org,1,"1014 loja manor","tamil nadu",66851,ambattur,india,"2005-05-30 18:52:53","2005-06-07 16:19:53",3.99,"2005-05-30 18:52:53",8
+287,becky,miles,becky.miles@sakilacustomer.org,1,"1993 tabuk lane","tamil nadu",64221,tambaram,india,"2005-05-30 18:53:21","2005-06-04 22:32:21",2.99,"2005-05-30 18:53:21",5
+502,brett,cornwell,brett.cornwell@sakilacustomer.org,1,"1197 sokoto boulevard","west bengali",87687,"siliguri (shiliguri)",india,"2005-05-30 19:00:14","2005-05-31 17:10:14",0.99,"2005-05-30 19:00:14",1
+496,tyler,wren,tyler.wren@sakilacustomer.org,1,"1060 tandil lane",shandong,72349,rizhao,china,"2005-05-30 19:00:37","2005-05-31 23:51:37",0.99,"2005-05-30 19:00:37",1
+330,scott,shelley,scott.shelley@sakilacustomer.org,1,"587 benguela manor",illinois,91590,aurora,"united states","2005-05-30 19:12:06","2005-06-09 00:02:06",7.99,"2005-05-30 19:12:06",10
+576,morris,mccarter,morris.mccarter@sakilacustomer.org,1,"1568 celaya parkway",kaohsiung,34750,fengshan,taiwan,"2005-05-30 19:20:03","2005-05-31 18:17:03",0.99,"2005-05-30 19:20:03",1
+551,clayton,barbee,clayton.barbee@sakilacustomer.org,1,"1407 pachuca de soto place","rio grande do sul",26284,alvorada,brazil,"2005-05-30 19:23:48","2005-05-31 21:14:48",4.99,"2005-05-30 19:23:48",1
+307,joseph,joy,joseph.joy@sakilacustomer.org,1,"1354 siegen street","rio de janeiro",80184,"angra dos reis",brazil,"2005-05-30 19:50:28","2005-06-09 01:19:28",6.99,"2005-05-30 19:50:28",10
+561,ian,still,ian.still@sakilacustomer.org,1,"1894 boa vista way",texas,77464,garland,"united states","2005-05-30 20:10:52","2005-06-06 20:47:52",4.99,"2005-05-30 20:10:52",7
+411,norman,currier,norman.currier@sakilacustomer.org,1,"1445 carmen parkway","west java",70809,cianjur,indonesia,"2005-05-30 20:21:07","2005-06-06 00:36:07",1.99,"2005-05-30 20:21:07",7
+473,jorge,olivares,jorge.olivares@sakilacustomer.org,1,"1078 stara zagora drive",aceh,69221,lhokseumawe,indonesia,"2005-05-30 20:27:45","2005-06-08 22:47:45",3.99,"2005-05-30 20:27:45",9
+596,enrique,forsythe,enrique.forsythe@sakilacustomer.org,1,"1101 bucuresti boulevard","west greece",97661,patras,greece,"2005-05-30 20:28:42","2005-06-08 23:45:42",6.99,"2005-05-30 20:28:42",9
+7,maria,miller,maria.miller@sakilacustomer.org,1,"900 santiago de compostela parkway","central serbia",93896,kragujevac,yugoslavia,"2005-05-30 21:07:15","2005-06-03 01:48:15",4.99,"2005-05-30 21:07:15",4
+581,virgil,wofford,virgil.wofford@sakilacustomer.org,1,"760 miyakonojo drive",guerrero,64682,"josé azueta",mexico,"2005-05-30 21:11:19","2005-06-06 02:16:19",4.99,"2005-05-30 21:11:19",7
+394,chris,brothers,chris.brothers@sakilacustomer.org,1,"331 bydgoszcz parkway",asturia,966,gijón,spain,"2005-05-30 21:22:26","2005-06-04 22:32:26",2.99,"2005-05-30 21:22:26",5
+154,michele,grant,michele.grant@sakilacustomer.org,1,"798 cianjur avenue",shanxi,76990,yuncheng,china,"2005-05-30 21:30:52","2005-06-07 16:22:52",5.99,"2005-05-30 21:30:52",8
+279,dianne,shelton,dianne.shelton@sakilacustomer.org,1,"600 bradford street","east azerbaidzan",96204,tabriz,iran,"2005-05-30 21:37:11","2005-06-08 00:24:11",2.99,"2005-05-30 21:37:11",9
+273,priscilla,lowe,priscilla.lowe@sakilacustomer.org,1,"144 south hill loop",guanajuato,2012,salamanca,mexico,"2005-05-30 21:45:19","2005-06-01 20:32:19",0.99,"2005-05-30 21:45:19",2
+326,jose,andrew,jose.andrew@sakilacustomer.org,1,"1016 iwakuni street","st george",49833,kingstown,"saint vincent and the grenadines","2005-05-30 21:52:42","2005-06-01 03:15:42",4.99,"2005-05-30 21:52:42",2
+524,jared,ely,jared.ely@sakilacustomer.org,1,"1003 qinhuangdao street","west java",25972,purwakarta,indonesia,"2005-05-30 22:15:24","2005-06-02 16:18:24",4.99,"2005-05-30 22:15:24",3
+115,wendy,harrison,wendy.harrison@sakilacustomer.org,1,"1107 nakhon sawan avenue",mxico,75149,nezahualcóyotl,mexico,"2005-05-30 22:15:51","2005-06-02 22:56:51",0.99,"2005-05-30 22:15:51",3
+262,patsy,davidson,patsy.davidson@sakilacustomer.org,1,"816 cayenne parkway",manab,93629,portoviejo,ecuador,"2005-05-30 22:17:17","2005-06-01 20:15:17",4.99,"2005-05-30 22:17:17",2
+564,bob,pfeiffer,bob.pfeiffer@sakilacustomer.org,1,"415 pune avenue",shandong,44274,xintai,china,"2005-05-30 22:18:35","2005-06-04 23:36:35",2.99,"2005-05-30 22:18:35",5
+253,terry,carlson,terry.carlson@sakilacustomer.org,1,"752 ondo loop",miyazaki,32474,miyakonojo,japan,"2005-05-30 22:22:52","2005-06-01 02:24:52",2.99,"2005-05-30 22:22:52",2
+11,lisa,anderson,lisa.anderson@sakilacustomer.org,1,"1542 tarlac parkway",kanagawa,1027,sagamihara,japan,"2005-05-30 22:59:12","2005-06-07 20:56:12",6.99,"2005-05-30 22:59:12",8
+12,nancy,thomas,nancy.thomas@sakilacustomer.org,1,"808 bhopal manor",haryana,10672,"yamuna nagar",india,"2005-05-30 23:08:03","2005-06-07 00:22:03",4.99,"2005-05-30 23:08:03",8
+83,louise,jenkins,louise.jenkins@sakilacustomer.org,1,"929 tallahassee loop",gauteng,74671,springs,"south africa","2005-05-30 23:11:51","2005-06-03 20:36:51",2.99,"2005-05-30 23:11:51",4
+311,paul,trout,paul.trout@sakilacustomer.org,1,"746 joliet lane",kursk,94878,kursk,"russian federation","2005-05-30 23:25:14","2005-06-06 18:41:14",3.99,"2005-05-30 23:25:14",7
+593,rene,mcalister,rene.mcalister@sakilacustomer.org,1,"1895 zhezqazghan drive",california,36693,"garden grove","united states","2005-05-30 23:29:22","2005-06-07 23:16:22",8.99,"2005-05-30 23:29:22",8
+123,shannon,freeman,shannon.freeman@sakilacustomer.org,1,"117 boa vista way","uttar pradesh",6804,"varanasi (benares)",india,"2005-05-30 23:47:56","2005-06-05 19:01:56",2.99,"2005-05-30 23:47:56",6
+513,duane,tubbs,duane.tubbs@sakilacustomer.org,1,"962 tama loop",,65952,yangor,nauru,"2005-05-30 23:54:19","2005-06-04 21:27:19",4.99,"2005-05-30 23:54:19",5
+472,greg,robins,greg.robins@sakilacustomer.org,1,"1786 salinas place","nam ha",66546,"nam dinh",vietnam,"2005-05-30 23:55:36","2005-06-04 01:00:36",4.99,"2005-05-30 23:55:36",5
+150,danielle,daniels,danielle.daniels@sakilacustomer.org,1,"781 shimonoseki drive","michoacn de ocampo",95444,hidalgo,mexico,"2005-05-31 00:06:02","2005-06-06 02:30:02",3.99,"2005-05-31 00:06:02",6
+331,eric,robert,eric.robert@sakilacustomer.org,1,"430 kumbakonam drive","santa fé",28814,"santa fé",argentina,"2005-05-31 00:06:20","2005-05-31 21:29:20",2.99,"2005-05-31 00:06:20",0
+216,natalie,meyer,natalie.meyer@sakilacustomer.org,1,"1201 qomsheh manor",gois,21464,"aparecida de goiânia",brazil,"2005-05-31 00:08:25","2005-06-02 00:17:25",4.99,"2005-05-31 00:08:25",2
+389,alan,kahn,alan.kahn@sakilacustomer.org,1,"753 ilorin avenue",sichuan,3656,emeishan,china,"2005-05-31 00:16:57","2005-06-01 22:41:57",4.99,"2005-05-31 00:16:57",1
+413,marvin,yee,marvin.yee@sakilacustomer.org,1,"126 acuña parkway","west bengali",58888,"berhampore (baharampur)",india,"2005-05-31 00:25:10","2005-06-03 06:05:10",4.99,"2005-05-31 00:25:10",3
+332,stephen,qualls,stephen.qualls@sakilacustomer.org,1,"1838 tabriz lane",dhaka,1195,dhaka,bangladesh,"2005-05-31 00:25:56","2005-06-08 19:42:56",6.99,"2005-05-31 00:25:56",8
+64,judith,cox,judith.cox@sakilacustomer.org,0,"1966 amroha avenue",sichuan,70385,daxian,china,"2005-05-31 00:46:31","2005-06-06 06:14:31",2.99,"2005-05-31 00:46:31",6
